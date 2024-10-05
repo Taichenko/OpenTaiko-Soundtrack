@@ -3954,15 +3954,15 @@
             "01 OpenTaiko Chapter I/034 - The World of Our Past/world.png"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "0127f0882fdb0ea5ca49a280818cadc8",
+        "tjaMD5": "3a8cd2117dd70fa1e54747300ccbde59",
         "chartSize": 10.0,
         "chartTitle": "The World of Our Past",
         "chartSubtitle": "DashyDesu & rainfall",
         "chartDifficulties": {
-            "3": 8,
-            "2": 7,
-            "1": 4,
-            "0": 3
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 3
         },
         "chartAudioFilePath": "01 OpenTaiko Chapter I/034 - The World of Our Past/world.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I/034 - The World of Our Past/world.png"
