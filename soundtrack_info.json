@@ -1,1 +1,4414 @@
-[]
+[
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy",
+        "tjaFilesPath": [
+            "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/uniqueID.json",
+            "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/B-Happy.ogg",
+            "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/credits.txt",
+            "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/jacket.png",
+            "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/B-Happy.tja"
+        ],
+        "tjaGenreFolder": "C01 Project Outfox Serenity",
+        "tjaMD5": "3b5cca5546ad95a57611b453e2789c1f",
+        "chartSize": 2.05,
+        "chartTitle": "B-Happy",
+        "chartSubtitle": "Ace of Beat / Project OutFox\uff1a Serenity",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 5,
+            "Oni": 7
+        },
+        "chartAudioFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/B-Happy.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S02 - B-Happy/jacket.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~",
+        "tjaFilesPath": [
+            "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/uniqueID.json",
+            "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/brokenHeart-resurrection-_estelle_.tja",
+            "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/FractalHeart-jk.png",
+            "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/brokenHeart-resurrection-_estelle_.ogg",
+            "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/credits.txt"
+        ],
+        "tjaGenreFolder": "C01 Project Outfox Serenity",
+        "tjaMD5": "4c7d8b3e0ee592f40bdde338322cf3f1",
+        "chartSize": 2.44,
+        "chartTitle": "brokenHeart resurrection ~estelle~",
+        "chartSubtitle": "RILEY / Project OutFox\uff1a Serenity",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 7,
+            "Hard": 8,
+            "Oni": 10.9
+        },
+        "chartAudioFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/brokenHeart-resurrection-_estelle_.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S05 - brokenHeart resurrection ~estelle~/FractalHeart-jk.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)",
+        "tjaFilesPath": [
+            "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/uniqueID.json",
+            "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/What Year Is This (OutFox Edit).tja",
+            "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/What Year Is This (OutFox Edit).png",
+            "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/What Year Is This (OutFox Edit).ogg",
+            "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/license.txt"
+        ],
+        "tjaGenreFolder": "C01 Project Outfox Serenity",
+        "tjaMD5": "aaeab3e6f6d1fc6f4ab45f630cfcdecd",
+        "chartSize": 3.67,
+        "chartTitle": "What Year Is This (OutFox Edit)",
+        "chartSubtitle": "Sevish / Project OutFox\uff1a Serenity",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/What Year Is This (OutFox Edit).ogg",
+        "chartJacketFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S03 - What Year Is This (OutFox Edit)/What Year Is This (OutFox Edit).png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light",
+        "tjaFilesPath": [
+            "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/uniqueID.json",
+            "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/Eradication of Light.jpg",
+            "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/Eradication of Light.ogg",
+            "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/Eradication of Light.tja",
+            "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/license.txt"
+        ],
+        "tjaGenreFolder": "C01 Project Outfox Serenity",
+        "tjaMD5": "6df6986991d9ccb639668646cfda3ca4",
+        "chartSize": 4.32,
+        "chartTitle": "Eradication of Light",
+        "chartSubtitle": "Mintorment / Project OutFox\uff1a Serenity",
+        "chartDifficulties": {
+            "Easy": 5,
+            "Normal": 6,
+            "Hard": 7,
+            "Oni": 10.2
+        },
+        "chartAudioFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/Eradication of Light.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S04 - Eradication of Light/Eradication of Light.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion",
+        "tjaFilesPath": [
+            "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/uniqueID.json",
+            "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/Relaxation Piece of Conclusion.ogg",
+            "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/Relaxation Piece of Conclusion.tja",
+            "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/Relaxation Piece of Conclusion.png",
+            "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/license.txt"
+        ],
+        "tjaGenreFolder": "C01 Project Outfox Serenity",
+        "tjaMD5": "adb60c5dd38ad10d0e1789500d4b43c1",
+        "chartSize": 3.54,
+        "chartTitle": "Relaxation Piece of Conclusion",
+        "chartSubtitle": "Zenth / Project OutFox\uff1a Serenity",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 5,
+            "Normal": 2,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/Relaxation Piece of Conclusion.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C01 Project Outfox Serenity/S01 - Relaxation Piece of Conclusion/Relaxation Piece of Conclusion.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T07 - Abyss",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T07 - Abyss/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T07 - Abyss/Abyss.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T07 - Abyss/Abyss.tja"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "1d8af1725998e40dca2fcd158cd23629",
+        "chartSize": 10.18,
+        "chartTitle": "Abyss",
+        "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T07 - Abyss/Abyss.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/Journey.tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/Journey.png",
+            "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/Journey.vtt",
+            "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/Journey.ogg"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "3abc299dab9f3d707ac2a3a16a0783db",
+        "chartSize": 5.48,
+        "chartTitle": "Journey",
+        "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Tsuu",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/Journey.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T06 - Journey/Journey.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate/Exterminate.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate/Exterminate.jpg",
+            "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate/Exterminate.tja"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "bf0f07aac243c14b8648f5e821c91f77",
+        "chartSize": 11.07,
+        "chartTitle": "Exterminate",
+        "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate/Exterminate.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T08 - Exterminate/Exterminate.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/Confession.tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/Confession.vtt",
+            "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/Confession.png",
+            "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/Confession.ogg"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "0c527ae3284d53172cf09bf6c3f4cc52",
+        "chartSize": 5.43,
+        "chartTitle": "Confession",
+        "chartSubtitle": "Touhou Project Arrange / TTL ft. Kanata",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Easy": 2,
+            "Normal": 4,
+            "Hard": 3
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/Confession.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T04 - Confession/Confession.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom/Imperfect Cherry Blossom.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom/Imperfect Cherry Blossom.jpg",
+            "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom/Imperfect Cherry Blossom.tja"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "05d2d7226c085f89b6554c7c9fca5084",
+        "chartSize": 3.79,
+        "chartTitle": "Imperfect Cherry Blossom",
+        "chartSubtitle": "Touhou Project Arrange / Whitetail",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom/Imperfect Cherry Blossom.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T09 - Imperfect Cherry Blossom/Imperfect Cherry Blossom.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident/The Scarlet Fog Machine Incident.png",
+            "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident/The Scarlet Fog Machine Incident.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident/The Scarlet Fog Machine Incident.tja"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "bbfa7b064e44f71a154ce04f31475163",
+        "chartSize": 3.4,
+        "chartTitle": "Remilia, Watashi no Kage ~ The Scarlet Fog Machine Incident",
+        "chartSubtitle": "Touhou Project Arrange / Jezebel Ciccone",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident/The Scarlet Fog Machine Incident.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T03 - The Scarlet Fog Machine Incident/The Scarlet Fog Machine Incident.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala/Evil Gala.png",
+            "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala/Evil Gala.tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala/Evil Gala.ogg"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "3cfd91b3fedcff3639b6867e3ea10a1f",
+        "chartSize": 9.48,
+        "chartTitle": "Evil Gala",
+        "chartSubtitle": "Touhou Project Arrange / Moox",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 4,
+            "Hard": 5,
+            "Oni": 8
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala/Evil Gala.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T01 - Evil Gala/Evil Gala.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/BLINDED CRITICISM (OpenTaiko Edit).vtt",
+            "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/BLINDED CRITICISM (OpenTaiko Edit).ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/BLINDED CRITICISM (OpenTaiko Edit).tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/BLINDED CRITICISM (OpenTaiko Edit).png"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "a2906f47f9d074bd611776910987a455",
+        "chartSize": 5.13,
+        "chartTitle": "BLINDED CRITICISM (OpenTaiko Edit)",
+        "chartSubtitle": "Touhou Project Arrange / DeBisco & Zovi",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4,
+            "Edit": 11.1
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/BLINDED CRITICISM (OpenTaiko Edit).ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T12 - BLINDED CRITICISM/BLINDED CRITICISM (OpenTaiko Edit).png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/War Zone.png",
+            "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/War Zone.tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/War Zone.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/War Zone.vtt"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "16a2b41f63334337c070d3e3012f831d",
+        "chartSize": 3.07,
+        "chartTitle": "War Zone",
+        "chartSubtitle": "Touhou Project Arrange / WORLDWIDEWOLF feat. Timothy",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/War Zone.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T05 - War Zone/War Zone.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/Spread My Wings.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/Spread My Wings.tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/Spread My Wings.png",
+            "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/Spread My Wings.vtt"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "cc3f696e1702c3c697a8fed5185a3467",
+        "chartSize": 3.61,
+        "chartTitle": "Spread My Wings",
+        "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Slothington",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/Spread My Wings.ogg",
+        "chartJacketFilePath": "L1 Collaborations/C02 Touhou Arrangements/T02 - Spread My Wings/Spread My Wings.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T10 - Disintegrated Laevatein",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T10 - Disintegrated Laevatein/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T10 - Disintegrated Laevatein/Disintegrated_Laevatein.tja",
+            "L1 Collaborations/C02 Touhou Arrangements/T10 - Disintegrated Laevatein/Disintegrated_Laevatein.ogg"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "67d975a7e2e2f101b516bd99355df88b",
+        "chartSize": 7.58,
+        "chartTitle": "Disintegrated Laevatein",
+        "chartSubtitle": "Touhou Project Arrange / Taichenko",
+        "chartDifficulties": {
+            "Edit": 10.7,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T10 - Disintegrated Laevatein/Disintegrated_Laevatein.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "L1 Collaborations/C02 Touhou Arrangements/T11 - Cirno in Quarantine",
+        "tjaFilesPath": [
+            "L1 Collaborations/C02 Touhou Arrangements/T11 - Cirno in Quarantine/uniqueID.json",
+            "L1 Collaborations/C02 Touhou Arrangements/T11 - Cirno in Quarantine/Cirno in Quarantine.ogg",
+            "L1 Collaborations/C02 Touhou Arrangements/T11 - Cirno in Quarantine/Cirno in Quarantine.tja"
+        ],
+        "tjaGenreFolder": "C02 Touhou Arrangements",
+        "tjaMD5": "5a58ad894ea8f194a5319007302b102f",
+        "chartSize": 1.57,
+        "chartTitle": "Cirno in Quarantine",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "L1 Collaborations/C02 Touhou Arrangements/T11 - Cirno in Quarantine/Cirno in Quarantine.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters/HQ02 - 132 - Frozen Rouka",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters/HQ02 - 132 - Frozen Rouka/uniqueID.json",
+            "E02 OpenTaiko Headquarters/HQ02 - 132 - Frozen Rouka/nep02.tja",
+            "E02 OpenTaiko Headquarters/HQ02 - 132 - Frozen Rouka/nep02.ogg"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "4dd09bdeae4980861c2963f54126b534",
+        "chartSize": 2.61,
+        "chartTitle": "NEP0: FR02EN\u30ed\u30a6\u30ab",
+        "chartSubtitle": "OPTK-HQ=CHANNEL0125",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3,
+            "Edit": 8
+        },
+        "chartAudioFilePath": "E02 OpenTaiko Headquarters/HQ02 - 132 - Frozen Rouka/nep02.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E02 OpenTaiko Headquarters/HQ01 - 135 - Matsuri Jiken",
+        "tjaFilesPath": [
+            "E02 OpenTaiko Headquarters/HQ01 - 135 - Matsuri Jiken/uniqueID.json",
+            "E02 OpenTaiko Headquarters/HQ01 - 135 - Matsuri Jiken/NEP01.tja",
+            "E02 OpenTaiko Headquarters/HQ01 - 135 - Matsuri Jiken/nep01.ogg"
+        ],
+        "tjaGenreFolder": "E02 OpenTaiko Headquarters",
+        "tjaMD5": "823b0e8639e7f214bce766d274004bb0",
+        "chartSize": 2.95,
+        "chartTitle": "NEP0\uff1aMATSUR1\u30b8\u30b1\u30f3",
+        "chartSubtitle": "OPTK-HQ=CHANNEL0125",
+        "chartDifficulties": {
+            "Edit": 10.3,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 7,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "E02 OpenTaiko Headquarters/HQ01 - 135 - Matsuri Jiken/nep01.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/104 - Eleven",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/104 - Eleven/uniqueID.json",
+            "03 OpenTaiko Chapter III/104 - Eleven/Eleven.tja",
+            "03 OpenTaiko Chapter III/104 - Eleven/Eleven.png",
+            "03 OpenTaiko Chapter III/104 - Eleven/Eleven.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "06c316d4f0a2830975b93c3f8cb9f4ba",
+        "chartSize": 14.78,
+        "chartTitle": "\u300811",
+        "chartSubtitle": "Tanger ft. Hatsune Miku",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 3,
+            "Hard": 4,
+            "Oni": 9
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/104 - Eleven/Eleven.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/104 - Eleven/Eleven.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/133 - Fungus Night Carnival ~ Rhythm of the war",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/133 - Fungus Night Carnival ~ Rhythm of the war/uniqueID.json",
+            "03 OpenTaiko Chapter III/133 - Fungus Night Carnival ~ Rhythm of the war/Fungus Night Carnival.tja",
+            "03 OpenTaiko Chapter III/133 - Fungus Night Carnival ~ Rhythm of the war/Fungus Night Carnival.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "582d78704d2faefc772bd24772919d1e",
+        "chartSize": 5.88,
+        "chartTitle": "Fungus Night Carnival ~ Rhythm of the war",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Edit": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/133 - Fungus Night Carnival ~ Rhythm of the war/Fungus Night Carnival.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/126 - BLACK DIAMOND",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/126 - BLACK DIAMOND/uniqueID.json",
+            "03 OpenTaiko Chapter III/126 - BLACK DIAMOND/BLACK DIAMOND.ogg",
+            "03 OpenTaiko Chapter III/126 - BLACK DIAMOND/BLACK DIAMOND.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "87a2a40b29dd1d00aab05cfce16536b4",
+        "chartSize": 1.67,
+        "chartTitle": "BLACK DIAMOND",
+        "chartSubtitle": "Thomas Dingwall a.k.a. td ft. MEIKO",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/126 - BLACK DIAMOND/BLACK DIAMOND.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/137 - Tsol Niameri",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/137 - Tsol Niameri/uniqueID.json",
+            "03 OpenTaiko Chapter III/137 - Tsol Niameri/tsol.tja",
+            "03 OpenTaiko Chapter III/137 - Tsol Niameri/tsol.ogg",
+            "03 OpenTaiko Chapter III/137 - Tsol Niameri/tsol.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "4688bfbd1cc7a84ee35e93446330552d",
+        "chartSize": 5.77,
+        "chartTitle": "??? ~ T'soL Niamer-I ~",
+        "chartSubtitle": "YLN0 feat. The Second Truth",
+        "chartDifficulties": {
+            "Edit": 11.5,
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/137 - Tsol Niameri/tsol.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/137 - Tsol Niameri/tsol.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/109 - SUGARUSH",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/109 - SUGARUSH/uniqueID.json",
+            "03 OpenTaiko Chapter III/109 - SUGARUSH/SUGARUSH.jpg",
+            "03 OpenTaiko Chapter III/109 - SUGARUSH/SUGARUSH.ogg",
+            "03 OpenTaiko Chapter III/109 - SUGARUSH/SUGARUSH.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "360fffbfffcdc766f0c8417da3f783ba",
+        "chartSize": 8.15,
+        "chartTitle": "SUGARUSH~!!!",
+        "chartSubtitle": "Tanger",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3,
+            "Edit": 10.5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/109 - SUGARUSH/SUGARUSH.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/109 - SUGARUSH/SUGARUSH.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/108 - FINAL HOPE",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/108 - FINAL HOPE/uniqueID.json",
+            "03 OpenTaiko Chapter III/108 - FINAL HOPE/FINAL HOPE.jpg",
+            "03 OpenTaiko Chapter III/108 - FINAL HOPE/FINAL HOPE.ogg",
+            "03 OpenTaiko Chapter III/108 - FINAL HOPE/FINAL HOPE.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "aa317c112a3a2cf1a248b1bcaf7dfdf5",
+        "chartSize": 2.65,
+        "chartTitle": "FINAL HOPE",
+        "chartSubtitle": "Underscore",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/108 - FINAL HOPE/FINAL HOPE.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/108 - FINAL HOPE/FINAL HOPE.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/uniqueID.json",
+            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.tja",
+            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.ogg",
+            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "97c4390d4c9bd73b94802d6c52138e28",
+        "chartSize": 1.84,
+        "chartTitle": "Shoubu Biyori",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2,
+            "Edit": 10.7
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY/uniqueID.json",
+            "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY/ETHEREAL VELOCITY.png",
+            "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY/ETHEREAL VELOCITY.ogg",
+            "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY/ETHEREAL_VELOCITY.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "266ddb3e1441f341c7cbb0dcd308f2c1",
+        "chartSize": 12.3,
+        "chartTitle": "ETHEREAL VELOCITY (Game Size)",
+        "chartSubtitle": "Underscore",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 6,
+            "Oni": 10.4,
+            "Edit": 11.4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY/ETHEREAL VELOCITY.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY/ETHEREAL VELOCITY.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/103 - spliced",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/103 - spliced/uniqueID.json",
+            "03 OpenTaiko Chapter III/103 - spliced/spliced.jpg",
+            "03 OpenTaiko Chapter III/103 - spliced/spliced.tja",
+            "03 OpenTaiko Chapter III/103 - spliced/spliced.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "f8a46bba66e9f30a27e31f56a25d4c92",
+        "chartSize": 5.86,
+        "chartTitle": "spliced",
+        "chartSubtitle": "Tanger",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/103 - spliced/spliced.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/103 - spliced/spliced.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/107 - BONUS",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/107 - BONUS/uniqueID.json",
+            "03 OpenTaiko Chapter III/107 - BONUS/BONUS.tja",
+            "03 OpenTaiko Chapter III/107 - BONUS/BONUS.ogg",
+            "03 OpenTaiko Chapter III/107 - BONUS/BONUS.jpg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "bd9a0970f2507d3d6cd0a5ae8beacaae",
+        "chartSize": 5.69,
+        "chartTitle": "BONUS",
+        "chartSubtitle": "Tanger",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/107 - BONUS/BONUS.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/107 - BONUS/BONUS.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/127 - A symphony of a million years",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/127 - A symphony of a million years/A symphony of a million years.tja",
+            "03 OpenTaiko Chapter III/127 - A symphony of a million years/uniqueID.json",
+            "03 OpenTaiko Chapter III/127 - A symphony of a million years/A symphony of a million years.png",
+            "03 OpenTaiko Chapter III/127 - A symphony of a million years/A symphony of a million years.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "9ca8928f4bff627963381d163d5567ce",
+        "chartSize": 3.69,
+        "chartTitle": "A symphony of a million years",
+        "chartSubtitle": "oxoplasmaP ft. Defoko",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 4,
+            "Edit": 10.4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/127 - A symphony of a million years/A symphony of a million years.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/127 - A symphony of a million years/A symphony of a million years.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/131 - CIRCUNFERENCIA",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/131 - CIRCUNFERENCIA/uniqueID.json",
+            "03 OpenTaiko Chapter III/131 - CIRCUNFERENCIA/CIRCUNFERENCIA.ogg",
+            "03 OpenTaiko Chapter III/131 - CIRCUNFERENCIA/CIRCUNFERENCIA.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "539cb6732df4c551950f2be919b2334d",
+        "chartSize": 2.25,
+        "chartTitle": "CIRCUNFERENCIA",
+        "chartSubtitle": "ULKO",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 7,
+            "Hard": 8,
+            "Oni": 10.5,
+            "Edit": 10.7
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/131 - CIRCUNFERENCIA/CIRCUNFERENCIA.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/uniqueID.json",
+            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.ogg",
+            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.vtt",
+            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.tja",
+            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "6d388f6c921cc9cb2fd3fdead63ce5ae",
+        "chartSize": 6.24,
+        "chartTitle": "Souzou shiku naru",
+        "chartSubtitle": "TAK a.k.a. Tokky",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/102 - GET REAL",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/102 - GET REAL/uniqueID.json",
+            "03 OpenTaiko Chapter III/102 - GET REAL/GET REAL (Game Size).ogg",
+            "03 OpenTaiko Chapter III/102 - GET REAL/GET REAL.tja",
+            "03 OpenTaiko Chapter III/102 - GET REAL/GET REAL.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "a42128b0ff959ef706fe8344e003894f",
+        "chartSize": 6.26,
+        "chartTitle": "GET REAL (Game Size)",
+        "chartSubtitle": "Underscore",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/102 - GET REAL/GET REAL (Game Size).ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/102 - GET REAL/GET REAL.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/111 - 2024",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/111 - 2024/uniqueID.json",
+            "03 OpenTaiko Chapter III/111 - 2024/2024 BPM IS NOT ENOUGH.ogg",
+            "03 OpenTaiko Chapter III/111 - 2024/2024 BPM IS NOT ENOUGH.png",
+            "03 OpenTaiko Chapter III/111 - 2024/2024 BPM IS NOT ENOUGH.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "856eae93e0366240cef01a33cfe1dcec",
+        "chartSize": 10.84,
+        "chartTitle": "2024 BPM IS NOT ENOUGH",
+        "chartSubtitle": "Underscore",
+        "chartDifficulties": {
+            "Edit": 11.6,
+            "Easy": 4,
+            "Normal": 6,
+            "Hard": 8,
+            "Oni": 10.9
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/111 - 2024/2024 BPM IS NOT ENOUGH.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/111 - 2024/2024 BPM IS NOT ENOUGH.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/uniqueID.json",
+            "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.png",
+            "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.ogg",
+            "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "53e7500a48d03be4a1b4534d049ad008",
+        "chartSize": 3.39,
+        "chartTitle": "Froggy Forest Raceway",
+        "chartSubtitle": "Baby Zionov",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 6,
+            "Hard": 6,
+            "Oni": 9,
+            "Edit": 9
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/128 - Mayhem",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/128 - Mayhem/uniqueID.json",
+            "03 OpenTaiko Chapter III/128 - Mayhem/Mayhem.png",
+            "03 OpenTaiko Chapter III/128 - Mayhem/Mayhem.tja",
+            "03 OpenTaiko Chapter III/128 - Mayhem/Mayhem.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "e73be95c79ec2125be2b525857cfde82",
+        "chartSize": 5.77,
+        "chartTitle": "Mayhem",
+        "chartSubtitle": "X3ll3n & Benji-G",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/128 - Mayhem/Mayhem.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/128 - Mayhem/Mayhem.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/uniqueID.json",
+            "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/M_\u300aJi\uff1a\u00dc\u300b.ogg",
+            "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/M_\u300aJi\uff1a\u00dc\u300b.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "a29d41c3eeb7f6ccb26a2c5cc964db9e",
+        "chartSize": 4.1,
+        "chartTitle": "M_\u300aJi\uff1a\u00dc\u300b",
+        "chartSubtitle": "Masamune",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/M_\u300aJi\uff1a\u00dc\u300b.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/uniqueID.json",
+            "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.ogg",
+            "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.tja",
+            "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "969a5cada644ffc44cfc2422cfcf89b4",
+        "chartSize": 14.5,
+        "chartTitle": "CHAOTIC DIMENSION",
+        "chartSubtitle": "Underscore",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Edit": 10.4,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/125 - MajETCMAT",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/125 - MajETCMAT/uniqueID.json",
+            "03 OpenTaiko Chapter III/125 - MajETCMAT/MajETCMAT.ogg",
+            "03 OpenTaiko Chapter III/125 - MajETCMAT/MajETCMAT.png",
+            "03 OpenTaiko Chapter III/125 - MajETCMAT/MajETCMAT.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "cf7730e8c09183b5973158accf7fbca8",
+        "chartSize": 2.79,
+        "chartTitle": "MajETCMAT",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Edit": 11.0,
+            "Oni": 10.3,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/125 - MajETCMAT/MajETCMAT.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/125 - MajETCMAT/MajETCMAT.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/101 - Ohayou",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/101 - Ohayou/uniqueID.json",
+            "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.vtt",
+            "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.tja",
+            "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.jpg",
+            "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "0fabbcb6c1b392420305630215caac1f",
+        "chartSize": 5.47,
+        "chartTitle": "Ohayo",
+        "chartSubtitle": "Tanger ft. Hatsune Miku",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Easy": 2,
+            "Hard": 4,
+            "Normal": 3
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/116 - \u5352\u696d2000",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/uniqueID.json",
+            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.tja",
+            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.ogg",
+            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "1ba3709ab20dab653fd2684b1eedcc1d",
+        "chartSize": 1.95,
+        "chartTitle": "Sotsugyou 2000",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Edit": 10.6,
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/106 - colonthree",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/106 - colonthree/uniqueID.json",
+            "03 OpenTaiko Chapter III/106 - colonthree/colonthree.ogg",
+            "03 OpenTaiko Chapter III/106 - colonthree/colonthree.tja",
+            "03 OpenTaiko Chapter III/106 - colonthree/colonthree.jpg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "7b65f69e00287c2f9b0abebc4997e585",
+        "chartSize": 4.64,
+        "chartTitle": "\uff1a3",
+        "chartSubtitle": "Tanger",
+        "chartDifficulties": {
+            "Edit": 1,
+            "Oni": 6,
+            "Hard": 3,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/106 - colonthree/colonthree.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/106 - colonthree/colonthree.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/124 - five states of weirdness",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/124 - five states of weirdness/uniqueID.json",
+            "03 OpenTaiko Chapter III/124 - five states of weirdness/five states of weirdness.ogg",
+            "03 OpenTaiko Chapter III/124 - five states of weirdness/five states of weirdness.png",
+            "03 OpenTaiko Chapter III/124 - five states of weirdness/five states of weirdness.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "803706badb815b0e23c9268040546a0e",
+        "chartSize": 2.74,
+        "chartTitle": "five states of weirdness",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 5,
+            "Normal": 1,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/124 - five states of weirdness/five states of weirdness.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/124 - five states of weirdness/five states of weirdness.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/122 - Incoherent Hysteria",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/122 - Incoherent Hysteria/uniqueID.json",
+            "03 OpenTaiko Chapter III/122 - Incoherent Hysteria/Incoherent Hysteria.ogg",
+            "03 OpenTaiko Chapter III/122 - Incoherent Hysteria/Incoherent Hysteria.png",
+            "03 OpenTaiko Chapter III/122 - Incoherent Hysteria/Incoherent Hysteria.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "ef5ac5c86f410da832887b5553163bcc",
+        "chartSize": 3.44,
+        "chartTitle": "Incoherent Hysteria",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/122 - Incoherent Hysteria/Incoherent Hysteria.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/122 - Incoherent Hysteria/Incoherent Hysteria.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/130 - The Minotaur",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/130 - The Minotaur/uniqueID.json",
+            "03 OpenTaiko Chapter III/130 - The Minotaur/The Minotaur.tja",
+            "03 OpenTaiko Chapter III/130 - The Minotaur/The Minotaur.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "0292380660f014dad754d2f3b599cefb",
+        "chartSize": 2.09,
+        "chartTitle": "The Minotaur",
+        "chartSubtitle": "X3ll3n & Benji-G",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/130 - The Minotaur/The Minotaur.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/uniqueID.json",
+            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.png",
+            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.ogg",
+            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "c30a13ce02905c72f0ed12eb10478005",
+        "chartSize": 1.68,
+        "chartTitle": "pretty kitty, yes?",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1,
+            "Edit": 9
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS/uniqueID.json",
+            "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS/Heat Conductors.tja",
+            "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS/Heat Conductors.ogg",
+            "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS/Heat Conductors.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "bf55a2391b8167a58468a401d4f3e085",
+        "chartSize": 7.62,
+        "chartTitle": "HEAT CONDUCTORS",
+        "chartSubtitle": "OfficialAz3",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4,
+            "Oni": 8
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS/Heat Conductors.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/123 - HEAT CONDUCTORS/Heat Conductors.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity/uniqueID.json",
+            "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity/PARANOiAPerpetuity.ogg",
+            "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity/PARANOIA_perpetuality_Jacket.png",
+            "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity/PARANOiAPerpetuity.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "677df79d302e618d1fd11a9f840e05e6",
+        "chartSize": 4.44,
+        "chartTitle": "PARANOiA Perpetuality",
+        "chartSubtitle": "funkyzukin",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 6,
+            "Hard": 8,
+            "Oni": 8,
+            "Edit": 11.1
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity/PARANOiAPerpetuity.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/121 - PARANOiA Perpetuity/PARANOIA_perpetuality_Jacket.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/120 - the infinite cityscape",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/120 - the infinite cityscape/uniqueID.json",
+            "03 OpenTaiko Chapter III/120 - the infinite cityscape/the infinite cityscape.ogg",
+            "03 OpenTaiko Chapter III/120 - the infinite cityscape/the infinite cityscape.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "857d0a8abf7e11f9464fd77c2d254f61",
+        "chartSize": 2.18,
+        "chartTitle": "the infinite cityscape",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 4,
+            "Hard": 3,
+            "Normal": 3,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/120 - the infinite cityscape/the infinite cityscape.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/112 - POGO is ready",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/112 - POGO is ready/uniqueID.json",
+            "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.mp4",
+            "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.tja",
+            "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.png",
+            "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.vtt",
+            "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "8253e9e45f818b9758bfa5697e54877e",
+        "chartSize": 48.61,
+        "chartTitle": "POGO is ready!!",
+        "chartSubtitle": "TAK a.k.a. Tokky",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/112 - POGO is ready/pogo.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/129 - Cybernetic Pressure",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/129 - Cybernetic Pressure/uniqueID.json",
+            "03 OpenTaiko Chapter III/129 - Cybernetic Pressure/Cybernetic Pressure.png",
+            "03 OpenTaiko Chapter III/129 - Cybernetic Pressure/Cybernetic Pressure.ogg",
+            "03 OpenTaiko Chapter III/129 - Cybernetic Pressure/Cybernetic Pressure.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "3cc32b6bb5285cd0d4e4e34a5b6a22e7",
+        "chartSize": 4.69,
+        "chartTitle": "Cybernetic Pressure",
+        "chartSubtitle": "X3ll3n & BARY",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/129 - Cybernetic Pressure/Cybernetic Pressure.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/129 - Cybernetic Pressure/Cybernetic Pressure.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/099 - Dreaming to be with you",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/099 - Dreaming to be with you/uniqueID.json",
+            "03 OpenTaiko Chapter III/099 - Dreaming to be with you/Dreaming to be with you.tja",
+            "03 OpenTaiko Chapter III/099 - Dreaming to be with you/Dreaming to be with you.ogg",
+            "03 OpenTaiko Chapter III/099 - Dreaming to be with you/Dreaming to be with you.png",
+            "03 OpenTaiko Chapter III/099 - Dreaming to be with you/Dreaming to be with you.mp4"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "066c280d4e3c3a57876cbddff99dcb92",
+        "chartSize": 44.71,
+        "chartTitle": "Dreaming to be with you",
+        "chartSubtitle": "Cusi ft. Kaeru from \u8679\u4fe1\u53f7",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 6,
+            "Easy": 3,
+            "Hard": 5,
+            "Normal": 4
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/099 - Dreaming to be with you/Dreaming to be with you.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/099 - Dreaming to be with you/Dreaming to be with you.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/119 - Fractured Eternity",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/119 - Fractured Eternity/uniqueID.json",
+            "03 OpenTaiko Chapter III/119 - Fractured Eternity/Fractured Eternity.ogg",
+            "03 OpenTaiko Chapter III/119 - Fractured Eternity/Fractured Eternity.tja",
+            "03 OpenTaiko Chapter III/119 - Fractured Eternity/Fractured Eternity.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "3eda6c98782a41699c168631be84decb",
+        "chartSize": 26.09,
+        "chartTitle": "Fractured Eternity",
+        "chartSubtitle": "ro\u0259r & Toneix",
+        "chartDifficulties": {
+            "Easy": 6,
+            "Hard": 9,
+            "Normal": 8,
+            "Oni": 12
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/119 - Fractured Eternity/Fractured Eternity.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/119 - Fractured Eternity/Fractured Eternity.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C10 Deceiver's Defiances/073 - Emily",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/073 - Emily/uniqueID.json",
+            "C10 Deceiver's Defiances/073 - Emily/Emily.tja",
+            "C10 Deceiver's Defiances/073 - Emily/Emily.ogg"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "a42f77959c125c0126a8a6e7778e74b9",
+        "chartSize": 4.49,
+        "chartTitle": "Emily",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Edit": 12,
+            "Oni": 7,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 6
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/073 - Emily/Emily.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C10 Deceiver's Defiances/009 - Deceiver",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/009 - Deceiver/uniqueID.json",
+            "C10 Deceiver's Defiances/009 - Deceiver/Deceiver.ogg",
+            "C10 Deceiver's Defiances/009 - Deceiver/Deceiver.tja"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "b7bc0d0b4d593d28cf1d9108dbb0af52",
+        "chartSize": 3.99,
+        "chartTitle": "Deceiver",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Edit": 8,
+            "Hard": 6,
+            "Normal": 3,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/009 - Deceiver/Deceiver.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C10 Deceiver's Defiances/134 - Decever's Revenge",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/134 - Decever's Revenge/uniqueID.json",
+            "C10 Deceiver's Defiances/134 - Decever's Revenge/Deceiver's Revenge.ogg",
+            "C10 Deceiver's Defiances/134 - Decever's Revenge/Deceiver's Revenge.tja"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "83b6f025b9afec43586666bd1f5262f5",
+        "chartSize": 5.28,
+        "chartTitle": "Deceiver's Revenge",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/134 - Decever's Revenge/Deceiver's Revenge.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C10 Deceiver's Defiances/012 - Deceiver's Terminus",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/012 - Deceiver's Terminus/uniqueID.json",
+            "C10 Deceiver's Defiances/012 - Deceiver's Terminus/DeceiverTerminus.tja",
+            "C10 Deceiver's Defiances/012 - Deceiver's Terminus/DeceiverTerminus.ogg"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "3cb81019569016ba20521beee1df9445",
+        "chartSize": 11.23,
+        "chartTitle": "Deceiver's Terminus",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/012 - Deceiver's Terminus/DeceiverTerminus.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C10 Deceiver's Defiances/004 - Deceiving The Deceiver",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/004 - Deceiving The Deceiver/uniqueID.json",
+            "C10 Deceiver's Defiances/004 - Deceiving The Deceiver/DeceivingTheDeceiver.ogg",
+            "C10 Deceiver's Defiances/004 - Deceiving The Deceiver/DeceivingTheDeceiver.tja"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "dee1c9210a20b74937be427994700e67",
+        "chartSize": 1.97,
+        "chartTitle": "Deceiving the Deceiver",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/004 - Deceiving The Deceiver/DeceivingTheDeceiver.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/uniqueID.json",
+            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.ogg",
+            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.tja",
+            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.png"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "4b4c6f1555be345ea707efffee32c448",
+        "chartSize": 5.45,
+        "chartTitle": "Re\uff1aC\u00f8llapse",
+        "chartSubtitle": "H888. (H5 + DashyDesu)",
+        "chartDifficulties": {
+            "Edit": 11.2,
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 8,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.ogg",
+        "chartJacketFilePath": "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/uniqueID.json",
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.tja",
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.ogg",
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.png"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "c9ecff3934cadb92c4f35b4a2a0cd0b1",
+        "chartSize": 10.91,
+        "chartTitle": "Rainy Night II ~M\u0310X~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM01 - 093 - Rainy Night",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM01 - 093 - Rainy Night/Rainy Night.tja",
+            "E01 Rainy Memories/RM01 - 093 - Rainy Night/uniqueID.json",
+            "E01 Rainy Memories/RM01 - 093 - Rainy Night/Rainy Night.ogg",
+            "E01 Rainy Memories/RM01 - 093 - Rainy Night/Rainy Night.png"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "37d2771435a2044c30aa2e0b344ae08e",
+        "chartSize": 7.31,
+        "chartTitle": "Rainy Night",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM01 - 093 - Rainy Night/Rainy Night.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM01 - 093 - Rainy Night/Rainy Night.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/uniqueID.json",
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III ~\u8f2a\u56de~.tja",
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III ~\u8f2a\u56de~.ogg",
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III.jpg"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "fe1b1f531159b11c9249ac05fa50b12c",
+        "chartSize": 10.29,
+        "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 11.0,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III ~\u8f2a\u56de~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/uniqueID.json",
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II ~\u6c34\u51dd\u7d50~.ogg",
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II.png",
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II ~\u6c34\u51dd\u7d50~.tja"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "656df78c9c2367f0f49a8823b63f78d7",
+        "chartSize": 9.94,
+        "chartTitle": "Rainy Night II ~\u6c34\u51dd\u7d50~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II ~\u6c34\u51dd\u7d50~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/uniqueID.json",
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III ~\u5e7b\u8679~.ogg",
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III ~\u5e7b\u8679~.tja",
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III.jpg"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "ccda6bf3931f6eaf15cb508561f97cb4",
+        "chartSize": 9.93,
+        "chartTitle": "Rainy Night III ~\u5e7b\u8679~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 6,
+            "Hard": 8,
+            "Edit": 10.8,
+            "Oni": 10.4
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III ~\u5e7b\u8679~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/uniqueID.json",
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night ~\u5922\u5e7b\u60f3~.tja",
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night.png",
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night ~ Dream ~.ogg"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "b6a206c91f1b422acb3764e234c28136",
+        "chartSize": 8.9,
+        "chartTitle": "Rainy Night ~z~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night ~ Dream ~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM07 - 097 - Rainy Night III",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM07 - 097 - Rainy Night III/Rainy Night III.tja",
+            "E01 Rainy Memories/RM07 - 097 - Rainy Night III/Rainy Night III.jpg",
+            "E01 Rainy Memories/RM07 - 097 - Rainy Night III/Rainy Night III.ogg"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "3e20987b6e2efb67b910c88e50cb1f2b",
+        "chartSize": 12.98,
+        "chartTitle": "Rainy Night III",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM07 - 097 - Rainy Night III/Rainy Night III.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM07 - 097 - Rainy Night III/Rainy Night III.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM04 - 095 - Rainy Night II",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM04 - 095 - Rainy Night II/uniqueID.json",
+            "E01 Rainy Memories/RM04 - 095 - Rainy Night II/Rainy Night II.tja",
+            "E01 Rainy Memories/RM04 - 095 - Rainy Night II/Rainy Night II.ogg",
+            "E01 Rainy Memories/RM04 - 095 - Rainy Night II/Rainy Night II.png"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "7ca186ad978b60aad3c024feeb3b45f7",
+        "chartSize": 13.23,
+        "chartTitle": "Rainy Night II",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM04 - 095 - Rainy Night II/Rainy Night II.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM04 - 095 - Rainy Night II/Rainy Night II.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/uniqueID.json",
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night ~\u96f2\u98db\u9727\u6563~.tja",
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night.png"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "29c21eec0015f2eff988276d9329f099",
+        "chartSize": 10.97,
+        "chartTitle": "Rainy Night ~\u96f2\u98db\u9727\u6563~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/057 - the stories of your negative past",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/057 - the stories of your negative past/uniqueID.json",
+            "C12 Dashy's Secrets/057 - the stories of your negative past/story.ogg",
+            "C12 Dashy's Secrets/057 - the stories of your negative past/Stories.tja",
+            "C12 Dashy's Secrets/057 - the stories of your negative past/story.png"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "9b2c1d7dfda7b9d391df30c9f9c6d62b",
+        "chartSize": 3.98,
+        "chartTitle": "Stories of your negative past",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/057 - the stories of your negative past/story.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/057 - the stories of your negative past/story.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/039 - Forever Fading Away",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/039 - Forever Fading Away/uniqueID.json",
+            "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.ogg",
+            "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.tja",
+            "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.png",
+            "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.vtt",
+            "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.mp4"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "e5cf595607f37d177770982c616b50b3",
+        "chartSize": 79.73,
+        "chartTitle": "Forever Fading Away",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 10.7,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/039 - Forever Fading Away/Forever Fading Away.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/027 - Broken Metronome",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/027 - Broken Metronome/uniqueID.json",
+            "C12 Dashy's Secrets/027 - Broken Metronome/br.ogg",
+            "C12 Dashy's Secrets/027 - Broken Metronome/br.tja",
+            "C12 Dashy's Secrets/027 - Broken Metronome/br.png"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "a4154cf5c1351b798df39bcc1d83399b",
+        "chartSize": 4.69,
+        "chartTitle": "Broken Metronome",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/027 - Broken Metronome/br.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/027 - Broken Metronome/br.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/071 - When will the end arrive i wonder",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/071 - When will the end arrive i wonder/uniqueID.json",
+            "C12 Dashy's Secrets/071 - When will the end arrive i wonder/when.vtt",
+            "C12 Dashy's Secrets/071 - When will the end arrive i wonder/when.tja",
+            "C12 Dashy's Secrets/071 - When will the end arrive i wonder/when.ogg",
+            "C12 Dashy's Secrets/071 - When will the end arrive i wonder/story.png"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "ed3d1c7927fa32927a89898a6d1b2055",
+        "chartSize": 5.43,
+        "chartTitle": "When will the end arrive, I wonder?",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/071 - When will the end arrive i wonder/when.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/071 - When will the end arrive i wonder/story.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/088 - II",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/088 - II/uniqueID.json",
+            "C12 Dashy's Secrets/088 - II/II.png",
+            "C12 Dashy's Secrets/088 - II/IIgamecut.ogg",
+            "C12 Dashy's Secrets/088 - II/iibga.mp4",
+            "C12 Dashy's Secrets/088 - II/II.tja"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "ce5c38c24048f162cb603efbf90ef6b6",
+        "chartSize": 72.29,
+        "chartTitle": "II (Game Cut)",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/088 - II/IIgamecut.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/088 - II/II.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/056 - Ill still be me",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/056 - Ill still be me/uniqueID.json",
+            "C12 Dashy's Secrets/056 - Ill still be me/I'll Still Be Me.png",
+            "C12 Dashy's Secrets/056 - Ill still be me/I'll Still Be Me.ogg",
+            "C12 Dashy's Secrets/056 - Ill still be me/I'll Still Be Me.tja"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "ae7ff428aabee9c6c5a94c4c7231a0b8",
+        "chartSize": 4.6,
+        "chartTitle": "I'll Still Be Me",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/056 - Ill still be me/I'll Still Be Me.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/056 - Ill still be me/I'll Still Be Me.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/038 - Dear Stars",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/038 - Dear Stars/stars.vtt",
+            "C12 Dashy's Secrets/038 - Dear Stars/uniqueID.json",
+            "C12 Dashy's Secrets/038 - Dear Stars/stars.ogg",
+            "C12 Dashy's Secrets/038 - Dear Stars/stars.png",
+            "C12 Dashy's Secrets/038 - Dear Stars/stars.tja",
+            "C12 Dashy's Secrets/038 - Dear Stars/stars.mp4"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "8ce4794c7f0d8a0e44585a0d9613516a",
+        "chartSize": 74.52,
+        "chartTitle": "Dear Stars",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/038 - Dear Stars/stars.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/038 - Dear Stars/stars.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/080 - I want to bloom",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/080 - I want to bloom/uniqueID.json",
+            "C12 Dashy's Secrets/080 - I want to bloom/bloom.tja",
+            "C12 Dashy's Secrets/080 - I want to bloom/bloom.png",
+            "C12 Dashy's Secrets/080 - I want to bloom/bloom.vtt",
+            "C12 Dashy's Secrets/080 - I want to bloom/bloom.ogg"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "137993b9846dac3a8e713d1e4d0a5f74",
+        "chartSize": 2.84,
+        "chartTitle": "I WANT TO BL00000000M",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 12,
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/080 - I want to bloom/bloom.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/080 - I want to bloom/bloom.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/136 - Trapped Passion",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/136 - Trapped Passion/uniqueID.json",
+            "C12 Dashy's Secrets/136 - Trapped Passion/passion.png",
+            "C12 Dashy's Secrets/136 - Trapped Passion/passion.tja",
+            "C12 Dashy's Secrets/136 - Trapped Passion/passion.mp4",
+            "C12 Dashy's Secrets/136 - Trapped Passion/trappedpassion.ogg",
+            "C12 Dashy's Secrets/136 - Trapped Passion/passion.vtt"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "0230de0e689feb96ac833cc49781ba14",
+        "chartSize": 55.92,
+        "chartTitle": "Trapped Passion",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 10.0,
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/136 - Trapped Passion/trappedpassion.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/136 - Trapped Passion/passion.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/100 - Puzzles of The End",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/100 - Puzzles of The End/uniqueID.json",
+            "C12 Dashy's Secrets/100 - Puzzles of The End/puzzle.ogg",
+            "C12 Dashy's Secrets/100 - Puzzles of The End/II.png",
+            "C12 Dashy's Secrets/100 - Puzzles of The End/puzzle.tja"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "8e189a05c4a69b64c0bed6e230b56ae4",
+        "chartSize": 7.65,
+        "chartTitle": "Puzzle of \"The End.\"",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 10.1,
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/100 - Puzzles of The End/puzzle.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/100 - Puzzles of The End/II.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/052 - Scarlet Mirage",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/052 - Scarlet Mirage/uniqueID.json",
+            "C12 Dashy's Secrets/052 - Scarlet Mirage/Scarlet Mirage.ogg",
+            "C12 Dashy's Secrets/052 - Scarlet Mirage/Scarlet Mirage.vtt",
+            "C12 Dashy's Secrets/052 - Scarlet Mirage/Scarlet Mirage.tja",
+            "C12 Dashy's Secrets/052 - Scarlet Mirage/Scarlet Mirage.png"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "5c27441c985961963c45a237f8c9ec4e",
+        "chartSize": 3.0,
+        "chartTitle": "Scarlet Mirage",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Oni": 11.3,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/052 - Scarlet Mirage/Scarlet Mirage.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/052 - Scarlet Mirage/Scarlet Mirage.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/068 - Unlucky Rain",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/068 - Unlucky Rain/uniqueID.json",
+            "C12 Dashy's Secrets/068 - Unlucky Rain/rain.ogg",
+            "C12 Dashy's Secrets/068 - Unlucky Rain/rain.png",
+            "C12 Dashy's Secrets/068 - Unlucky Rain/unlucky.tja"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "b2e58169fe1bdc2cbcaf16e39c1f45cd",
+        "chartSize": 5.5,
+        "chartTitle": "Unlucky Rain",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/068 - Unlucky Rain/rain.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/068 - Unlucky Rain/rain.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/018 - Chasing the wind",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/018 - Chasing the wind/uniqueID.json",
+            "C12 Dashy's Secrets/018 - Chasing the wind/Chasing the Wind.tja",
+            "C12 Dashy's Secrets/018 - Chasing the wind/Chasing the Wind.ogg",
+            "C12 Dashy's Secrets/018 - Chasing the wind/preimage.jpg"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "f82434faf093ce223a290ad74b066da0",
+        "chartSize": 3.67,
+        "chartTitle": "Chasing the Wind",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Edit": 10.3,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/018 - Chasing the wind/Chasing the Wind.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/018 - Chasing the wind/preimage.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "C12 Dashy's Secrets/026 - Lost Emotion",
+        "tjaFilesPath": [
+            "C12 Dashy's Secrets/026 - Lost Emotion/uniqueID.json",
+            "C12 Dashy's Secrets/026 - Lost Emotion/Lost_Emotion..tja",
+            "C12 Dashy's Secrets/026 - Lost Emotion/lostem.ogg",
+            "C12 Dashy's Secrets/026 - Lost Emotion/Lost Emotion.mp4",
+            "C12 Dashy's Secrets/026 - Lost Emotion/lostem.png"
+        ],
+        "tjaGenreFolder": "C12 Dashy's Secrets",
+        "tjaMD5": "5414c30a7c65769c12c101562fdd696d",
+        "chartSize": 35.79,
+        "chartTitle": "Lost Emotion.",
+        "chartSubtitle": "DashyDesu",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "C12 Dashy's Secrets/026 - Lost Emotion/lostem.ogg",
+        "chartJacketFilePath": "C12 Dashy's Secrets/026 - Lost Emotion/lostem.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/until.png",
+            "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/until.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/until.vtt",
+            "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/until.ogg"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "9bbe0038fc4de53f00f04ff83a1bd9ae",
+        "chartSize": 9.59,
+        "chartTitle": "888 Tower",
+        "chartSubtitle": "~Until the sky turns black~",
+        "chartDifficulties": {
+            "Tower": 5
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/until.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW08 - Until the sky turns black/until.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW06 - Deceiver Terminus",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW06 - Deceiver Terminus/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW06 - Deceiver Terminus/DeceiverTerminus.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW06 - Deceiver Terminus/DeceiverTerminus.ogg"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "3eca090c9df7c5f1211d0ee1c7f936f9",
+        "chartSize": 11.22,
+        "chartTitle": "Deceiver's Terminus",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Tower": 5
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW06 - Deceiver Terminus/DeceiverTerminus.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II/Rainy Night II.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II/Rainy Night II.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II/Rainy Night II.png"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "302e5bf94f74f7db0c32103def4a9bdb",
+        "chartSize": 13.22,
+        "chartTitle": "Rainy Night II",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Tower": 3
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II/Rainy Night II.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW03 - Rainy Night II/Rainy Night II.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea/Synthsea.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea/Synthsea.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea/Synthsea.png"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "b4078be4ee986725a66e8422c4db9664",
+        "chartSize": 19.68,
+        "chartTitle": "Synthsea",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Tower": 5
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea/Synthsea.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW07 - Synthsea/Synthsea.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW01 - OpTk Tower 1",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW01 - OpTk Tower 1/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW01 - OpTk Tower 1/optktower.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW01 - OpTk Tower 1/optktower.tja"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "dd2bfb2388128cb48be96ea79924f493",
+        "chartSize": 5.03,
+        "chartTitle": "Climb across the sky - #1",
+        "chartSubtitle": "OPTK Sound Team \"Dashy\"",
+        "chartDifficulties": {
+            "Tower": 1
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW01 - OpTk Tower 1/optktower.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.png"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "ce1ab8f563c0c9cd25112a88ccd252f2",
+        "chartSize": 6.33,
+        "chartTitle": "PYR\u0394MiD (\u03a3XT\u03a3ND MiX)",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Tower": 4
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW05 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren/Zerstoren1.jpg",
+            "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren/Zerst\u00f6ren.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren/Zerst\u00f6ren.tja"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "d9571813bc4636e1445c69e30aa6defa",
+        "chartSize": 6.12,
+        "chartTitle": "Zerst\u00f6ren",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Tower": 4
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren/Zerst\u00f6ren.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW04 - Zerst\u00f6ren/Zerstoren1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~/Rainy Night III ~\u8f2a\u56de~.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~/Rainy Night III ~\u8f2a\u56de~.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~/Rainy Night III.jpg"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "92ed32109e9166970d2143cb65f1471f",
+        "chartSize": 10.28,
+        "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Tower": 6
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~/Rainy Night III ~\u8f2a\u56de~.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW10 - Rainy Night III ~Samsara~/Rainy Night III.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW02 - Next To You",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW02 - Next To You/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW02 - Next To You/Next To You.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW02 - Next To You/Next To You.ogg"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "c8f40916bc3b57d3d9ebc44cde3c11c8",
+        "chartSize": 4.21,
+        "chartTitle": "Next To You",
+        "chartSubtitle": "Astedroid & X3ll3n",
+        "chartDifficulties": {
+            "Tower": 2
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW02 - Next To You/Next To You.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe/uniqueID.json",
+            "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe/WelcomeToTheCafe.tja",
+            "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
+            "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
+        ],
+        "tjaGenreFolder": "01 - Sweet",
+        "tjaMD5": "c0c2c628e17a200b840caa0016c7a05f",
+        "chartSize": 3.12,
+        "chartTitle": "Welcome To The Cafe",
+        "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
+        "chartDifficulties": {
+            "Tower": 5
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/01 - Sweet/TSW09 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.png"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "8b3dac60c9462999fc6a8adffbbcafbd",
+        "chartSize": 6.33,
+        "chartTitle": "PYR\u0394MiD (\u03a3XT\u03a3ND MiX)",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Tower": 10.9
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP09 - PYR\u0394MiD (\u03a3XT\u03a3ND MiX)/PYRAMID.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/until.png",
+            "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/until.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/until.vtt",
+            "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/until.ogg"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "0c4b1d8afff349a33f9c4b87371dd310",
+        "chartSize": 9.6,
+        "chartTitle": "888 Tower",
+        "chartSubtitle": "~Until the sky turns black~",
+        "chartDifficulties": {
+            "Tower": 10.8
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/until.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP08 - Until the sky turns black/until.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea/Synthsea.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea/Synthsea.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea/Synthsea.png"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "29e8a6a22689f5336a113a02ffa8a312",
+        "chartSize": 19.68,
+        "chartTitle": "Synthsea",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Tower": 10.5
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea/Synthsea.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP07 - Synthsea/Synthsea.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe/WelcomeToTheCafe.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "46ffe4e61a1cc04a77e6e6a1cf914ff8",
+        "chartSize": 3.13,
+        "chartTitle": "Welcome To The Cafe",
+        "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
+        "chartDifficulties": {
+            "Tower": 7
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP02 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~/Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~/Rainy Night ~\u96f2\u98db\u9727\u6563~.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~/Rainy Night.png"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "e2e10e332617cb5c4a3324dd94617805",
+        "chartSize": 10.97,
+        "chartTitle": "Rainy Night ~\u96f2\u98db\u9727\u6563~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Tower": 8
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~/Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP04 - Rainy Night ~Dispelled~/Rainy Night.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP03 - Next To You",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP03 - Next To You/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP03 - Next To You/Next To You.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP03 - Next To You/Next To You.ogg"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "cb724f35d6cddc41b6d3c96e143c1a51",
+        "chartSize": 4.21,
+        "chartTitle": "Next To You",
+        "chartSubtitle": "Astedroid & X3ll3n",
+        "chartDifficulties": {
+            "Tower": 8
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP03 - Next To You/Next To You.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP06 - Deceiver Terminus",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP06 - Deceiver Terminus/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP06 - Deceiver Terminus/DeceiverTerminus.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP06 - Deceiver Terminus/DeceiverTerminus.ogg"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "5d7708266fb00c3bb9e144b1c7944422",
+        "chartSize": 11.23,
+        "chartTitle": "Deceiver's Terminus",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Tower": 10.1
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP06 - Deceiver Terminus/DeceiverTerminus.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~/Rainy Night III ~\u8f2a\u56de~.tja",
+            "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~/Rainy Night III ~\u8f2a\u56de~.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~/Rainy Night III.jpg"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "9f08cbd34264c98a42fab40c2c484bad",
+        "chartSize": 10.29,
+        "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Tower": 11.0
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~/Rainy Night III ~\u8f2a\u56de~.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP10 - Rainy Night III ~Samsara~/Rainy Night III.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP01 - OpTk Tower 1",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP01 - OpTk Tower 1/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP01 - OpTk Tower 1/optktower.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP01 - OpTk Tower 1/optktower.tja"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "8a969aaa070d694a69de3e38ee15e135",
+        "chartSize": 5.03,
+        "chartTitle": "Climb across the sky - #1",
+        "chartSubtitle": "OPTK Sound Team \"Dashy\"",
+        "chartDifficulties": {
+            "Tower": 6
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP01 - OpTk Tower 1/optktower.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse/uniqueID.json",
+            "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse/Gewissenbisse1.jpg",
+            "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse/Gewissenbisse.ogg",
+            "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse/Gewissenbisse.tja"
+        ],
+        "tjaGenreFolder": "02 - Spicy",
+        "tjaMD5": "bb821b235a21bfbf736ca1fe90bf7597",
+        "chartSize": 2.89,
+        "chartTitle": "Gewissenbisse",
+        "chartSubtitle": "Sukima Altera vs ALTERNATiVE THEORY",
+        "chartDifficulties": {
+            "Tower": 9
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse/Gewissenbisse.ogg",
+        "chartJacketFilePath": "S2 Taiko Towers/02 - Spicy/TSP05 - Gewissenbisse/Gewissenbisse1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S2 Taiko Towers/03 - Challenges/TCH01 - Rhythm Challenge",
+        "tjaFilesPath": [
+            "S2 Taiko Towers/03 - Challenges/TCH01 - Rhythm Challenge/uniqueID.json",
+            "S2 Taiko Towers/03 - Challenges/TCH01 - Rhythm Challenge/rhythmtest.tja",
+            "S2 Taiko Towers/03 - Challenges/TCH01 - Rhythm Challenge/rhythmtest.ogg",
+            "S2 Taiko Towers/03 - Challenges/TCH01 - Rhythm Challenge/rhythmtest.vtt"
+        ],
+        "tjaGenreFolder": "03 - Challenges",
+        "tjaMD5": "ebc226942d534d48d389a921b08985fe",
+        "chartSize": 2.42,
+        "chartTitle": "Rhythm Challenge Tower",
+        "chartSubtitle": "OPTK Sound Team \"Dashy\"",
+        "chartDifficulties": {
+            "Tower": 6
+        },
+        "chartAudioFilePath": "S2 Taiko Towers/03 - Challenges/TCH01 - Rhythm Challenge/rhythmtest.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/060 - lost in the cityscape",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/060 - lost in the cityscape/uniqueID.json",
+            "02 OpenTaiko Chapter II/060 - lost in the cityscape/lost in the cityscape.tja",
+            "02 OpenTaiko Chapter II/060 - lost in the cityscape/lost in the cityscape.ogg",
+            "02 OpenTaiko Chapter II/060 - lost in the cityscape/preimage.png"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "bc305a9a78f36093847169fd35730888",
+        "chartSize": 3.36,
+        "chartTitle": "lost in the cityscape",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/060 - lost in the cityscape/lost in the cityscape.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/060 - lost in the cityscape/preimage.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/046 - Exile",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/046 - Exile/uniqueID.json",
+            "02 OpenTaiko Chapter II/046 - Exile/Exile.ogg",
+            "02 OpenTaiko Chapter II/046 - Exile/Exile.tja",
+            "02 OpenTaiko Chapter II/046 - Exile/jacket.jpg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "f4f16beea06658ece0676cb1eda7971e",
+        "chartSize": 2.09,
+        "chartTitle": "\u03a3xil\u018e",
+        "chartSubtitle": "mrcool909090",
+        "chartDifficulties": {
+            "Edit": 11.7,
+            "Oni": 9,
+            "Hard": 9,
+            "Normal": 6,
+            "Easy": 6
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/046 - Exile/Exile.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/046 - Exile/jacket.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/066 - Heating up",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/066 - Heating up/uniqueID.json",
+            "02 OpenTaiko Chapter II/066 - Heating up/Heating Up.ogg",
+            "02 OpenTaiko Chapter II/066 - Heating up/Heating Up.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "d2d0639226593e2edc141f85be57ddb2",
+        "chartSize": 2.72,
+        "chartTitle": "Heating Up",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 5,
+            "Hard": 6,
+            "Oni": 8
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/066 - Heating up/Heating Up.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/090 - The Beat",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/090 - The Beat/uniqueID.json",
+            "02 OpenTaiko Chapter II/090 - The Beat/TheBeat.tja",
+            "02 OpenTaiko Chapter II/090 - The Beat/TheBeat.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "edf5f837bccae37cb9d5e43a32568ce0",
+        "chartSize": 2.11,
+        "chartTitle": "The Beat",
+        "chartSubtitle": "MesoPhunk",
+        "chartDifficulties": {
+            "Easy": 5,
+            "Normal": 6,
+            "Hard": 8,
+            "Oni": 10.2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/090 - The Beat/TheBeat.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/051 - 650 HP",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/051 - 650 HP/uniqueID.json",
+            "02 OpenTaiko Chapter II/051 - 650 HP/650 HP.ogg",
+            "02 OpenTaiko Chapter II/051 - 650 HP/650 HP.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "a7ee3a68c42b3fbf18b0818befedbbfb",
+        "chartSize": 1.81,
+        "chartTitle": "650 HP",
+        "chartSubtitle": "Akako Hinami",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/051 - 650 HP/650 HP.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/067 - Liar Prison",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/067 - Liar Prison/uniqueID.json",
+            "02 OpenTaiko Chapter II/067 - Liar Prison/Liar Prison.png",
+            "02 OpenTaiko Chapter II/067 - Liar Prison/Liar Prison.ogg",
+            "02 OpenTaiko Chapter II/067 - Liar Prison/Liar Prison.tja",
+            "02 OpenTaiko Chapter II/067 - Liar Prison/Liar Prison.vtt"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "8a83d17df94a11da8fba7c00c4339dc8",
+        "chartSize": 4.15,
+        "chartTitle": "Liar Prison",
+        "chartSubtitle": "SiLiS ft. Karin Natsuki",
+        "chartDifficulties": {
+            "Edit": 10.0,
+            "Oni": 8,
+            "Hard": 6,
+            "Easy": 2,
+            "Normal": 4
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/067 - Liar Prison/Liar Prison.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/067 - Liar Prison/Liar Prison.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/045 - Nanja Korya",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/045 - Nanja Korya/uniqueID.json",
+            "02 OpenTaiko Chapter II/045 - Nanja Korya/NanjaKorya.jpg",
+            "02 OpenTaiko Chapter II/045 - Nanja Korya/NanjaKorya.ogg",
+            "02 OpenTaiko Chapter II/045 - Nanja Korya/NanjaKorya.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "b4dd91c2c5682b8cacb6f84309cf2d6b",
+        "chartSize": 1.75,
+        "chartTitle": "nanja korya ?!",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 6,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/045 - Nanja Korya/NanjaKorya.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/045 - Nanja Korya/NanjaKorya.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/065 - Bounded Quietude",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/065 - Bounded Quietude/uniqueID.json",
+            "02 OpenTaiko Chapter II/065 - Bounded Quietude/Bounded Quietude.png",
+            "02 OpenTaiko Chapter II/065 - Bounded Quietude/Bounded Quietude.tja",
+            "02 OpenTaiko Chapter II/065 - Bounded Quietude/Bounded Quietude.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "55642e8d403f20f5be7a0cb253a22e73",
+        "chartSize": 3.69,
+        "chartTitle": "Bounded Quietude",
+        "chartSubtitle": "SiLiS vs Finite Limit",
+        "chartDifficulties": {
+            "Edit": 11.5,
+            "Oni": 10.2,
+            "Hard": 9,
+            "Normal": 8,
+            "Easy": 7
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/065 - Bounded Quietude/Bounded Quietude.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/065 - Bounded Quietude/Bounded Quietude.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/072 - Scarlet Soul",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/072 - Scarlet Soul/uniqueID.json",
+            "02 OpenTaiko Chapter II/072 - Scarlet Soul/Scarlet Soul.ogg",
+            "02 OpenTaiko Chapter II/072 - Scarlet Soul/Scarlet Soul.png",
+            "02 OpenTaiko Chapter II/072 - Scarlet Soul/Scarlet Soul.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "32b5c17c3ac7d8805ee9c645f542582f",
+        "chartSize": 3.48,
+        "chartTitle": "Scarlet Soul",
+        "chartSubtitle": "Cusi vs 9C",
+        "chartDifficulties": {
+            "Oni": 11.2,
+            "Hard": 9,
+            "Normal": 8,
+            "Easy": 6
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/072 - Scarlet Soul/Scarlet Soul.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/072 - Scarlet Soul/Scarlet Soul.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/082 - Comma",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/082 - Comma/uniqueID.json",
+            "02 OpenTaiko Chapter II/082 - Comma/Comma.ogg",
+            "02 OpenTaiko Chapter II/082 - Comma/Comma.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "2f076b958efecdb89cf9e630e02bbdf3",
+        "chartSize": 2.6,
+        "chartTitle": "Comma, ~ Imi to Kouzou no Bunri",
+        "chartSubtitle": "Sparxe",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 5,
+            "Hard": 7,
+            "Oni": 9,
+            "Edit": 10.5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/082 - Comma/Comma.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/058 - pipie",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/058 - pipie/uniqueID.json",
+            "02 OpenTaiko Chapter II/058 - pipie/pipie.ogg",
+            "02 OpenTaiko Chapter II/058 - pipie/pipie.tja",
+            "02 OpenTaiko Chapter II/058 - pipie/jacket.png"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "fea47576bef77fac63dc4d181eec61b9",
+        "chartSize": 7.83,
+        "chartTitle": "pipie",
+        "chartSubtitle": "goldenyoshi22",
+        "chartDifficulties": {
+            "Oni": 11.8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/058 - pipie/pipie.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/058 - pipie/jacket.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/075 - 640x480",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/075 - 640x480/640x480.png",
+            "02 OpenTaiko Chapter II/075 - 640x480/uniqueID.json",
+            "02 OpenTaiko Chapter II/075 - 640x480/640x480.ogg",
+            "02 OpenTaiko Chapter II/075 - 640x480/640x480.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "09045f3542d1b8f905f5e68672bfff31",
+        "chartSize": 2.51,
+        "chartTitle": "640x480",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Edit": 7,
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/075 - 640x480/640x480.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/075 - 640x480/640x480.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/054 - Synthsea",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/054 - Synthsea/uniqueID.json",
+            "02 OpenTaiko Chapter II/054 - Synthsea/Synthsea.tja",
+            "02 OpenTaiko Chapter II/054 - Synthsea/Synthsea.ogg",
+            "02 OpenTaiko Chapter II/054 - Synthsea/Synthsea.png"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "1069108b005e467a8c841f9f8d2c8f1a",
+        "chartSize": 19.69,
+        "chartTitle": "Synthsea",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/054 - Synthsea/Synthsea.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/054 - Synthsea/Synthsea.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/083 - Bracket",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/083 - Bracket/uniqueID.json",
+            "02 OpenTaiko Chapter II/083 - Bracket/Bracket.ogg",
+            "02 OpenTaiko Chapter II/083 - Bracket/Bracket.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "0fb4aaf9fd047016011399c255459e37",
+        "chartSize": 1.85,
+        "chartTitle": "<Bracket> \uff5eDuplicate of Chaos and Destruction\uff5e",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Oni": 10.9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/083 - Bracket/Bracket.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/084 - Next To You",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/084 - Next To You/uniqueID.json",
+            "02 OpenTaiko Chapter II/084 - Next To You/Next To You.tja",
+            "02 OpenTaiko Chapter II/084 - Next To You/Next To You.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "18693fa3c9cb2b1c5f773c5f7ee31542",
+        "chartSize": 4.22,
+        "chartTitle": "Next To You",
+        "chartSubtitle": "Astedroid & X3ll3n",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 6,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/084 - Next To You/Next To You.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/062 - next-level cityscape",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/062 - next-level cityscape/uniqueID.json",
+            "02 OpenTaiko Chapter II/062 - next-level cityscape/nextlevelcityscape.png",
+            "02 OpenTaiko Chapter II/062 - next-level cityscape/audio.ogg",
+            "02 OpenTaiko Chapter II/062 - next-level cityscape/next-level_cityscape.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "79a05ebb8eae774ab889f7abd25798b9",
+        "chartSize": 2.25,
+        "chartTitle": "next-level cityscape",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/062 - next-level cityscape/audio.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/062 - next-level cityscape/nextlevelcityscape.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/077 - Meowmetic",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/077 - Meowmetic/uniqueID.json",
+            "02 OpenTaiko Chapter II/077 - Meowmetic/Meowmetic.jpg",
+            "02 OpenTaiko Chapter II/077 - Meowmetic/Meowmetic.ogg",
+            "02 OpenTaiko Chapter II/077 - Meowmetic/Meowmetic.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "1b815a2caa061a2cf355ac15a312c900",
+        "chartSize": 4.87,
+        "chartTitle": "Meowmetic",
+        "chartSubtitle": "HHS",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 3,
+            "Hard": 4,
+            "Oni": 7
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/077 - Meowmetic/Meowmetic.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/077 - Meowmetic/Meowmetic.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/047 - Pixelated Angel",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/047 - Pixelated Angel/uniqueID.json",
+            "02 OpenTaiko Chapter II/047 - Pixelated Angel/Pixelated Angel.tja",
+            "02 OpenTaiko Chapter II/047 - Pixelated Angel/Pixelated Angel.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "5d8ac3af507927d75da732743addf2f3",
+        "chartSize": 4.04,
+        "chartTitle": "Pixelated Angel",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Oni": 10.0,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/047 - Pixelated Angel/Pixelated Angel.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/074 - Spatium Cursu",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/074 - Spatium Cursu/uniqueID.json",
+            "02 OpenTaiko Chapter II/074 - Spatium Cursu/Spatium Cursu.tja",
+            "02 OpenTaiko Chapter II/074 - Spatium Cursu/audio.ogg",
+            "02 OpenTaiko Chapter II/074 - Spatium Cursu/Spacium Cursu.png"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "b908868c20853833f1d904af4ccb5887",
+        "chartSize": 2.54,
+        "chartTitle": "Spatium Cursu",
+        "chartSubtitle": "X3ll3n",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/074 - Spatium Cursu/audio.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/074 - Spatium Cursu/Spacium Cursu.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/070 - Kernschmelze 256",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/070 - Kernschmelze 256/uniqueID.json",
+            "02 OpenTaiko Chapter II/070 - Kernschmelze 256/Kernschmelze 256.ogg",
+            "02 OpenTaiko Chapter II/070 - Kernschmelze 256/Kernschmelze_256.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "a94d72bd15264a0cfa3081a6961d3d0b",
+        "chartSize": 4.44,
+        "chartTitle": "Kernschmelze 256",
+        "chartSubtitle": "funkyzukin-Q",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/070 - Kernschmelze 256/Kernschmelze 256.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/059 - Hero's March",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/059 - Hero's March/uniqueID.json",
+            "02 OpenTaiko Chapter II/059 - Hero's March/Hero's March.tja",
+            "02 OpenTaiko Chapter II/059 - Hero's March/Hero's March.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "c2b1c96bbd3a2ab19eee64950fc3dab6",
+        "chartSize": 2.58,
+        "chartTitle": "Hero's March",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 5,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/059 - Hero's March/Hero's March.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/079 - MECHANICAL GOD",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/079 - MECHANICAL GOD/uniqueID.json",
+            "02 OpenTaiko Chapter II/079 - MECHANICAL GOD/MECHANICAL GOD.tja",
+            "02 OpenTaiko Chapter II/079 - MECHANICAL GOD/MECHANICAL GOD.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "2ecb3bb6109012137bc541332a299de2",
+        "chartSize": 1.56,
+        "chartTitle": "MECHANICAL GOD",
+        "chartSubtitle": "AZALI \u00d7 Crow",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 4,
+            "Hard": 6,
+            "Oni": 8,
+            "Edit": 10.6
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/079 - MECHANICAL GOD/MECHANICAL GOD.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/053 - Pyramid",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/053 - Pyramid/uniqueID.json",
+            "02 OpenTaiko Chapter II/053 - Pyramid/PYRAMID.ogg",
+            "02 OpenTaiko Chapter II/053 - Pyramid/PYRAMID.tja",
+            "02 OpenTaiko Chapter II/053 - Pyramid/PYRAMID.png"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "c5556ee9077f966dd86ca6fb0d541333",
+        "chartSize": 5.79,
+        "chartTitle": "PYR\u0394MiD",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/053 - Pyramid/PYRAMID.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/053 - Pyramid/PYRAMID.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/085 - Very long title",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/085 - Very long title/uniqueID.json",
+            "02 OpenTaiko Chapter II/085 - Very long title/leftalone.ogg",
+            "02 OpenTaiko Chapter II/085 - Very long title/leftalone.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "ddf60203cc9c57d0f288efc326357ebc",
+        "chartSize": 2.38,
+        "chartTitle": "i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 8,
+            "Oni": 10.0
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/085 - Very long title/leftalone.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/091 - thumb wrestling",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/091 - thumb wrestling/uniqueID.json",
+            "02 OpenTaiko Chapter II/091 - thumb wrestling/thumb wrestling.jpg",
+            "02 OpenTaiko Chapter II/091 - thumb wrestling/thumb wrestling.ogg",
+            "02 OpenTaiko Chapter II/091 - thumb wrestling/thumb wrestling.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "e2e578387fb3fcd88e3b6afbd60e341a",
+        "chartSize": 7.36,
+        "chartTitle": "thumb wrestling",
+        "chartSubtitle": "ok cheez",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/091 - thumb wrestling/thumb wrestling.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/091 - thumb wrestling/thumb wrestling.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/086 - Disappearing dreams",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/086 - Disappearing dreams/uniqueID.json",
+            "02 OpenTaiko Chapter II/086 - Disappearing dreams/\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~.ogg",
+            "02 OpenTaiko Chapter II/086 - Disappearing dreams/\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "114295d46aaada766c8371d6e1e62090",
+        "chartSize": 6.18,
+        "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Edit": 11.6,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5,
+            "Oni": 10.2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/086 - Disappearing dreams/\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/069 - Vanaheimr",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/069 - Vanaheimr/uniqueID.json",
+            "02 OpenTaiko Chapter II/069 - Vanaheimr/Vanaheimr.tja",
+            "02 OpenTaiko Chapter II/069 - Vanaheimr/Vanaheimr.png",
+            "02 OpenTaiko Chapter II/069 - Vanaheimr/Vanaheimr.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "9f7f03681dd4817f1ea1ec62d08fe447",
+        "chartSize": 2.75,
+        "chartTitle": "Vanaheimr",
+        "chartSubtitle": "SiLiS",
+        "chartDifficulties": {
+            "Edit": 11.4,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 4,
+            "Oni": 10.5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/069 - Vanaheimr/Vanaheimr.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/069 - Vanaheimr/Vanaheimr.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/061 - The Abyss",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/061 - The Abyss/The Abyss.ogg",
+            "02 OpenTaiko Chapter II/061 - The Abyss/uniqueID.json",
+            "02 OpenTaiko Chapter II/061 - The Abyss/The Abyss.tja",
+            "02 OpenTaiko Chapter II/061 - The Abyss/The Abyss.jpg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "53717298a4940a250e470c8280887790",
+        "chartSize": 4.02,
+        "chartTitle": "The Abyss",
+        "chartSubtitle": "ok cheez",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 3,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/061 - The Abyss/The Abyss.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/061 - The Abyss/The Abyss.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/049 - Overclocked",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/049 - Overclocked/uniqueID.json",
+            "02 OpenTaiko Chapter II/049 - Overclocked/Overclocked.ogg",
+            "02 OpenTaiko Chapter II/049 - Overclocked/Overclocked.jpg",
+            "02 OpenTaiko Chapter II/049 - Overclocked/Overclocked.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "7646db79fae86f73c6b867ea874fdad7",
+        "chartSize": 14.1,
+        "chartTitle": "Overclocked (Pocket Size)",
+        "chartSubtitle": "DeBisco",
+        "chartDifficulties": {
+            "Edit": 8,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/049 - Overclocked/Overclocked.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/049 - Overclocked/Overclocked.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/081 - Taikonitos",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/081 - Taikonitos/uniqueID.json",
+            "02 OpenTaiko Chapter II/081 - Taikonitos/Taikonitos.ogg",
+            "02 OpenTaiko Chapter II/081 - Taikonitos/Taikonitos.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "65de810f63bd4c750ea33fb4e6d59182",
+        "chartSize": 8.22,
+        "chartTitle": "Taikonitos",
+        "chartSubtitle": "Moox",
+        "chartDifficulties": {
+            "Easy": 3,
+            "Normal": 5,
+            "Hard": 7,
+            "Oni": 8
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/081 - Taikonitos/Taikonitos.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/063 - away",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/063 - away/uniqueID.json",
+            "02 OpenTaiko Chapter II/063 - away/away_cover_image.jpg",
+            "02 OpenTaiko Chapter II/063 - away/away.tja",
+            "02 OpenTaiko Chapter II/063 - away/away.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "3b01be51818ed989d18239a8363dbb74",
+        "chartSize": 2.59,
+        "chartTitle": "away",
+        "chartSubtitle": "rainfall",
+        "chartDifficulties": {
+            "Oni": 10.1,
+            "Easy": 1,
+            "Normal": 4,
+            "Hard": 7
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/063 - away/away.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/063 - away/away_cover_image.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/089 - FunkBoi",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/089 - FunkBoi/uniqueID.json",
+            "02 OpenTaiko Chapter II/089 - FunkBoi/FunkBoi.tja",
+            "02 OpenTaiko Chapter II/089 - FunkBoi/FunkBoi.ogg",
+            "02 OpenTaiko Chapter II/089 - FunkBoi/jacket.jpg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "448b370771a9a5905e97e4783d23e8e9",
+        "chartSize": 1.77,
+        "chartTitle": "FunkBoi",
+        "chartSubtitle": "SenPi",
+        "chartDifficulties": {
+            "Easy": 2,
+            "Normal": 6,
+            "Hard": 7,
+            "Oni": 9,
+            "Edit": 10.6
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/089 - FunkBoi/FunkBoi.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/089 - FunkBoi/jacket.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/078 - the garden",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/078 - the garden/uniqueID.json",
+            "02 OpenTaiko Chapter II/078 - the garden/the garden.ogg",
+            "02 OpenTaiko Chapter II/078 - the garden/the garden.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "9e49933aa7c8c615e20927940dbde88c",
+        "chartSize": 1.16,
+        "chartTitle": "the garden",
+        "chartSubtitle": "AZALI",
+        "chartDifficulties": {
+            "Easy": 1,
+            "Normal": 2,
+            "Hard": 4,
+            "Oni": 6
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/078 - the garden/the garden.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/048 - The Nostalgic Messenger",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/048 - The Nostalgic Messenger/uniqueID.json",
+            "02 OpenTaiko Chapter II/048 - The Nostalgic Messenger/TheNostalgicMessenger.ogg",
+            "02 OpenTaiko Chapter II/048 - The Nostalgic Messenger/TheNostalgicMessenger.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "45334fb1360a6d004e9535839e923ffa",
+        "chartSize": 2.1,
+        "chartTitle": "The Nostalgic Messenger",
+        "chartSubtitle": "CuZi",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 4,
+            "Normal": 4,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/048 - The Nostalgic Messenger/TheNostalgicMessenger.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/064 - PLANETES",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/064 - PLANETES/uniqueID.json",
+            "02 OpenTaiko Chapter II/064 - PLANETES/audio.ogg",
+            "02 OpenTaiko Chapter II/064 - PLANETES/PLANETES.png",
+            "02 OpenTaiko Chapter II/064 - PLANETES/PLANETES.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "b167a2c7db4b84b4b4ea3475d067b475",
+        "chartSize": 2.94,
+        "chartTitle": "PLANETES",
+        "chartSubtitle": "SiLiS",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Edit": 10.6,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/064 - PLANETES/audio.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/064 - PLANETES/PLANETES.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/050 - Annihilation",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/050 - Annihilation/uniqueID.json",
+            "02 OpenTaiko Chapter II/050 - Annihilation/Annihilation.ogg",
+            "02 OpenTaiko Chapter II/050 - Annihilation/Annihilation.tja"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "78cf53856dfb52ed45447a6db9dd315d",
+        "chartSize": 5.4,
+        "chartTitle": "Annihilation",
+        "chartSubtitle": "H5",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/050 - Annihilation/Annihilation.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/055 - NEKROS",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/055 - NEKROS/uniqueID.json",
+            "02 OpenTaiko Chapter II/055 - NEKROS/GRYSCL.ogg",
+            "02 OpenTaiko Chapter II/055 - NEKROS/GRYSCL.tja",
+            "02 OpenTaiko Chapter II/055 - NEKROS/GRYSCL.jpg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "d62f709b43be850fece8290883970ef4",
+        "chartSize": 1.98,
+        "chartTitle": "NEKROS",
+        "chartSubtitle": "GRYSCL",
+        "chartDifficulties": {
+            "Edit": 11.0,
+            "Oni": 10.2,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/055 - NEKROS/GRYSCL.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/055 - NEKROS/GRYSCL.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "02 OpenTaiko Chapter II/087 - Hero's Treasure",
+        "tjaFilesPath": [
+            "02 OpenTaiko Chapter II/087 - Hero's Treasure/uniqueID.json",
+            "02 OpenTaiko Chapter II/087 - Hero's Treasure/Hero_s Tresure.tja",
+            "02 OpenTaiko Chapter II/087 - Hero's Treasure/Hero_s Treasure.png",
+            "02 OpenTaiko Chapter II/087 - Hero's Treasure/Hero_s Tresure.ogg"
+        ],
+        "tjaGenreFolder": "02 OpenTaiko Chapter II",
+        "tjaMD5": "a2785b137653d748aa69e27e21b4af4d",
+        "chartSize": 2.12,
+        "chartTitle": "Hero's Treasure",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "02 OpenTaiko Chapter II/087 - Hero's Treasure/Hero_s Tresure.ogg",
+        "chartJacketFilePath": "02 OpenTaiko Chapter II/087 - Hero's Treasure/Hero_s Treasure.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/17 - \u4e03\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/17 - \u4e03\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/17 - \u4e03\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/17 - \u4e03\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/17 - \u4e03\u6bb5/7thDan.tja",
+            "S1 Dan-i Dojo/17 - \u4e03\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "06ba68690b35b5f5bb27ad1314b9a333",
+        "chartSize": 7.21,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/12 - \u4e8c\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/12 - \u4e8c\u6bb5/2ndDan.tja",
+            "S1 Dan-i Dojo/12 - \u4e8c\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/12 - \u4e8c\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/12 - \u4e8c\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/12 - \u4e8c\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "4f672891c8926578c144e75d8febf537",
+        "chartSize": 5.48,
+        "chartTitle": "\u4e8c\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 2nd Dan",
+        "chartDifficulties": {
+            "Dan": 7
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/12 - \u4e8c\u6bb5/1.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/99b. \u4f8b2",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/99b. \u4f8b2/uniqueID.json",
+            "S1 Dan-i Dojo/99b. \u4f8b2/TRIPLE HELIX.ogg",
+            "S1 Dan-i Dojo/99b. \u4f8b2/Re\uff1aC\u00f8llapse.ogg",
+            "S1 Dan-i Dojo/99b. \u4f8b2/650 HP.ogg",
+            "S1 Dan-i Dojo/99b. \u4f8b2/khatarsis.ogg",
+            "S1 Dan-i Dojo/99b. \u4f8b2/stars.ogg",
+            "S1 Dan-i Dojo/99b. \u4f8b2/ReiDeux.tja",
+            "S1 Dan-i Dojo/99b. \u4f8b2/WelcomeToTheCafe.ogg",
+            "S1 Dan-i Dojo/99b. \u4f8b2/Fearless.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "7775e4ff2f90d3f22742b6727079443d",
+        "chartSize": 21.04,
+        "chartTitle": "\u4f8b2",
+        "chartSubtitle": "",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/99b. \u4f8b2/Fearless.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/11 - \u521d\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/11 - \u521d\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/11 - \u521d\u6bb5/Shodan.tja",
+            "S1 Dan-i Dojo/11 - \u521d\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/11 - \u521d\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/11 - \u521d\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "56b6275e3dba4380b2c5eaffe1c74b8b",
+        "chartSize": 9.53,
+        "chartTitle": "\u521d\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 1st Dan",
+        "chartDifficulties": {
+            "Dan": 7
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/11 - \u521d\u6bb5/1.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/18 - \u516b\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/18 - \u516b\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/18 - \u516b\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/18 - \u516b\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/18 - \u516b\u6bb5/1.ogg",
+            "S1 Dan-i Dojo/18 - \u516b\u6bb5/8thDan.tja"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "7fb92c4854e215bb1d22b80d2e8830e9",
+        "chartSize": 15.61,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/14 - \u56db\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/14 - \u56db\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/14 - \u56db\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/14 - \u56db\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/14 - \u56db\u6bb5/1.ogg",
+            "S1 Dan-i Dojo/14 - \u56db\u6bb5/4thDan.tja"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "6fdade0211296c5127c2beadced67aa7",
+        "chartSize": 20.48,
+        "chartTitle": "\u56db\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 4th Dan",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/14 - \u56db\u6bb5/1.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/15 - \u4e94\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/15 - \u4e94\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/15 - \u4e94\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/15 - \u4e94\u6bb5/5thDan.tja",
+            "S1 Dan-i Dojo/15 - \u4e94\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/15 - \u4e94\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "d9ca42b02a5ec3534a856cf52f7f57b1",
+        "chartSize": 6.51,
+        "chartTitle": "\u4e94\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 5th Dan",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/15 - \u4e94\u6bb5/1.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/99. \u4f8b\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/99. \u4f8b\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/99. \u4f8b\u6bb5/CITYSCAPE.ogg",
+            "S1 Dan-i Dojo/99. \u4f8b\u6bb5/DeceivingTheDeceiver.ogg",
+            "S1 Dan-i Dojo/99. \u4f8b\u6bb5/ReiDan.tja",
+            "S1 Dan-i Dojo/99. \u4f8b\u6bb5/Breaking Point.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "c9c7eba0348d200bda9d0a53510de213",
+        "chartSize": 8.55,
+        "chartTitle": "i",
+        "chartSubtitle": "",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/99. \u4f8b\u6bb5/CITYSCAPE.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/16 - \u516d\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/16 - \u516d\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/16 - \u516d\u6bb5/6thDan.tja",
+            "S1 Dan-i Dojo/16 - \u516d\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/16 - \u516d\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/16 - \u516d\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "7c51394c5eca2a6d55ca046df0c8bf62",
+        "chartSize": 19.6,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/20 - \u5341\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/20 - \u5341\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/20 - \u5341\u6bb5/10thDan.tja",
+            "S1 Dan-i Dojo/20 - \u5341\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/20 - \u5341\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/20 - \u5341\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "1355759760e78970404cb3fad10a2094",
+        "chartSize": 5.35,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/13 - \u4e09\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/13 - \u4e09\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/13 - \u4e09\u6bb5/3rdDan.tja",
+            "S1 Dan-i Dojo/13 - \u4e09\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/13 - \u4e09\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/13 - \u4e09\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "601136e776c9c220c4366758c1ad28d8",
+        "chartSize": 6.03,
+        "chartTitle": "\u4e09\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 3rd Dan",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo/13 - \u4e09\u6bb5/1.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "S1 Dan-i Dojo/19 - \u4e5d\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo/19 - \u4e5d\u6bb5/uniqueID.json",
+            "S1 Dan-i Dojo/19 - \u4e5d\u6bb5/3.ogg",
+            "S1 Dan-i Dojo/19 - \u4e5d\u6bb5/2.ogg",
+            "S1 Dan-i Dojo/19 - \u4e5d\u6bb5/9thDan.tja",
+            "S1 Dan-i Dojo/19 - \u4e5d\u6bb5/1.ogg"
+        ],
+        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaMD5": "e23f9dbf26dbf1442dba618e34126357",
+        "chartSize": 16.9,
+        "chartTitle": "",
+        "chartSubtitle": "",
+        "chartDifficulties": {},
+        "chartAudioFilePath": null,
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/043 - TRIPLE HELIX",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/uniqueID.json",
+            "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/TRIPLE HELIX.ogg",
+            "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/Circulation.jpg",
+            "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/TRIPLE HELIX.tja",
+            "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/TRIPLE HELIX.vtt"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "26c0814614d4e79b3f968cfec7498601",
+        "chartSize": 4.73,
+        "chartTitle": "TRIPLE HELIX",
+        "chartSubtitle": "Yonokid",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 2,
+            "Edit": 10.5
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/TRIPLE HELIX.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/043 - TRIPLE HELIX/Circulation.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/019 - Back Where I'm From",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/019 - Back Where I'm From/uniqueID.json",
+            "01 OpenTaiko Chapter I/019 - Back Where I'm From/BWIF.jpg",
+            "01 OpenTaiko Chapter I/019 - Back Where I'm From/BackWhereImFrom.tja",
+            "01 OpenTaiko Chapter I/019 - Back Where I'm From/BackWhereImFrom.ogg",
+            "01 OpenTaiko Chapter I/019 - Back Where I'm From/BackWhereImFrom.vtt"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "25fa6820ed3afa9452420cf2587910e6",
+        "chartSize": 2.79,
+        "chartTitle": "Back Where I'm From",
+        "chartSubtitle": "NetroAki",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 7,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/019 - Back Where I'm From/BackWhereImFrom.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/019 - Back Where I'm From/BWIF.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/003 - Breaking Point",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/003 - Breaking Point/uniqueID.json",
+            "01 OpenTaiko Chapter I/003 - Breaking Point/Breaking Point.tja",
+            "01 OpenTaiko Chapter I/003 - Breaking Point/Cover.jpg",
+            "01 OpenTaiko Chapter I/003 - Breaking Point/Breaking Point.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "5a5baf98b5f4ce026c428a12ab21998b",
+        "chartSize": 4.74,
+        "chartTitle": "Breaking Point",
+        "chartSubtitle": "Yonokid",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/003 - Breaking Point/Breaking Point.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/003 - Breaking Point/Cover.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~/uniqueID.json",
+            "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~/Yukianesa ~Azure of Ice~.ogg",
+            "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~/yukianesa.jpg",
+            "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~/Yukianesa ~Azure of Ice~.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "68c9fba258b8c33c8cd41760ae16b5f4",
+        "chartSize": 5.95,
+        "chartTitle": "Yukianesa ~Azure of Ice~",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~/Yukianesa ~Azure of Ice~.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/037 - Yukianesa ~Azure of Ice~/yukianesa.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/041 - Beyond the Cityscape",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/041 - Beyond the Cityscape/uniqueID.json",
+            "01 OpenTaiko Chapter I/041 - Beyond the Cityscape/Beyond the Cityscape.tja",
+            "01 OpenTaiko Chapter I/041 - Beyond the Cityscape/Beyond the Cityscape.ogg",
+            "01 OpenTaiko Chapter I/041 - Beyond the Cityscape/Beyond the Cityscape.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "95d1639c15095000bf0bdb3823305631",
+        "chartSize": 2.33,
+        "chartTitle": "beyond the cityscape",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 10.1,
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/041 - Beyond the Cityscape/Beyond the Cityscape.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/041 - Beyond the Cityscape/Beyond the Cityscape.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/035 - ENDOMANCER",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/035 - ENDOMANCER/uniqueID.json",
+            "01 OpenTaiko Chapter I/035 - ENDOMANCER/ENDOMANCER.vtt",
+            "01 OpenTaiko Chapter I/035 - ENDOMANCER/ENDOMANCER.ogg",
+            "01 OpenTaiko Chapter I/035 - ENDOMANCER/ENDOMANCER.png",
+            "01 OpenTaiko Chapter I/035 - ENDOMANCER/ENDOMANCER.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "6fa53477a7025c21c8d41c52f9d72c78",
+        "chartSize": 3.05,
+        "chartTitle": "ENDOMANCER",
+        "chartSubtitle": "Zovi",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/035 - ENDOMANCER/ENDOMANCER.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/035 - ENDOMANCER/ENDOMANCER.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/020 - Slayer of",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/020 - Slayer of/uniqueID.json",
+            "01 OpenTaiko Chapter I/020 - Slayer of/Slayer of..ogg",
+            "01 OpenTaiko Chapter I/020 - Slayer of/Slayer of..tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "c9d22dd4bea24ca213a26509585040f6",
+        "chartSize": 1.26,
+        "chartTitle": "Slayer of.",
+        "chartSubtitle": "Aden Mayo",
+        "chartDifficulties": {
+            "Edit": 10.8,
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/020 - Slayer of/Slayer of..ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/013 - Corrupted_Angel",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/013 - Corrupted_Angel/uniqueID.json",
+            "01 OpenTaiko Chapter I/013 - Corrupted_Angel/Corrupted Angel.ogg",
+            "01 OpenTaiko Chapter I/013 - Corrupted_Angel/angel.png",
+            "01 OpenTaiko Chapter I/013 - Corrupted_Angel/Corrupted Angel.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "067c322db7abdf8de81b14cdd2b6364a",
+        "chartSize": 3.49,
+        "chartTitle": "Corrupted Angel",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/013 - Corrupted_Angel/Corrupted Angel.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/013 - Corrupted_Angel/angel.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/022 - Seismic Shake",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/022 - Seismic Shake/uniqueID.json",
+            "01 OpenTaiko Chapter I/022 - Seismic Shake/Seismic Shake.tja",
+            "01 OpenTaiko Chapter I/022 - Seismic Shake/Seismic Shake.png",
+            "01 OpenTaiko Chapter I/022 - Seismic Shake/Seismic Shake.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "f0bea8948716e50df2296919eb462796",
+        "chartSize": 7.65,
+        "chartTitle": "Seismic Shake",
+        "chartSubtitle": "DeBisco",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Edit": 10.5,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/022 - Seismic Shake/Seismic Shake.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/022 - Seismic Shake/Seismic Shake.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/005 - WTF",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/005 - WTF/uniqueID.json",
+            "01 OpenTaiko Chapter I/005 - WTF/MooX - WTF.tja",
+            "01 OpenTaiko Chapter I/005 - WTF/wtf.png",
+            "01 OpenTaiko Chapter I/005 - WTF/MooX - WTF.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "63baec5b0e0582aaf3af2624a9eaa1fe",
+        "chartSize": 3.2,
+        "chartTitle": "WTF?!",
+        "chartSubtitle": "Moox",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/005 - WTF/MooX - WTF.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/005 - WTF/wtf.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren/uniqueID.json",
+            "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren/Zerstoren1.jpg",
+            "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren/Zerst\u00f6ren.ogg",
+            "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren/Zerst\u00f6ren.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "b011ef17915fbbfaeda5912177815413",
+        "chartSize": 6.13,
+        "chartTitle": "Zerst\u00f6ren",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Edit": 10.3,
+            "Oni": 8,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren/Zerst\u00f6ren.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/002 - Zerst\u00f6ren/Zerstoren1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/042 - Shockwave",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/042 - Shockwave/uniqueID.json",
+            "01 OpenTaiko Chapter I/042 - Shockwave/Shockwave.ogg",
+            "01 OpenTaiko Chapter I/042 - Shockwave/Shockwave.tja",
+            "01 OpenTaiko Chapter I/042 - Shockwave/Shockwave.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "fb84fdf37e366dbc076c74bdedf3d5ab",
+        "chartSize": 2.8,
+        "chartTitle": "Shockwave",
+        "chartSubtitle": "Yonokid",
+        "chartDifficulties": {
+            "Oni": 10.7,
+            "Hard": 7,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/042 - Shockwave/Shockwave.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/042 - Shockwave/Shockwave.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/017 - Halcyon",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/017 - Halcyon/uniqueID.json",
+            "01 OpenTaiko Chapter I/017 - Halcyon/Halcyon.png",
+            "01 OpenTaiko Chapter I/017 - Halcyon/Halcyon.tja",
+            "01 OpenTaiko Chapter I/017 - Halcyon/Halcyon.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "886580445cc7dfc46354d265c65e7d32",
+        "chartSize": 3.06,
+        "chartTitle": "Halcyon",
+        "chartSubtitle": "Akako Hinami",
+        "chartDifficulties": {
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/017 - Halcyon/Halcyon.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/017 - Halcyon/Halcyon.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/016 - Summer Overload!",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/016 - Summer Overload!/uniqueID.json",
+            "01 OpenTaiko Chapter I/016 - Summer Overload!/Summer Overload!.ogg",
+            "01 OpenTaiko Chapter I/016 - Summer Overload!/Summer Overload!.tja",
+            "01 OpenTaiko Chapter I/016 - Summer Overload!/Summer Overload!.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "bbf27dba6688e263010f53eb7203b000",
+        "chartSize": 2.99,
+        "chartTitle": "Summer Overload!",
+        "chartSubtitle": "Akako Hinami",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/016 - Summer Overload!/Summer Overload!.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/016 - Summer Overload!/Summer Overload!.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/023 - Stereotype",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/023 - Stereotype/uniqueID.json",
+            "01 OpenTaiko Chapter I/023 - Stereotype/Stereotype.tja",
+            "01 OpenTaiko Chapter I/023 - Stereotype/Stereotype.ogg",
+            "01 OpenTaiko Chapter I/023 - Stereotype/Stereotype.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "5ccb182e1059a4188558fa9e0b6e9970",
+        "chartSize": 8.14,
+        "chartTitle": "Stereotype",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/023 - Stereotype/Stereotype.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/023 - Stereotype/Stereotype.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/028 - Katharsis",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/028 - Katharsis/uniqueID.json",
+            "01 OpenTaiko Chapter I/028 - Katharsis/Katharsis.png",
+            "01 OpenTaiko Chapter I/028 - Katharsis/khatarsis.ogg",
+            "01 OpenTaiko Chapter I/028 - Katharsis/khatarsis.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "bc10b5ae55b6d63b8440c75209230473",
+        "chartSize": 2.5,
+        "chartTitle": "Katharsis",
+        "chartSubtitle": "9C",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/028 - Katharsis/khatarsis.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/028 - Katharsis/Katharsis.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/014 - Startup Parade!",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/014 - Startup Parade!/uniqueID.json",
+            "01 OpenTaiko Chapter I/014 - Startup Parade!/Startup Parade!.tja",
+            "01 OpenTaiko Chapter I/014 - Startup Parade!/Startup Parade!.ogg",
+            "01 OpenTaiko Chapter I/014 - Startup Parade!/jacket.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "b0fa76909ca9383c865f477b91b31141",
+        "chartSize": 1.36,
+        "chartTitle": "Startup Parade!",
+        "chartSubtitle": "Ryuto Setsujin",
+        "chartDifficulties": {
+            "Oni": 5,
+            "Hard": 3,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/014 - Startup Parade!/Startup Parade!.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/014 - Startup Parade!/jacket.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/011 - Liberation",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/011 - Liberation/uniqueID.json",
+            "01 OpenTaiko Chapter I/011 - Liberation/Liberation.ogg",
+            "01 OpenTaiko Chapter I/011 - Liberation/Liberation.png",
+            "01 OpenTaiko Chapter I/011 - Liberation/Liberation.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "e33bac77bb7c1bc76ff8f8574478ac65",
+        "chartSize": 3.05,
+        "chartTitle": "Liberation",
+        "chartSubtitle": "DeBisco",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/011 - Liberation/Liberation.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/011 - Liberation/Liberation.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/006 - Athazagoraphobia",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/006 - Athazagoraphobia/uniqueID.json",
+            "01 OpenTaiko Chapter I/006 - Athazagoraphobia/Athazagoraphobia.tja",
+            "01 OpenTaiko Chapter I/006 - Athazagoraphobia/Athazagoraphobia.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "cd058754cbbaca73815b6745eb9a6a05",
+        "chartSize": 3.1,
+        "chartTitle": "Athazagoraphobia",
+        "chartSubtitle": "Derpikarp",
+        "chartDifficulties": {
+            "Edit": 10.6,
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/006 - Athazagoraphobia/Athazagoraphobia.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/025 - Fearless",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/025 - Fearless/uniqueID.json",
+            "01 OpenTaiko Chapter I/025 - Fearless/Fearless.tja",
+            "01 OpenTaiko Chapter I/025 - Fearless/Fearless.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "1493430fe29281016a9f0e03e826f6ac",
+        "chartSize": 2.89,
+        "chartTitle": "Fearless",
+        "chartSubtitle": "Ash Electric",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/025 - Fearless/Fearless.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/034 - The World of Our Past",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/034 - The World of Our Past/uniqueID.json",
+            "01 OpenTaiko Chapter I/034 - The World of Our Past/world.ogg",
+            "01 OpenTaiko Chapter I/034 - The World of Our Past/world.tja",
+            "01 OpenTaiko Chapter I/034 - The World of Our Past/world.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "0127f0882fdb0ea5ca49a280818cadc8",
+        "chartSize": 10.0,
+        "chartTitle": "The World of Our Past",
+        "chartSubtitle": "DashyDesu & rainfall",
+        "chartDifficulties": {
+            "3": 8,
+            "2": 7,
+            "1": 4,
+            "0": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/034 - The World of Our Past/world.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/034 - The World of Our Past/world.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/033 - Alonebirthday",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/033 - Alonebirthday/uniqueID.json",
+            "01 OpenTaiko Chapter I/033 - Alonebirthday/Alonebirthday.tja",
+            "01 OpenTaiko Chapter I/033 - Alonebirthday/Alonebirthday.ogg",
+            "01 OpenTaiko Chapter I/033 - Alonebirthday/Alonebirthday.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "a5db6da30a577638e0cf9e8f34b16910",
+        "chartSize": 8.72,
+        "chartTitle": "Alonebirthday",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Edit": 10.2,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/033 - Alonebirthday/Alonebirthday.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/033 - Alonebirthday/Alonebirthday.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/021 - Welcome To The Cafe",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/uniqueID.json",
+            "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe.tja",
+            "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
+            "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "625d2dadfb3aaa861e9544de5ee98ea7",
+        "chartSize": 3.13,
+        "chartTitle": "Welcome To The Cafe",
+        "chartSubtitle": "Sukima Altera feat. ALTERNATiVE THEORY",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Edit": 7,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/030 - \u95c7",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/030 - \u95c7/YamiAlbum.jpg",
+            "01 OpenTaiko Chapter I/030 - \u95c7/uniqueID.json",
+            "01 OpenTaiko Chapter I/030 - \u95c7/Yami.tja",
+            "01 OpenTaiko Chapter I/030 - \u95c7/Yami.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "5d91c3ed4ae6e49b8bdfbe5f1f2102fe",
+        "chartSize": 8.49,
+        "chartTitle": "",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Edit": 11.3,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/030 - \u95c7/Yami.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/030 - \u95c7/YamiAlbum.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/007 - Gewissenbisse",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/007 - Gewissenbisse/uniqueID.json",
+            "01 OpenTaiko Chapter I/007 - Gewissenbisse/Gewissenbisse1.jpg",
+            "01 OpenTaiko Chapter I/007 - Gewissenbisse/Gewissenbisse.ogg",
+            "01 OpenTaiko Chapter I/007 - Gewissenbisse/Gewissenbisse.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "87812b882650722aa442639979a26523",
+        "chartSize": 2.89,
+        "chartTitle": "Gewissenbisse",
+        "chartSubtitle": "Sukima Altera vs ALTERNATiVE THEORY",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/007 - Gewissenbisse/Gewissenbisse.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/007 - Gewissenbisse/Gewissenbisse1.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/044 - Memory",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/044 - Memory/uniqueID.json",
+            "01 OpenTaiko Chapter I/044 - Memory/Memory.ogg",
+            "01 OpenTaiko Chapter I/044 - Memory/Memory.png",
+            "01 OpenTaiko Chapter I/044 - Memory/Memory.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "9798922cbb7a55facb05e138a9ac360a",
+        "chartSize": 2.5,
+        "chartTitle": "Memory",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Edit": 11.2,
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/044 - Memory/Memory.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/044 - Memory/Memory.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/uniqueID.json",
+            "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/DLB.png",
+            "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/DON'T LOOK BACK.ogg",
+            "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/DON'T LOOK BACK.vtt",
+            "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/DON'T LOOK BACK.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "92256940c5e2b5fbba2ef08acc30c272",
+        "chartSize": 3.29,
+        "chartTitle": "DON'T LOOK BACK",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Edit": 12,
+            "Oni": 10.7,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/DON'T LOOK BACK.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/008 - DONT_LOOK_BACK/DLB.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/036 - RUiNED GLORY",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/036 - RUiNED GLORY/uniqueID.json",
+            "01 OpenTaiko Chapter I/036 - RUiNED GLORY/RUiNED GLORY.ogg",
+            "01 OpenTaiko Chapter I/036 - RUiNED GLORY/RUiNED GLORY.tja",
+            "01 OpenTaiko Chapter I/036 - RUiNED GLORY/RUiNED GLORY.jpg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "a115f9ce30edd097cfe4e094a13f7a40",
+        "chartSize": 2.35,
+        "chartTitle": "RUiNED GLORY",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/036 - RUiNED GLORY/RUiNED GLORY.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/036 - RUiNED GLORY/RUiNED GLORY.jpg"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/040 - Every Night",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/040 - Every Night/Every Night.tja",
+            "01 OpenTaiko Chapter I/040 - Every Night/uniqueID.json",
+            "01 OpenTaiko Chapter I/040 - Every Night/Every Night.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "a35092618ab7b741579c41bdc9423cb3",
+        "chartSize": 7.86,
+        "chartTitle": "Every Night",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/040 - Every Night/Every Night.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/031 - Mischief Madness",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/031 - Mischief Madness/uniqueID.json",
+            "01 OpenTaiko Chapter I/031 - Mischief Madness/Mischief Madness.ogg",
+            "01 OpenTaiko Chapter I/031 - Mischief Madness/Mischief Madness.tja",
+            "01 OpenTaiko Chapter I/031 - Mischief Madness/mischiefmadness.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "18a3dba8d789532916af88816ebcc259",
+        "chartSize": 3.3,
+        "chartTitle": "mischief madness",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 6
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/031 - Mischief Madness/Mischief Madness.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/031 - Mischief Madness/mischiefmadness.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/001 - CITYSCAPE",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/001 - CITYSCAPE/uniqueID.json",
+            "01 OpenTaiko Chapter I/001 - CITYSCAPE/CITYSCAPE.ogg",
+            "01 OpenTaiko Chapter I/001 - CITYSCAPE/cityscape.png",
+            "01 OpenTaiko Chapter I/001 - CITYSCAPE/CITYSCAPE.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "0e384fd1f4f71a1cbc9672c6f8df9211",
+        "chartSize": 3.19,
+        "chartTitle": "cityscape",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 9,
+            "Oni": 6,
+            "Hard": 6,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/001 - CITYSCAPE/CITYSCAPE.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/001 - CITYSCAPE/cityscape.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/029 - Two Steppin Love",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/029 - Two Steppin Love/uniqueID.json",
+            "01 OpenTaiko Chapter I/029 - Two Steppin Love/2 Steppin Love.ogg",
+            "01 OpenTaiko Chapter I/029 - Two Steppin Love/2 Steppin Love.tja",
+            "01 OpenTaiko Chapter I/029 - Two Steppin Love/2 Steppin Love.vtt",
+            "01 OpenTaiko Chapter I/029 - Two Steppin Love/2 Steppin Love.png"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "e84e3da478c9fad9d795e87f3f4741f1",
+        "chartSize": 2.63,
+        "chartTitle": "2\u200b-\u200bSteppin' Love",
+        "chartSubtitle": "FUNKYZUKIN ft. Hatsune Miku",
+        "chartDifficulties": {
+            "Edit": 7,
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/029 - Two Steppin Love/2 Steppin Love.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/029 - Two Steppin Love/2 Steppin Love.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/010 - BassBoL",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/010 - BassBoL/uniqueID.json",
+            "01 OpenTaiko Chapter I/010 - BassBoL/BassBol.png",
+            "01 OpenTaiko Chapter I/010 - BassBoL/BassBoL.ogg",
+            "01 OpenTaiko Chapter I/010 - BassBoL/BassBoL.tja"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "61bd5cd524be282b7e185c3deb71794f",
+        "chartSize": 6.86,
+        "chartTitle": "BassBoL",
+        "chartSubtitle": "InterChan",
+        "chartDifficulties": {
+            "Oni": 10.9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/010 - BassBoL/BassBoL.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/010 - BassBoL/BassBol.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/015 - White Heart",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/015 - White Heart/uniqueID.json",
+            "01 OpenTaiko Chapter I/015 - White Heart/White-Heart_Jacket-ARt.png",
+            "01 OpenTaiko Chapter I/015 - White Heart/White Heart.tja",
+            "01 OpenTaiko Chapter I/015 - White Heart/White Heart.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "b7c53fbf32b520e43552185a6cf8efcd",
+        "chartSize": 3.19,
+        "chartTitle": "White Heart",
+        "chartSubtitle": "9C feat. Cusi",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/015 - White Heart/White Heart.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/015 - White Heart/White-Heart_Jacket-ARt.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV/139 - euphoric eruption",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV/139 - euphoric eruption/uniqueID.json",
+            "04 OpenTaiko Chapter IV/139 - euphoric eruption/euphoric eruption.png",
+            "04 OpenTaiko Chapter IV/139 - euphoric eruption/euphoric eruption.tja",
+            "04 OpenTaiko Chapter IV/139 - euphoric eruption/euphoric eruption.ogg"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "faa463aa4a7840e0e25c7f1bda89e8ef",
+        "chartSize": 2.03,
+        "chartTitle": "euphoric eruption",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV/139 - euphoric eruption/euphoric eruption.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV/139 - euphoric eruption/euphoric eruption.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV/141 - AQUAMARINE",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV/141 - AQUAMARINE/uniqueID.json",
+            "04 OpenTaiko Chapter IV/141 - AQUAMARINE/AQUAMARINE.png",
+            "04 OpenTaiko Chapter IV/141 - AQUAMARINE/AQUAMARINE.tja",
+            "04 OpenTaiko Chapter IV/141 - AQUAMARINE/AQUAMARINE.ogg"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "d551c24bf5d68de074ba369d5340b254",
+        "chartSize": 4.29,
+        "chartTitle": "AQUAMARINE",
+        "chartSubtitle": "McBoiled",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV/141 - AQUAMARINE/AQUAMARINE.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV/141 - AQUAMARINE/AQUAMARINE.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV/138 - Startup Parade Remix",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV/138 - Startup Parade Remix/uniqueID.json",
+            "04 OpenTaiko Chapter IV/138 - Startup Parade Remix/Startup Parade! (Ryuto Setsujin + Makotora Remix).png",
+            "04 OpenTaiko Chapter IV/138 - Startup Parade Remix/Startup Parade! (Ryuto Setsujin + Makotora Remix).tja",
+            "04 OpenTaiko Chapter IV/138 - Startup Parade Remix/Startup Parade! (Ryuto Setsujin + Makotora Remix).ogg"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "048e91623dd82ac6d45a4a8eee621115",
+        "chartSize": 2.52,
+        "chartTitle": "Startup Parade! (Ryuto Setsujin + Makotora Remix)",
+        "chartSubtitle": "Ryuto Setsujin + Makotora",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 4,
+            "Normal": 2,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV/138 - Startup Parade Remix/Startup Parade! (Ryuto Setsujin + Makotora Remix).ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV/138 - Startup Parade Remix/Startup Parade! (Ryuto Setsujin + Makotora Remix).png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV/140 - Nova night",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV/140 - Nova night/uniqueID.json",
+            "04 OpenTaiko Chapter IV/140 - Nova night/nova.tja",
+            "04 OpenTaiko Chapter IV/140 - Nova night/nova.png",
+            "04 OpenTaiko Chapter IV/140 - Nova night/nova.ogg"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "c497e2e56290d34be894f0c9b0dcebdd",
+        "chartSize": 3.67,
+        "chartTitle": "NOVA's Night!!",
+        "chartSubtitle": "alden",
+        "chartDifficulties": {
+            "Edit": 7,
+            "Oni": 6,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV/140 - Nova night/nova.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV/140 - Nova night/nova.png"
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV/142 - floatfobia",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV/142 - floatfobia/uniqueID.json",
+            "04 OpenTaiko Chapter IV/142 - floatfobia/floatfobia.ogg",
+            "04 OpenTaiko Chapter IV/142 - floatfobia/floatfobia.tja"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "8a9712642ef9e670637764c4a4168b6a",
+        "chartSize": 1.7,
+        "chartTitle": "floatfobia",
+        "chartSubtitle": "ArLgon",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 4
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV/142 - floatfobia/floatfobia.ogg",
+        "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "Unknown",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV/143 - you ruined me with your lies",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV/143 - you ruined me with your lies/uniqueID.json",
+            "04 OpenTaiko Chapter IV/143 - you ruined me with your lies/you ruined me with your lies.ogg",
+            "04 OpenTaiko Chapter IV/143 - you ruined me with your lies/you ruined me with your lies.tja"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "be157fbdeaf17557ee34763d8c666beb",
+        "chartSize": 2.4,
+        "chartTitle": "you ruined me with your lies",
+        "chartSubtitle": "Teocore",
+        "chartDifficulties": {
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV/143 - you ruined me with your lies/you ruined me with your lies.ogg",
+        "chartJacketFilePath": null
+    }
+]
