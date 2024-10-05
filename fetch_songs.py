@@ -135,7 +135,7 @@ def process_tja_files(base_path):
                 total_size_mb = calculate_total_size(tja_folder_files)
 
                 # Get uniqueId from uniqueId.json using utf-8-sig encoding to handle BOM
-                unique_id_file = os.path.join(root, "uniqueId.json")
+                unique_id_file = os.path.join(root, "uniqueID.json")
                 if os.path.exists(unique_id_file):
                     try:
                         with open(unique_id_file, "r", encoding="utf-8-sig") as uid_file:
