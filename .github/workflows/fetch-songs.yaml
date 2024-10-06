@@ -15,6 +15,10 @@ jobs:
       contents: write
 
     steps:
+      - name: Disable line-ending conversion
+        run: |
+        git config --global core.autocrlf false
+        
       - name: Checkout Repository
         uses: actions/checkout@v2
 
