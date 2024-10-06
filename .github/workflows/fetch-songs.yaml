@@ -7,7 +7,7 @@ on:
 
 jobs:
   fetch_songs:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
