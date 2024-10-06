@@ -587,30 +587,6 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III/108 - FINAL HOPE/FINAL HOPE.jpg"
     },
     {
-        "uniqueId": "7Lstfr408z2EOnuhF37D1dI1xLq56XGtLyvbF1VhZzFtFnge0LY4wPJaxEukaPSQ",
-        "tjaFolderPath": "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c",
-        "tjaFilesPath": [
-            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/uniqueID.json",
-            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.tja",
-            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.ogg",
-            "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.png"
-        ],
-        "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "97c4390d4c9bd73b94802d6c52138e28",
-        "chartSize": 1.84,
-        "chartTitle": "Shoubu Biyori",
-        "chartSubtitle": "Y.W",
-        "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 5,
-            "Normal": 4,
-            "Easy": 2,
-            "Edit": 10.7
-        },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.ogg",
-        "chartJacketFilePath": "03 OpenTaiko Chapter III/115 - \u83d6\u84b2\u65e5\u548c/shoubu_biyori.png"
-    },
-    {
         "uniqueId": "PumWZwvVeA2i6vZVjDruLIDifDCUcMbd6SGyuyAHXQuiYixVyKJdAkDqW7Bmftyb",
         "tjaFolderPath": "03 OpenTaiko Chapter III/110 - ETHEREAL VELOCITY",
         "tjaFilesPath": [
@@ -729,30 +705,6 @@
         "chartJacketFilePath": null
     },
     {
-        "uniqueId": "Rjlgw7WEpvImdZ9gRBHYo6UUepRDsYo4R4WOMDUnxUWFkevq4br1KjvxTjnBLhH4",
-        "tjaFolderPath": "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b",
-        "tjaFilesPath": [
-            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/uniqueID.json",
-            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.ogg",
-            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.vtt",
-            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.tja",
-            "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.png"
-        ],
-        "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "6d388f6c921cc9cb2fd3fdead63ce5ae",
-        "chartSize": 6.24,
-        "chartTitle": "Souzou shiku naru",
-        "chartSubtitle": "TAK a.k.a. Tokky",
-        "chartDifficulties": {
-            "Oni": 7,
-            "Hard": 5,
-            "Normal": 3,
-            "Easy": 1
-        },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.ogg",
-        "chartJacketFilePath": "03 OpenTaiko Chapter III/113 - \u9a12\u3005\u3057\u304f\u306a\u308b/souzou.png"
-    },
-    {
         "uniqueId": "0LlpKVpmaCJE2GUu8BNt1Etjp5ektlrW7ebXOSyLbZELmvKlNNvdDdyHuOPVF46B",
         "tjaFolderPath": "03 OpenTaiko Chapter III/102 - GET REAL",
         "tjaFilesPath": [
@@ -801,6 +753,28 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III/111 - 2024/2024 BPM IS NOT ENOUGH.png"
     },
     {
+        "uniqueId": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/117 - M Ji U",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/117 - M Ji U/uniqueID.json",
+            "03 OpenTaiko Chapter III/117 - M Ji U/MJiU.ogg",
+            "03 OpenTaiko Chapter III/117 - M Ji U/MJiU.tja"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "786408b1d44bd9cd1e43cb55c8f7afb9",
+        "chartSize": 4.1,
+        "chartTitle": "M_\u300aJi\uff1a\u00dc\u300b",
+        "chartSubtitle": "Masamune",
+        "chartDifficulties": {
+            "Oni": 10.8,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/117 - M Ji U/MJiU.ogg",
+        "chartJacketFilePath": null
+    },
+    {
         "uniqueId": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzF",
         "tjaFolderPath": "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway",
         "tjaFilesPath": [
@@ -823,6 +797,30 @@
         },
         "chartAudioFilePath": "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III/118 - Froggy Forest Raceway/Froggy Forest Raceway.png"
+    },
+    {
+        "uniqueId": "sR5rRUAUWt49NPMXqLHdPIWki09vHd84K1xSqfOGv3kkdYAYDF05DU406tyuLKk0",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/114 - pretty kitty,yes",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/114 - pretty kitty,yes/uniqueID.json",
+            "03 OpenTaiko Chapter III/114 - pretty kitty,yes/pretty kitty.ogg",
+            "03 OpenTaiko Chapter III/114 - pretty kitty,yes/pretty kitty.tja",
+            "03 OpenTaiko Chapter III/114 - pretty kitty,yes/pretty kitty.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "77b508e9ee33f1710c67f18a1ec8ec19",
+        "chartSize": 1.68,
+        "chartTitle": "pretty kitty, yes?",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1,
+            "Edit": 9
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/114 - pretty kitty,yes/pretty kitty.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/114 - pretty kitty,yes/pretty kitty.png"
     },
     {
         "uniqueId": "MayhemX3ll3nBenjiG",
@@ -848,28 +846,6 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III/128 - Mayhem/Mayhem.png"
     },
     {
-        "uniqueId": "j9FAa9tm4m5dsKGLhy9Z5kuqq6ryIMnm7Qdm5FlGaFJqdgLKdMnrlQ8kBEHakXzU",
-        "tjaFolderPath": "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b",
-        "tjaFilesPath": [
-            "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/uniqueID.json",
-            "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/M_\u300aJi\uff1a\u00dc\u300b.ogg",
-            "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/M_\u300aJi\uff1a\u00dc\u300b.tja"
-        ],
-        "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "a29d41c3eeb7f6ccb26a2c5cc964db9e",
-        "chartSize": 4.1,
-        "chartTitle": "M_\u300aJi\uff1a\u00dc\u300b",
-        "chartSubtitle": "Masamune",
-        "chartDifficulties": {
-            "Oni": 10.8,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
-        },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III/117 - M_\u300aJi\uff1a\u00dc\u300b/M_\u300aJi\uff1a\u00dc\u300b.ogg",
-        "chartJacketFilePath": null
-    },
-    {
         "uniqueId": "gPCrL449oVjg3soU9xqNKP7DNTpDZpaVcHG6iPLtSnUSddTIrrwNCiOBuxPIWGIn",
         "tjaFolderPath": "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION",
         "tjaFilesPath": [
@@ -892,6 +868,30 @@
         },
         "chartAudioFilePath": "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.ogg",
         "chartJacketFilePath": "03 OpenTaiko Chapter III/105 - CHAOTIC DIMENSION/CHAOTIC DIMENSION.png"
+    },
+    {
+        "uniqueId": "Rjlgw7WEpvImdZ9gRBHYo6UUepRDsYo4R4WOMDUnxUWFkevq4br1KjvxTjnBLhH4",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/113 - Souzoushikunaru",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/113 - Souzoushikunaru/uniqueID.json",
+            "03 OpenTaiko Chapter III/113 - Souzoushikunaru/souzou.ogg",
+            "03 OpenTaiko Chapter III/113 - Souzoushikunaru/souzou.vtt",
+            "03 OpenTaiko Chapter III/113 - Souzoushikunaru/souzou.tja",
+            "03 OpenTaiko Chapter III/113 - Souzoushikunaru/souzou.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "6d388f6c921cc9cb2fd3fdead63ce5ae",
+        "chartSize": 6.24,
+        "chartTitle": "Souzou shiku naru",
+        "chartSubtitle": "TAK a.k.a. Tokky",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 3,
+            "Easy": 1
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/113 - Souzoushikunaru/souzou.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/113 - Souzoushikunaru/souzou.png"
     },
     {
         "uniqueId": "OfficialAz3MajETC",
@@ -942,30 +942,6 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III/101 - Ohayou/ohayou.jpg"
     },
     {
-        "uniqueId": "eIidGlMj16o7ndkhroEQUze29Y2sOc0NI0EZOhYHjDkCcID8qzidILYJm7FCXMti",
-        "tjaFolderPath": "03 OpenTaiko Chapter III/116 - \u5352\u696d2000",
-        "tjaFilesPath": [
-            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/uniqueID.json",
-            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.tja",
-            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.ogg",
-            "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.png"
-        ],
-        "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "1ba3709ab20dab653fd2684b1eedcc1d",
-        "chartSize": 1.95,
-        "chartTitle": "Sotsugyou 2000",
-        "chartSubtitle": "Y.W",
-        "chartDifficulties": {
-            "Edit": 10.6,
-            "Oni": 7,
-            "Hard": 4,
-            "Normal": 3,
-            "Easy": 2
-        },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.ogg",
-        "chartJacketFilePath": "03 OpenTaiko Chapter III/116 - \u5352\u696d2000/\u5352\u696d2000.png"
-    },
-    {
         "uniqueId": "70vlxz919d1rglKaTc3gOt50seCF4iLnYvs9EI9daTGVSYT5nBHcCjuFbLs3HOAd",
         "tjaFolderPath": "03 OpenTaiko Chapter III/106 - colonthree",
         "tjaFilesPath": [
@@ -1013,6 +989,30 @@
         "chartJacketFilePath": "03 OpenTaiko Chapter III/124 - five states of weirdness/five states of weirdness.png"
     },
     {
+        "uniqueId": "7Lstfr408z2EOnuhF37D1dI1xLq56XGtLyvbF1VhZzFtFnge0LY4wPJaxEukaPSQ",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/115 - Shoubu Biyori",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/115 - Shoubu Biyori/uniqueID.json",
+            "03 OpenTaiko Chapter III/115 - Shoubu Biyori/shoubu_biyori.tja",
+            "03 OpenTaiko Chapter III/115 - Shoubu Biyori/shoubu_biyori.ogg",
+            "03 OpenTaiko Chapter III/115 - Shoubu Biyori/shoubu_biyori.png"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "97c4390d4c9bd73b94802d6c52138e28",
+        "chartSize": 1.84,
+        "chartTitle": "Shoubu Biyori",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2,
+            "Edit": 10.7
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/115 - Shoubu Biyori/shoubu_biyori.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/115 - Shoubu Biyori/shoubu_biyori.png"
+    },
+    {
         "uniqueId": "incoherentAz3",
         "tjaFolderPath": "03 OpenTaiko Chapter III/122 - Incoherent Hysteria",
         "tjaFilesPath": [
@@ -1057,30 +1057,6 @@
         },
         "chartAudioFilePath": "03 OpenTaiko Chapter III/130 - The Minotaur/The Minotaur.ogg",
         "chartJacketFilePath": null
-    },
-    {
-        "uniqueId": "sR5rRUAUWt49NPMXqLHdPIWki09vHd84K1xSqfOGv3kkdYAYDF05DU406tyuLKk0",
-        "tjaFolderPath": "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f",
-        "tjaFilesPath": [
-            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/uniqueID.json",
-            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.png",
-            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.ogg",
-            "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.tja"
-        ],
-        "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "c30a13ce02905c72f0ed12eb10478005",
-        "chartSize": 1.68,
-        "chartTitle": "pretty kitty, yes?",
-        "chartSubtitle": "Y.W",
-        "chartDifficulties": {
-            "Oni": 7,
-            "Hard": 5,
-            "Normal": 3,
-            "Easy": 1,
-            "Edit": 9
-        },
-        "chartAudioFilePath": "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.ogg",
-        "chartJacketFilePath": "03 OpenTaiko Chapter III/114 - pretty kitty, yes\uff1f/pretty kitty, yes\uff1f.png"
     },
     {
         "uniqueId": "OfficialAz3HeatC",
@@ -1152,6 +1128,30 @@
         },
         "chartAudioFilePath": "03 OpenTaiko Chapter III/120 - the infinite cityscape/the infinite cityscape.ogg",
         "chartJacketFilePath": null
+    },
+    {
+        "uniqueId": "eIidGlMj16o7ndkhroEQUze29Y2sOc0NI0EZOhYHjDkCcID8qzidILYJm7FCXMti",
+        "tjaFolderPath": "03 OpenTaiko Chapter III/116 - Sotsugyo 2000",
+        "tjaFilesPath": [
+            "03 OpenTaiko Chapter III/116 - Sotsugyo 2000/uniqueID.json",
+            "03 OpenTaiko Chapter III/116 - Sotsugyo 2000/Sotsugyou2000.png",
+            "03 OpenTaiko Chapter III/116 - Sotsugyo 2000/Sotsugyou2000.tja",
+            "03 OpenTaiko Chapter III/116 - Sotsugyo 2000/Sotsugyou2000.ogg"
+        ],
+        "tjaGenreFolder": "03 OpenTaiko Chapter III",
+        "tjaMD5": "bb5e59e4fa4dff92f26f9d1055ce23a8",
+        "chartSize": 1.95,
+        "chartTitle": "Sotsugyou 2000",
+        "chartSubtitle": "Y.W",
+        "chartDifficulties": {
+            "Edit": 10.6,
+            "Oni": 7,
+            "Hard": 4,
+            "Normal": 3,
+            "Easy": 2
+        },
+        "chartAudioFilePath": "03 OpenTaiko Chapter III/116 - Sotsugyo 2000/Sotsugyou2000.ogg",
+        "chartJacketFilePath": "03 OpenTaiko Chapter III/116 - Sotsugyo 2000/Sotsugyou2000.png"
     },
     {
         "uniqueId": "Rjlgw7WEpvImdZ9gRBHYo6UUepREsYo4R4WOMDUnxUWFkevq4br1KjvxTjnBLhH4",
@@ -1340,6 +1340,30 @@
         "chartJacketFilePath": null
     },
     {
+        "uniqueId": "recollapseh888",
+        "tjaFolderPath": "C10 Deceiver's Defiances/032 - ReCollapse",
+        "tjaFilesPath": [
+            "C10 Deceiver's Defiances/032 - ReCollapse/uniqueID.json",
+            "C10 Deceiver's Defiances/032 - ReCollapse/ReCollapse.tja",
+            "C10 Deceiver's Defiances/032 - ReCollapse/ReCollapse.ogg",
+            "C10 Deceiver's Defiances/032 - ReCollapse/ReCollapse.png"
+        ],
+        "tjaGenreFolder": "C10 Deceiver's Defiances",
+        "tjaMD5": "c6ac0f15d99a0557ff6a41ee24d15e80",
+        "chartSize": 5.45,
+        "chartTitle": "Re\uff1aC\u00f8llapse",
+        "chartSubtitle": "H888. (H5 + DashyDesu)",
+        "chartDifficulties": {
+            "Edit": 11.2,
+            "Oni": 10.6,
+            "Hard": 8,
+            "Normal": 8,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "C10 Deceiver's Defiances/032 - ReCollapse/ReCollapse.ogg",
+        "chartJacketFilePath": "C10 Deceiver's Defiances/032 - ReCollapse/ReCollapse.png"
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances/004 - Deceiving The Deceiver",
         "tjaFilesPath": [
@@ -1363,51 +1387,27 @@
         "chartJacketFilePath": null
     },
     {
-        "uniqueId": "recollapseh888",
-        "tjaFolderPath": "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse",
+        "uniqueId": "LMME4WkttkHA52KF4gfyzDHzbBRcWXsnGvHWdC7tRfKvjlUNxBWmXf8ZCTe8yqjQ",
+        "tjaFolderPath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~",
         "tjaFilesPath": [
-            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/uniqueID.json",
-            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.ogg",
-            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.tja",
-            "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.png"
-        ],
-        "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "4b4c6f1555be345ea707efffee32c448",
-        "chartSize": 5.45,
-        "chartTitle": "Re\uff1aC\u00f8llapse",
-        "chartSubtitle": "H888. (H5 + DashyDesu)",
-        "chartDifficulties": {
-            "Edit": 11.2,
-            "Oni": 10.6,
-            "Hard": 8,
-            "Normal": 8,
-            "Easy": 5
-        },
-        "chartAudioFilePath": "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.ogg",
-        "chartJacketFilePath": "C10 Deceiver's Defiances/032 - Re\uff1aC\u00f8llapse/Re\uff1aC\u00f8llapse.png"
-    },
-    {
-        "uniqueId": "Tog1ekITrrvEU0Tcx8RWAYXEfaxAPGLq4f4zhWOlZU0qaLfbMq7DdcCmm4CVXGfy",
-        "tjaFolderPath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~",
-        "tjaFilesPath": [
-            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/uniqueID.json",
-            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.tja",
-            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.ogg",
-            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.png"
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~/uniqueID.json",
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~/Rainy Night II ~Condensation~.tja",
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~/Rainy Night II ~Condensation~.ogg",
+            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~/Rainy Night II.png"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "c9ecff3934cadb92c4f35b4a2a0cd0b1",
-        "chartSize": 10.91,
-        "chartTitle": "Rainy Night II ~M\u0310X~",
+        "tjaMD5": "73e11ff4643e8044c3b2c7810255bdf1",
+        "chartSize": 9.94,
+        "chartTitle": "Rainy Night II ~\u6c34\u51dd\u7d50~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
-            "Oni": 8,
-            "Hard": 6,
-            "Normal": 4,
-            "Easy": 3
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
         },
-        "chartAudioFilePath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~\u7121\u4fe1\u306e\u68ee~/Rainy Night II.png"
+        "chartAudioFilePath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~/Rainy Night II ~Condensation~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~Condensation~/Rainy Night II.png"
     },
     {
         "uniqueId": "iJWSvseMG7mVdm2sLqD3Psm6SSX7H14ZMVc4R5gVLGpaRVVPNQqupGdUzowtciw2",
@@ -1433,83 +1433,13 @@
         "chartJacketFilePath": "E01 Rainy Memories/RM01 - 093 - Rainy Night/Rainy Night.png"
     },
     {
-        "uniqueId": "KJpnHoe2G9s5q6l3ChajeT3KyHmGrvBh7x45rYznQGdXPb6mW2AKtfEJ6QiGGBbg",
-        "tjaFolderPath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~",
-        "tjaFilesPath": [
-            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/uniqueID.json",
-            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III ~\u8f2a\u56de~.tja",
-            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III ~\u8f2a\u56de~.ogg",
-            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III.jpg"
-        ],
-        "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "fe1b1f531159b11c9249ac05fa50b12c",
-        "chartSize": 10.29,
-        "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
-        "chartSubtitle": "Taichenko",
-        "chartDifficulties": {
-            "Oni": 11.0,
-            "Hard": 9,
-            "Normal": 7,
-            "Easy": 5
-        },
-        "chartAudioFilePath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III ~\u8f2a\u56de~.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~\u8f2a\u56de~/Rainy Night III.jpg"
-    },
-    {
-        "uniqueId": "LMME4WkttkHA52KF4gfyzDHzbBRcWXsnGvHWdC7tRfKvjlUNxBWmXf8ZCTe8yqjQ",
-        "tjaFolderPath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~",
-        "tjaFilesPath": [
-            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/uniqueID.json",
-            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II ~\u6c34\u51dd\u7d50~.ogg",
-            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II.png",
-            "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II ~\u6c34\u51dd\u7d50~.tja"
-        ],
-        "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "656df78c9c2367f0f49a8823b63f78d7",
-        "chartSize": 9.94,
-        "chartTitle": "Rainy Night II ~\u6c34\u51dd\u7d50~",
-        "chartSubtitle": "Taichenko",
-        "chartDifficulties": {
-            "Oni": 10.4,
-            "Hard": 8,
-            "Normal": 7,
-            "Easy": 5
-        },
-        "chartAudioFilePath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II ~\u6c34\u51dd\u7d50~.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories/RM06 - 096 - Rainy Night II ~\u6c34\u51dd\u7d50~/Rainy Night II.png"
-    },
-    {
-        "uniqueId": "KtAYRbda0k2yU2usL1XBe6pNdApljBBWdZLP93Fzwa3v2gafn2sMRxF5WMx4QbSV",
-        "tjaFolderPath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~",
-        "tjaFilesPath": [
-            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/uniqueID.json",
-            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III ~\u5e7b\u8679~.ogg",
-            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III ~\u5e7b\u8679~.tja",
-            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III.jpg"
-        ],
-        "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "ccda6bf3931f6eaf15cb508561f97cb4",
-        "chartSize": 9.93,
-        "chartTitle": "Rainy Night III ~\u5e7b\u8679~",
-        "chartSubtitle": "Taichenko",
-        "chartDifficulties": {
-            "Easy": 4,
-            "Normal": 6,
-            "Hard": 8,
-            "Edit": 10.8,
-            "Oni": 10.4
-        },
-        "chartAudioFilePath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III ~\u5e7b\u8679~.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~\u5e7b\u8679~/Rainy Night III.jpg"
-    },
-    {
         "uniqueId": "rnTaichenko",
-        "tjaFolderPath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~",
+        "tjaFolderPath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~",
         "tjaFilesPath": [
-            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/uniqueID.json",
-            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night ~\u5922\u5e7b\u60f3~.tja",
-            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night.png",
-            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night ~ Dream ~.ogg"
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~/uniqueID.json",
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~/Rainy Night ~ Dream ~.tja",
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~/Rainy Night.png",
+            "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~/Rainy Night ~ Dream ~.ogg"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
         "tjaMD5": "b6a206c91f1b422acb3764e234c28136",
@@ -1522,8 +1452,55 @@
             "Normal": 5,
             "Easy": 4
         },
-        "chartAudioFilePath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night ~ Dream ~.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~\u5922\u5e7b\u60f3~/Rainy Night.png"
+        "chartAudioFilePath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~/Rainy Night ~ Dream ~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM03 - 024 - Rainy Night ~Dream~/Rainy Night.png"
+    },
+    {
+        "uniqueId": "KJpnHoe2G9s5q6l3ChajeT3KyHmGrvBh7x45rYznQGdXPb6mW2AKtfEJ6QiGGBbg",
+        "tjaFolderPath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~/Rainy Night III ~Samsara~.tja",
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~/uniqueID.json",
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~/Rainy Night III ~Samsara~.ogg",
+            "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~/Rainy Night III.jpg"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "343044493bb7a73ee9db39e6b439d435",
+        "chartSize": 10.29,
+        "chartTitle": "Rainy Night III ~\u8f2a\u56de~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 11.0,
+            "Hard": 9,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~/Rainy Night III ~Samsara~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM09 - 098 - Rainy Night III ~Samsara~/Rainy Night III.jpg"
+    },
+    {
+        "uniqueId": "KtAYRbda0k2yU2usL1XBe6pNdApljBBWdZLP93Fzwa3v2gafn2sMRxF5WMx4QbSV",
+        "tjaFolderPath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~/uniqueID.json",
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~/Rainy Night III ~Unreal Rainbow~.ogg",
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~/Rainy Night III.jpg",
+            "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~/Rainy Night III ~Unreal Rainbow~.tja"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "04ee71d36b2c0afbecb3b358600d09b7",
+        "chartSize": 9.93,
+        "chartTitle": "Rainy Night III ~\u5e7b\u8679~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Easy": 4,
+            "Normal": 6,
+            "Hard": 8,
+            "Edit": 10.8,
+            "Oni": 10.4
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~/Rainy Night III ~Unreal Rainbow~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM08 - 092 - Rainy Night III ~Unreal Rainbow~/Rainy Night III.jpg"
     },
     {
         "uniqueId": "Unknown",
@@ -1571,16 +1548,39 @@
         "chartJacketFilePath": "E01 Rainy Memories/RM04 - 095 - Rainy Night II/Rainy Night II.png"
     },
     {
-        "uniqueId": "t5zT2oCKpDs2VQ4YOYkMaF59u3c2GEJKOC9IQrXgEDWVFQtO25Vh6Odq0vVYBUcB",
-        "tjaFolderPath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~",
+        "uniqueId": "Tog1ekITrrvEU0Tcx8RWAYXEfaxAPGLq4f4zhWOlZU0qaLfbMq7DdcCmm4CVXGfy",
+        "tjaFolderPath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~",
         "tjaFilesPath": [
-            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/uniqueID.json",
-            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
-            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night ~\u96f2\u98db\u9727\u6563~.tja",
-            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night.png"
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~/uniqueID.json",
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~/Rainy Night II.tja",
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~/Rainy Night II.ogg",
+            "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~/Rainy Night II.png"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "29c21eec0015f2eff988276d9329f099",
+        "tjaMD5": "c9ecff3934cadb92c4f35b4a2a0cd0b1",
+        "chartSize": 10.91,
+        "chartTitle": "Rainy Night II ~M\u0310X~",
+        "chartSubtitle": "Taichenko",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 6,
+            "Normal": 4,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~/Rainy Night II.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM05 - 076 - Rainy Night II ~Forest of lost trust~/Rainy Night II.png"
+    },
+    {
+        "uniqueId": "t5zT2oCKpDs2VQ4YOYkMaF59u3c2GEJKOC9IQrXgEDWVFQtO25Vh6Odq0vVYBUcB",
+        "tjaFolderPath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~",
+        "tjaFilesPath": [
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~/uniqueID.json",
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~/Rainy Night ~Dispelled~.ogg",
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~/Rainy Night ~Dispelled~.tja",
+            "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~/Rainy Night.png"
+        ],
+        "tjaGenreFolder": "E01 Rainy Memories",
+        "tjaMD5": "d28051f3fe3f33204eaf95f9e408c76f",
         "chartSize": 10.97,
         "chartTitle": "Rainy Night ~\u96f2\u98db\u9727\u6563~",
         "chartSubtitle": "Taichenko",
@@ -1590,8 +1590,8 @@
             "Normal": 6,
             "Easy": 3
         },
-        "chartAudioFilePath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night ~\u96f2\u98db\u9727\u6563~.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~\u96f2\u98db\u9727\u6563~/Rainy Night.png"
+        "chartAudioFilePath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~/Rainy Night ~Dispelled~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories/RM02 - 094 - Rainy Night ~Dispelled~/Rainy Night.png"
     },
     {
         "uniqueId": "QYE7wL9QLp0hcARiM811SoWgoeK3vQpw4a7O0Uo4ditWqqE54EcZ3OKzm9j8hpjk",
@@ -3475,6 +3475,30 @@
         "chartJacketFilePath": null
     },
     {
+        "uniqueId": "yamiTfd",
+        "tjaFolderPath": "01 OpenTaiko Chapter I/030 - Yami",
+        "tjaFilesPath": [
+            "01 OpenTaiko Chapter I/030 - Yami/YamiAlbum.jpg",
+            "01 OpenTaiko Chapter I/030 - Yami/uniqueID.json",
+            "01 OpenTaiko Chapter I/030 - Yami/Yami.tja",
+            "01 OpenTaiko Chapter I/030 - Yami/Yami.ogg"
+        ],
+        "tjaGenreFolder": "01 OpenTaiko Chapter I",
+        "tjaMD5": "5d91c3ed4ae6e49b8bdfbe5f1f2102fe",
+        "chartSize": 8.49,
+        "chartTitle": "",
+        "chartSubtitle": "TFD500",
+        "chartDifficulties": {
+            "Edit": 11.3,
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 6,
+            "Easy": 3
+        },
+        "chartAudioFilePath": "01 OpenTaiko Chapter I/030 - Yami/Yami.ogg",
+        "chartJacketFilePath": "01 OpenTaiko Chapter I/030 - Yami/YamiAlbum.jpg"
+    },
+    {
         "uniqueId": "agQmcnW1DEWvmXt6HVR7yyNntpqZEbNV4xUBmOMpxKbpfohxKXBs3msadhWMLvpR",
         "tjaFolderPath": "01 OpenTaiko Chapter I/043 - TRIPLE HELIX",
         "tjaFilesPath": [
@@ -4014,30 +4038,6 @@
         },
         "chartAudioFilePath": "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe.ogg",
         "chartJacketFilePath": "01 OpenTaiko Chapter I/021 - Welcome To The Cafe/WelcomeToTheCafe1.jpg"
-    },
-    {
-        "uniqueId": "yamiTfd",
-        "tjaFolderPath": "01 OpenTaiko Chapter I/030 - \u95c7",
-        "tjaFilesPath": [
-            "01 OpenTaiko Chapter I/030 - \u95c7/YamiAlbum.jpg",
-            "01 OpenTaiko Chapter I/030 - \u95c7/uniqueID.json",
-            "01 OpenTaiko Chapter I/030 - \u95c7/Yami.tja",
-            "01 OpenTaiko Chapter I/030 - \u95c7/Yami.ogg"
-        ],
-        "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "5d91c3ed4ae6e49b8bdfbe5f1f2102fe",
-        "chartSize": 8.49,
-        "chartTitle": "",
-        "chartSubtitle": "TFD500",
-        "chartDifficulties": {
-            "Edit": 11.3,
-            "Oni": 9,
-            "Hard": 8,
-            "Normal": 6,
-            "Easy": 3
-        },
-        "chartAudioFilePath": "01 OpenTaiko Chapter I/030 - \u95c7/Yami.ogg",
-        "chartJacketFilePath": "01 OpenTaiko Chapter I/030 - \u95c7/YamiAlbum.jpg"
     },
     {
         "uniqueId": "gewissSukima",
