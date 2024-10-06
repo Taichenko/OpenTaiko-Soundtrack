@@ -3865,12 +3865,14 @@
             "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "0332c55ace2b691489af490f048d3a34",
-        "chartSize": 19.6,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "866ad20e467e67e7586fb0634a4d5a8f",
+        "chartSize": 19.59,
+        "chartTitle": "\u516d\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 6th Dan",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\1.ogg",
         "chartJacketFilePath": null
     },
     {
@@ -3884,12 +3886,14 @@
             "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "4e7f24b14679a8db34b7a982f062f98c",
-        "chartSize": 7.21,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "008ebbf9e3036460d5da1cd9d0a67a72",
+        "chartSize": 7.2,
+        "chartTitle": "\u4e03\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 7th Dan",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\1.ogg",
         "chartJacketFilePath": null
     },
     {
@@ -3903,12 +3907,14 @@
             "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "54a9007fa70ae7f831d9cd1fda4c7456",
-        "chartSize": 15.61,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "176c035b379672bb32bc9ba22d8ad785",
+        "chartSize": 15.6,
+        "chartTitle": "\u516b\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 8th Dan",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\1.ogg",
         "chartJacketFilePath": null
     },
     {
@@ -3922,12 +3928,14 @@
             "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "319d41788f145ed91bb2c0cb16f7b0de",
-        "chartSize": 16.9,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "d195c22bc495af52e6293b7f93a1aefc",
+        "chartSize": 16.89,
+        "chartTitle": "\u4e5d\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 9th Dan",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\1.ogg",
         "chartJacketFilePath": null
     },
     {
@@ -3941,12 +3949,14 @@
             "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "48ead6aa4221ecf1fbd16406aac7d249",
-        "chartSize": 5.35,
-        "chartTitle": "",
-        "chartSubtitle": "",
-        "chartDifficulties": {},
-        "chartAudioFilePath": null,
+        "tjaMD5": "6abbfcf77a11143fb6461b531f4083d2",
+        "chartSize": 5.34,
+        "chartTitle": "\u5341\u6bb5",
+        "chartSubtitle": "OpenTaiko 2024 10th Dan",
+        "chartDifficulties": {
+            "Dan": 10.6
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\1.ogg",
         "chartJacketFilePath": null
     },
     {
@@ -3960,9 +3970,9 @@
             "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\uniqueID.json"
         ],
         "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "c9c7eba0348d200bda9d0a53510de213",
+        "tjaMD5": "6b336df8a2bc84c2dce4011c87837290",
         "chartSize": 8.55,
-        "chartTitle": "i",
+        "chartTitle": "\u4f8b\u6bb5",
         "chartSubtitle": "",
         "chartDifficulties": {
             "Dan": 10
