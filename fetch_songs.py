@@ -12,15 +12,13 @@ def detect_encoding(file_path):
 
 # Function to calculate the MD5 checksum of a file
 def calculate_md5(file_path, encoding):
-    hash_md5 = hashlib.md5()
     try:
-        with open(file_path, "r", encoding=encoding, errors="ignore") as f:
-            for line in f:
-                hash_md5.update(line.encode(encoding, errors="ignore"))
+        with open(file_path, 'rb') as f:
+            data = f.read()    
+            return hashlib.md5(data).hexdigest()
     except Exception as e:
         print(f"Error calculating MD5 for {file_path}: {e}")
         return None
-    return hash_md5.hexdigest()
 
 # Function to find all files within a folder while ignoring "Replay" folders
 def find_files(folder):
