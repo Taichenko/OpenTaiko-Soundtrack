@@ -3333,9 +3333,9 @@
             "E02 OpenTaiko Headquarters\\HQ02 - 132 - Frozen Rouka\\uniqueID.json"
         ],
         "tjaGenreFolder": "E02 OpenTaiko Headquarters",
-        "tjaMD5": "d79bd5826041bc53b449c36df0d9cd9a",
+        "tjaMD5": "adce2fb3812a2fb3d75e2b8bbe341a2e",
         "chartSize": 2.61,
-        "chartTitle": "NEP0: FR02EN\u30ed\u30a6\u30ab",
+        "chartTitle": "NEP0\uff1aFR02EN\u30ed\u30a6\u30ab",
         "chartSubtitle": "OPTK-HQ=CHANNEL0125",
         "chartDifficulties": {
             "Oni": 9,
