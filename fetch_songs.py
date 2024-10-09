@@ -44,7 +44,9 @@ def parse_tja_file(tja_file_path, base_path):
     chart_subtitle = ""
     chart_audio_file = ""
     chart_jacket_file = ""
+    chart_maker = ""
     chart_difficulties = {}
+    chart_notesdesigner = {}
     
     try:
         with open(tja_file_path, "r", encoding="utf-8-sig", errors="ignore") as tja_file:
@@ -65,8 +67,14 @@ def parse_tja_file(tja_file_path, base_path):
                     chart_audio_file = line.split("WAVE:", 1)[1].strip()
                 elif line.startswith("PREIMAGE:"):
                     chart_jacket_file = line.split("PREIMAGE:", 1)[1].strip()
+                elif line.startswith("MAKER:"):
+                    chart_maker = line.split("MAKER:", 1)[1].strip()
                 elif line.startswith("COURSE:"):
                     current_course = line.split("COURSE:", 1)[1].strip()
+                elif line.startswith("NOTESDESIGNER"):
+                    ndvalue = line.split(":", 1)[1].strip()
+                    if current_course is not None:
+                        chart_notesdesigner[current_course] = ndvalue
                 elif line.startswith("LEVEL:"):
                     # Check if LEVEL contains a decimal point
                     level_value = line.split("LEVEL:", 1)[1].strip()
@@ -90,13 +98,19 @@ def parse_tja_file(tja_file_path, base_path):
     tja_folder = os.path.relpath(os.path.dirname(tja_file_path), base_path)
     chart_audio_file_path = os.path.join(tja_folder, chart_audio_file) if chart_audio_file else None
     chart_jacket_file_path = os.path.join(tja_folder, chart_jacket_file) if chart_jacket_file else None
+    
+    # Set MAKER for all missing NOTESDESIGNER
+    for key in chart_difficulties:
+        if key not in chart_notesdesigner:
+            chart_notesdesigner[key] = chart_maker
 
     return {
         "chartTitle": chart_title,
         "chartSubtitle": chart_subtitle,
         "chartDifficulties": chart_difficulties,
         "chartAudioFilePath": chart_audio_file_path,
-        "chartJacketFilePath": chart_jacket_file_path
+        "chartJacketFilePath": chart_jacket_file_path,
+        "chartMakers": chart_notesdesigner
     }
 
 # Function to generate the JSON data for each .tja file
@@ -159,6 +173,7 @@ def process_tja_files(base_path):
                     "chartTitle": tja_metadata.get("chartTitle"),
                     "chartSubtitle": tja_metadata.get("chartSubtitle"),
                     "chartDifficulties": tja_metadata.get("chartDifficulties"),
+                    "chartMakers": tja_metadata.get("chartMakers"),
                     "chartAudioFilePath": tja_metadata.get("chartAudioFilePath"),
                     "chartJacketFilePath": tja_metadata.get("chartJacketFilePath")
                 })
