@@ -3233,12 +3233,13 @@
         "chartJacketFilePath": "E01 Rainy Memories\\RM06 - 096 - Rainy Night II ~Condensation~\\Rainy Night II.png"
     },
     {
-        "uniqueId": "Unknown",
+        "uniqueId": "rAiNyNiGHTIiITaiChenKO",
         "tjaFolderPath": "E01 Rainy Memories\\RM07 - 097 - Rainy Night III",
         "tjaFilesPath": [
             "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.jpg",
             "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.ogg",
-            "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.tja"
+            "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\Rainy Night III.tja",
+            "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
         "tjaMD5": "20a09077c829ada6db909c5c5f59883d",
