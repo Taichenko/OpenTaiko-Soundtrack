@@ -168,6 +168,14 @@ def process_tja_files(base_path):
 # Main function to create the JSON output
 def create_tja_json(base_path, output_file):
     tja_data = process_tja_files(base_path)
+    
+    hof_append = {}
+    with open('hof.json', 'r') as file:
+        hof_append = json.load(file)
+        for item in tja_data:
+            unique_id = item["uniqueId"]
+            item["chartHoFRanks"] = hof_append.get(unique_id, {})
+    
     with open(output_file, "w", encoding="utf-8") as json_file:
         json.dump(tja_data, json_file, indent=4)
         
