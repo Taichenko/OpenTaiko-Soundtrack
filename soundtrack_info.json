@@ -5025,16 +5025,1059 @@
         }
     },
     {
-        "uniqueId": "optk2024dan1",
-        "tjaFolderPath": "S1 Dan-i Dojo\\11 - \u521d\u6bb5",
+        "uniqueId": "eQjYQu9bWwtfB8GI8Pu0cY3iDfmWhLAsJVA3i8gEi6EgcvBvausCOhSpdCAX4vKH",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\11 - \u521d\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\11 - \u521d\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\11 - \u521d\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\11 - \u521d\u6bb5\\Shodan.tja",
-            "S1 Dan-i Dojo\\11 - \u521d\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\10thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\Overclocked.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\Startup Parade!.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\Yukianesa ~Azure of Ice~.ogg"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "e1e5da4ccb50c5650098497e0d9e900a",
+        "chartSize": 15.26,
+        "chartTitle": "\u521d\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Tenth Kyuu",
+        "chartDifficulties": {
+            "Dan": 1
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\01. 10th Kyuu\\Startup Parade!.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "yBUHAlt8YP2ejeNfNyPXKWd7buIx6G5DmzDbdSiJkvHVa2SVrYVzuPTUARiEs1k3",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\9thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\CITYSCAPE.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\Seismic Shake.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\Summer Overload!.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "a22c3b7ed0572a265b60d8b34b440bea",
+        "chartSize": 12.25,
+        "chartTitle": "\u4e5d\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Ninth Kyuu",
+        "chartDifficulties": {
+            "Dan": 2
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\02. 9th Kyuu\\CITYSCAPE.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "xsTDdOse7RHi08u3qZ49CZ7XUQO2cNhCZTSieVCabgfHcBXWRUlbSRanYXQuzzMB",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\8thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\Alonebirthday.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\Re\uff1aC\u00f8llapse.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\TheNostalgicMessenger.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "2f0b130308e52b31cd2420bb5c1a9fc5",
+        "chartSize": 12.16,
+        "chartTitle": "\u516b\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Eighth Kyuu",
+        "chartDifficulties": {
+            "Dan": 2
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\03. 8th Kyuu\\Alonebirthday.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "UvyZDf8tSIJQryZZLbqyTVDJTN89yfMbv1zvY5fDXw5wZOkffOpPe48hSuWzGndI",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\7thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\Deceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\Fearless.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\TRIPLE HELIX.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "0271db57d4be5e8510416bd0a297f06d",
+        "chartSize": 11.55,
+        "chartTitle": "\u4e03\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Seventh Kyuu",
+        "chartDifficulties": {
+            "Dan": 3
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\04. 7th Kyuu\\Fearless.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "akubwW3NCiUTenShEAc0chPjlP9kB2pIpNkEidD6WkaVEXIH2wRwo2NsCFCw0HMt",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\6thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\Rainy Night ~ Dream ~.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\RUiNED GLORY.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\world.ogg"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "927e6b5c9859ef9e49718035cf20545b",
+        "chartSize": 14.23,
+        "chartTitle": "\u516d\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Sixth Kyuu",
+        "chartDifficulties": {
+            "Dan": 3
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\05. 6th Kyuu\\world.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "E71kYs69nDsOdTGhlTLOirNLjWSIBl5iA0qGFrUJKORpnftvFBEKPtv6KahBtScr",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\2 Steppin Love.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\5thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\lostem.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\Stereotype.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "2c96af24d5aca34694c410cf861f3fea",
+        "chartSize": 12.71,
+        "chartTitle": "\u4e94\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Fifth Kyuu",
+        "chartDifficulties": {
+            "Dan": 4
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\06. 5th Kyuu\\2 Steppin Love.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "9fzpviyGJaOLb1FXVF718Q84G1nE61eZthl2rBCjPnwz5dXSFLEcth9tg3o1ACKQ",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\4thKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\Beyond the Cityscape.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\Corrupted Angel.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\NanjaKorya.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "36bd42fb4d011304ac8e7e35296a3ce6",
+        "chartSize": 6.6,
+        "chartTitle": "\u56db\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Fourth Kyuu",
+        "chartDifficulties": {
+            "Dan": 4
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\07. 4th Kyuu\\Beyond The Cityscape.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "215VIslggiihEEBfzQTLMn6cNWxxxc2SZVg7GYikWhtv1GQ28zjuCwAuHq0jLz6k",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\3rdKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\DeceivingTheDeceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\Liberation.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\PYRAMID.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "6437dae3db4951925dba11a243a28673",
+        "chartSize": 9.13,
+        "chartTitle": "\u4e09\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Third Kyuu",
+        "chartDifficulties": {
+            "Dan": 5
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\08. 3rd Kyuu\\Liberation.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "VswcNanJEGqeItfgNh2GoDgjjoZ64aMTfYoJ0iVK70tyKpe60E3f1ZTUD9qM628L",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\2ndKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\Athazagoraphobia.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\Chasing the Wind.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\ENDOMANCER.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "247c1be79f782e0dcaebc38c4c4a0cf5",
+        "chartSize": 7.13,
+        "chartTitle": "\u4e8c\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 Second Kyuu",
+        "chartDifficulties": {
+            "Dan": 6
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\09. 2nd Kyuu\\ENDOMANCER.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "4r8EB1cUoa2s22e3QkjmhHLMuchfU0vOXcIB69JcxiFbb8OttGme0Q3ccPiXatJb",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\1stKyuu.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\Annihilation.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\Breaking Point.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\GRYSCL.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "7d20a4b53e7467d667d736887c740435",
+        "chartSize": 11.46,
+        "chartTitle": "\u4e00\u7d1a",
+        "chartSubtitle": "OpenTaiko 2023 First Kyuu",
+        "chartDifficulties": {
+            "Dan": 7
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\10. 1st Kyuu\\Breaking Point.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "btMfAo6YXwMpXJBSvJFD0a3OdEUAIVGnaIAgT3FUsKKXC2isMqGolIYJ8aURlibR",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\1stDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\ill.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\NanjaKorya.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\Startup Parade!.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "d5354a06e72fcc82c028e17cb546b70e",
+        "chartSize": 5.87,
+        "chartTitle": "\u521d\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 First Dan",
+        "chartDifficulties": {
+            "Dan": 6
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\11. 1st Dan\\Startup Parade!.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "HAbdV4YqppVAKFQNl57voyNJ2eJOqzMMq637VTkrOGY6agcKekG72Thsmu9JPCGu",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\2 Steppin Love.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\2ndDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\CITYSCAPE.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\Deceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "099031cdbeb6d2522e874b00347fbcb4",
+        "chartSize": 8.33,
+        "chartTitle": "\u4e8c\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Second Dan",
+        "chartDifficulties": {
+            "Dan": 7
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\12. 2nd Dan\\CITYSCAPE.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "fvEj7ZSupX0vqTD3JbLPuLTl1tS3drGkxRrYgFNbe1n48W69N3ZpZYdyeOOxJ9Wf",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\3rdDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\Beyond the Cityscape.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\Every Night.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\Fearless.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "989bbc2399e1acb8d2c85d228f794492",
+        "chartSize": 12.26,
+        "chartTitle": "\u4e09\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Third Dan",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\13. 3rd Dan\\Fearless.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "VwrRIXPOyfgsXs0DVGMH3gPbCsGFADI1jHvKDX0kMASl4xJgPl7atUJFlHVumcwI",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\4thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\ENDOMANCER.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\Liberation.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\MooX - WTF.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "770fbc81281c0a6edd71c6f1c2b55f34",
+        "chartSize": 6.68,
+        "chartTitle": "\u56db\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Fourth Dan",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\14. 4th Dan\\Liberation.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "6Y7AS0OaLotFYxWNsoxH6jpTzR8yEmIBDZdKobzktlwc92cRZCr2BNzzngMMymjw",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\5thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\Athazagoraphobia.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\Corrupted Angel.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\world.ogg"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "fccc97679ab845373f8c0206f44da101",
+        "chartSize": 9.8,
+        "chartTitle": "\u4e94\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Fifth Dan",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\15. 5th Dan\\world.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "n3wNch8wBghT2N92isBAeJP0Q7WPSatoXZ0CsRegPwVJe0t3m59HVpwdZajOonoB",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\6thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\Overclocked.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\TheNostalgicMessenger.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\TRIPLE HELIX.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "3d5e827d77755d5bdb944101b14a06c5",
+        "chartSize": 15.08,
+        "chartTitle": "\u516d\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Sixth Dan",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\16. 6th Dan\\Overclocked.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "zzdzL24btSAI6KWAur1eKAYnwkrMffhHCX2pc1wy5m2o9ePMMibvrFFexa0W3hSG",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\7thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\khatarsis.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\PYRAMID.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\story.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "8d9580eb3a750f711808a67b263c435b",
+        "chartSize": 8.97,
+        "chartTitle": "\u4e03\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Seventh Dan",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\17. 7th Dan\\PYRAMID.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "wtqCtbJLJKfFDKYFJg6uiN8NrBPx70DgFj6v99LL4Un1dlY0pRN5S05PncuF0B1m",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\8thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\DeceivingTheDeceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\Forever Fading Away.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\stars.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "147c202d70ffc87e4cc2c1cb3150e9f6",
+        "chartSize": 8.58,
+        "chartTitle": "i",
+        "chartSubtitle": "OpenTaiko 2023 Eighth Dan",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\stars.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "2pD2AVEXocgFb751VrEnX6HIljxyOF5R5fdWq6AP2Wah8KOSFmUFP22XTpJ2FTPw",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\9thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "587ff80da8cfbe12f54c028916fce742",
+        "chartSize": 12.02,
+        "chartTitle": "\u4e5d\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Ninth Dan",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\19. 9th Dan\\Summer Overload!.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "DiHFETwfYgKEsEgwiFdIsrTI0ZiNeAEatJled3Hr0mPAdZtVJWg3uXC3SLmx0oQa",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\10thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "adbeef25f83970c9aecbd86566c0e89c",
+        "chartSize": 17.21,
+        "chartTitle": "\u5341\u6bb5",
+        "chartSubtitle": "OpenTaiko 2023 Tenth Dan",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\20. 10th Dan\\Rainy Night ~ Dream ~.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "fSFCVEqZ0CX8tIcBJShbnY3IDqdPeLm3IaG8jVxZ4vEIdQEQGcrVDAPh71UY04w1",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\4.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\Kurouto.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "f00da5d0ccafda30b3b0745bb2b8f7a9",
+        "chartSize": 17.4,
+        "chartTitle": "\u7384\u4eba",
+        "chartSubtitle": "OpenTaiko 2023 Kurouto",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\21. Kurouto\\Stereotype.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "x8WlzLf0q1bcRR30R8eUCQiqNzGx5Q2a7NZXY1L3Li9acAPDAqjHaH5bQ1UDMcIU",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\4.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\Meijin.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "5d9a845d5e45aac78ae1e8361f772271",
+        "chartSize": 14.17,
+        "chartTitle": "\u540d\u4eba",
+        "chartSubtitle": "OpenTaiko 2023 Meijin",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\22. Meijin\\Slayer of..ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "Gny6hz0l6KZ2xpIrAXPtrkqOgyOBD6ZTdf2l4Pe8iyUXbW1BHRk1B6v4QfUrfZoY",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\4.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\Choujin.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "c66b7fcd4e20acf19a1f5353f6fca805",
+        "chartSize": 15.8,
+        "chartTitle": "\u8d85\u4eba",
+        "chartSubtitle": "OpenTaiko 2023 Choujin",
+        "chartDifficulties": {
+            "Dan": 11
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\23. Choujin\\br.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "RHLpzDndyv3hn446ymERKSzafQTNvCJLOpfNj7klsmj8k7fXCpsh2C3QccSsjaBo",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\4.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\5.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\Tatsujin.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2023 Dans",
+        "tjaMD5": "308191eecf01d279839862e1a7dedbc9",
+        "chartSize": 13.49,
+        "chartTitle": "\u9054\u4eba",
+        "chartSubtitle": "OpenTaiko 2023 Tatsujin",
+        "chartDifficulties": {
+            "Dan": 12
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\24. Tatsujin\\1.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "tZpYE4mgDtk4lUU7hkR6zRd4Ck9YkCWQCv7g0rEzZ2y3anbFxGH0yK4COpdwOfWd",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\audio.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\Overclocked.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\stars.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
+        "tjaMD5": "0f44f309688be9f359bf2d19df6c8e1e",
+        "chartSize": 13.28,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Dragon's OpenTaiko Favorites",
+        "chartDifficulties": {
+            "Dan": 8
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA0. Gaiden - Dragon's OpenTaiko Favorites\\audio.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "dV4J8CPXOS5XIPFHZgqvF1F9WKOeN4sHnh4y5SLqyGNzHuzZssWKza78jSVSiAC1",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\BassBoL.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\Halcyon.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\Slayer of..ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
+        "tjaMD5": "a6ef30fc20adbe41bc8dc9a89a4ab342",
+        "chartSize": 10.83,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Dashy's OpenTaiko Favorites",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA1. Gaiden - Dashy's OpenTaiko Favorites\\Slayer of..ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "IyTthCfx7PsNmoFE9Tnt2wzPWDURfIVQ5pDEUmnoL1OzuZptRZF4QdybJSlpCwuP",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Bounded Quietude.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Emily.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\rain.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Scarlet Mirage.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Scarlet Soul.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\Vanaheimr.ogg"
+        ],
+        "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
+        "tjaMD5": "a429fc8d3b371020346aeadc6e8f5c72",
+        "chartSize": 16.01,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Komi's OpenTaiko Favorites",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA2. Gaiden - Komi's OpenTaiko Favorites\\rain.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "HH8stp4s5mTJPdxpAyDQnTbvcLmyl3U4MEew5UFS1jahuDNpJG0O00yZKo3xQq9d",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
+        "tjaMD5": "3ef1dacc070a9885b72994f4ab50456d",
+        "chartSize": 10.33,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Bol's OpenTaiko Favorites",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA3. Gaiden - Bol's OpenTaiko Favorites\\Startup Parade!.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "hX7NvfTD2grXlrWjpanzYwggqqD6pNgK7tH4MB7CxpfjGW66RnemSAQADh2M2tAb",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\audio.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\Bounded Quietude.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\TRIPLE HELIX.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
+        "tjaMD5": "5292871819a97281848e1774904e2c45",
+        "chartSize": 8.55,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Takkkom's OpenTaiko Favorites",
+        "chartDifficulties": {
+            "Dan": 11
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA4. Gaiden - Takkkom's OpenTaiko Favorites\\audio.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "Uqr6OEpypAWHkcZG5gRQiEixxeYa2Z7yudhxgTMGeLXwTlBDhJ9NRq5g5FAX3vPh",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\Annihilation.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\khatarsis.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\TheNostalgicMessenger.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GA. OpenTaiko Team Favorites",
+        "tjaMD5": "962603acb4115fdeb8a0595b36035199",
+        "chartSize": 9.77,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "H5's OpenTaiko Favorites",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GA. OpenTaiko Team Favorites\\GA5. Gaiden - H5's OpenTaiko Favorites\\khatarsis.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "t2L5VC16e1XkXp0EjBEqQh1NapjHbgkLezvJcgM7l8zJ4cp9v2dJ0yECR00q39PA",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\Liberation.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\Overclocked.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\Seismic Shake.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "903a7538e374d1d33f53e84f0e80c749",
+        "chartSize": 18.37,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "DeBisco's Mix",
+        "chartDifficulties": {
+            "Dan": 2
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB0. Gaiden - DeBisco's Mix\\Overclocked.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "gBtwQLjP46NznoM0z9pv0xswDiDWrQvWXUZbnUtilHNtEKKT2MtVx7L8HQMTWqhg",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\Gewissenbisse.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\RUiNED GLORY.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\Yukianesa ~Azure of Ice~.ogg"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "b4cbd87853e44f20089e017b8c361f73",
+        "chartSize": 10.76,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Sukima Altera's Mix",
+        "chartDifficulties": {
+            "Dan": 3
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB1. Gaiden - Sukima Altera's Mix\\Gewissenbisse.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "fra8IpXD7yWCf3oHZzO5mGIZ2F9oU3wv9lEKh0F47gXZvTczt3tO7zlvLqAscorZ",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\Breaking Point.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\Shockwave.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\TRIPLE HELIX.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "5c7073b02520d6c5c6ce877711a4f98a",
+        "chartSize": 11.51,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Yonokid's Mix",
+        "chartDifficulties": {
+            "Dan": 5
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB2. Gaiden - Yonokid's Mix\\Shockwave.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "P8ShP5hguLa0b4VDnRAu6ccWHw1oEwks2ABJF9o0T5yNo5NrkLK4doPE8Qjnet5W",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\audio.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\CITYSCAPE.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\lost in the cityscape.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "bbf1cd25855ff83e0a7e746d091ba667",
+        "chartSize": 6.79,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Makotora's Mix",
+        "chartDifficulties": {
+            "Dan": 9
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB3. Gaiden - Makotora's Mix\\CITYSCAPE.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "9c4LRgvXfn12ZnIBeWLXX5RkvqgyeRyulB2HOObB0rI9PPMkMMfU0aMrVyDsf8aE",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\Corrupted Angel.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\DON_T LOOK BACK.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\\u95c7.ogg"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "75879c92cf152eebe4351dae50eb7869",
+        "chartSize": 12.23,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "TFD500's Mix",
+        "chartDifficulties": {
+            "6": 10
+        },
+        "chartMakers": {
+            "6": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\Corrupted Angel.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "R4Fyef2x0hBbVO0pRq3nf0bWZpETHy1qVJAKpVKIWZuqSuQYvchbRtnpRnQ2s7KS",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\Annihilation.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\Deceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\DeceivingTheDeceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "637deb4346666a5d3b768eb56639d8ec",
+        "chartSize": 11.34,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "H5's Mix",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB5. Gaiden - H5's Mix\\Deceiver.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pbmcU0qu9UBNegtnliaCeG7XiwaCd2qE1hSn77qQoDFLEQPK3c3sVOdcT9Yhrm86",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\Alonebirthday.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\Memory.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\Stereotype.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "463daa5f6480b4f969da3a657bba8540",
+        "chartSize": 16.97,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Taichenko's Mix",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB6. Gaiden - Taichenko's Mix\\Alonebirthday.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "23eQlhpTTw0OzQa4nDHRbl3HTBLQpN57NBWO42Gto1BkzhpESQsW8nR5YUi5DQ9x",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\khatarsis.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\Scarlet Soul.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\White Heart.ogg"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "9c64977a1b791fdf53eee6c7f3243e3c",
+        "chartSize": 7.08,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "Cusi's Mix",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB7. Gaiden - Cusi's Mix\\khatarsis.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "tvmVw6pD8JkQ23uGL5UCTX0QfPqs28jQObqDFLdoJTOcmCpQkrq6XXct4WSjeYpy",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\audio.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\Bounded Quietude.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\Vanaheimr.ogg"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "83390aadc0bc327e22a651355653dd5b",
+        "chartSize": 5.87,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "SiLiS's Mix",
+        "chartDifficulties": {
+            "Dan": 11
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB8. Gaiden - SiLiS's Mix\\audio.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "AZHJsyPLu6Mggu30FiQTtaCQw0nWoEVNLs1F5qXH2cfQ5dTNbMDpPgxIobPAWKYj",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\br.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\Chasing the Wind.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\dashydesu.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\Forever Fading Away.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\lostem.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\stars.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\story.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\when.ogg"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "1d7113864bee655860d76060c258b86a",
+        "chartSize": 22.34,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "888 Medley Challenge \u3010Sweet\u3011",
+        "chartDifficulties": {
+            "Dan": 4
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB88. Gaiden - 888 Medley Challenge - Sweet\\Chasing The Wind.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "RcIrYz2kKTT8rWgDpcbc7POEzRrPZ0hJveuMM1aC337d8JXnAfRfylC815tHRdbf",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\br.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\Chasing the Wind.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\dashydesu.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\Forever Fading Away.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\Gaiden.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\lostem.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\stars.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\story.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\when.ogg"
+        ],
+        "tjaGenreFolder": "GB. Artist Fanatic",
+        "tjaMD5": "c3df496233f082d7d81b2735fe1b59dd",
+        "chartSize": 24.11,
+        "chartTitle": "\u5916\u4f1d",
+        "chartSubtitle": "888 Medley Challenge \u3010Spicy\u3011",
+        "chartDifficulties": {
+            "Dan": 10
+        },
+        "chartMakers": {
+            "Dan": ""
+        },
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB888. Gaiden - 888 Medley Challenge - Spicy\\Chasing The Wind.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "optk2024dan1",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5",
+        "tjaFilesPath": [
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\Shodan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "4f369112ab3a59609073f6fae2998072",
         "chartSize": 9.53,
         "chartTitle": "\u521d\u6bb5",
@@ -5045,21 +6088,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\11 - \u521d\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\11 - \u521d\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan2",
-        "tjaFolderPath": "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5\\2ndDan.tja",
-            "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\2ndDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "22fb9cad2ebdfe43382c4dccc5b5b0b5",
         "chartSize": 5.48,
         "chartTitle": "\u4e8c\u6bb5",
@@ -5070,21 +6113,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\12 - \u4e8c\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\12 - \u4e8c\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan3",
-        "tjaFolderPath": "S1 Dan-i Dojo\\13 - \u4e09\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\13 - \u4e09\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\13 - \u4e09\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\13 - \u4e09\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\13 - \u4e09\u6bb5\\3rdDan.tja",
-            "S1 Dan-i Dojo\\13 - \u4e09\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\3rdDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "89368e0e6f62ab8a9ae2a83635b28fd0",
         "chartSize": 6.03,
         "chartTitle": "\u4e09\u6bb5",
@@ -5095,21 +6138,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\13 - \u4e09\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\13 - \u4e09\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan4",
-        "tjaFolderPath": "S1 Dan-i Dojo\\14 - \u56db\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\14 - \u56db\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\14 - \u56db\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\14 - \u56db\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\14 - \u56db\u6bb5\\4thDan.tja",
-            "S1 Dan-i Dojo\\14 - \u56db\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\4thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "64b0d3e2eba3e49694e83ac0a06cd010",
         "chartSize": 20.48,
         "chartTitle": "\u56db\u6bb5",
@@ -5120,21 +6163,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\14 - \u56db\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\14 - \u56db\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan5",
-        "tjaFolderPath": "S1 Dan-i Dojo\\15 - \u4e94\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\15 - \u4e94\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\15 - \u4e94\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\15 - \u4e94\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\15 - \u4e94\u6bb5\\5thDan.tja",
-            "S1 Dan-i Dojo\\15 - \u4e94\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\5thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "79b27359971ad1df0fe081f9075ac030",
         "chartSize": 6.51,
         "chartTitle": "\u4e94\u6bb5",
@@ -5145,21 +6188,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\15 - \u4e94\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\15 - \u4e94\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan6",
-        "tjaFolderPath": "S1 Dan-i Dojo\\16 - \u516d\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\6thDan.tja",
-            "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\6thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "866ad20e467e67e7586fb0634a4d5a8f",
         "chartSize": 19.59,
         "chartTitle": "\u516d\u6bb5",
@@ -5170,21 +6213,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\16 - \u516d\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\16 - \u516d\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan7",
-        "tjaFolderPath": "S1 Dan-i Dojo\\17 - \u4e03\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\7thDan.tja",
-            "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\7thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "008ebbf9e3036460d5da1cd9d0a67a72",
         "chartSize": 7.2,
         "chartTitle": "\u4e03\u6bb5",
@@ -5195,21 +6238,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\17 - \u4e03\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\17 - \u4e03\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan8",
-        "tjaFolderPath": "S1 Dan-i Dojo\\18 - \u516b\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\8thDan.tja",
-            "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\8thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "176c035b379672bb32bc9ba22d8ad785",
         "chartSize": 15.6,
         "chartTitle": "\u516b\u6bb5",
@@ -5220,21 +6263,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\18 - \u516b\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\18 - \u516b\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan9",
-        "tjaFolderPath": "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\9thDan.tja",
-            "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\9thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "d195c22bc495af52e6293b7f93a1aefc",
         "chartSize": 16.89,
         "chartTitle": "\u4e5d\u6bb5",
@@ -5245,21 +6288,21 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\19 - \u4e5d\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\19 - \u4e5d\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "optk2024dan10",
-        "tjaFolderPath": "S1 Dan-i Dojo\\20 - \u5341\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\1.ogg",
-            "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\10thDan.tja",
-            "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\2.ogg",
-            "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\3.ogg",
-            "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\1.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\10thDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\2.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\3.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
+        "tjaGenreFolder": "OpenTaiko 2024 Dans",
         "tjaMD5": "6abbfcf77a11143fb6461b531f4083d2",
         "chartSize": 5.34,
         "chartTitle": "\u5341\u6bb5",
@@ -5270,61 +6313,61 @@
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\20 - \u5341\u6bb5\\1.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2024 Dans\\20 - \u5341\u6bb5\\1.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "cIJCyXU883gyZU5D2sE317xYcPMUYnwhlVQzM1MSrci6znM65C9TLmKuAkWZhQfr",
-        "tjaFolderPath": "S1 Dan-i Dojo\\99. \u4f8b\u6bb5",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\Breaking Point.ogg",
-            "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\CITYSCAPE.ogg",
-            "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\DeceivingTheDeceiver.ogg",
-            "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\ReiDan.tja",
-            "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\uniqueID.json"
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\Breaking Point.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\CITYSCAPE.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\DeceivingTheDeceiver.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\ReiDan.tja",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\uniqueID.json"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "6b336df8a2bc84c2dce4011c87837290",
+        "tjaGenreFolder": "OpenTaiko Example Dans",
+        "tjaMD5": "d1214a638974cd1ebaf1abb75f188f3f",
         "chartSize": 8.55,
         "chartTitle": "\u4f8b\u6bb5",
-        "chartSubtitle": "",
+        "chartSubtitle": "Example Dan",
         "chartDifficulties": {
             "Dan": 10
         },
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\99. \u4f8b\u6bb5\\CITYSCAPE.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99. \u4f8b\u6bb5\\CITYSCAPE.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
     {
         "uniqueId": "qCNzKkLs4jIOYogQx3ZZy3ErWvy55EuSomhch1yqK7XIzTUGOaA0PvhJ6FCo5g7D",
-        "tjaFolderPath": "S1 Dan-i Dojo\\99b. \u4f8b2",
+        "tjaFolderPath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2",
         "tjaFilesPath": [
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\650 HP.ogg",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\Fearless.ogg",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\khatarsis.ogg",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\ReiDeux.tja",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\Re\uff1aC\u00f8llapse.ogg",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\stars.ogg",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\TRIPLE HELIX.ogg",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\uniqueID.json",
-            "S1 Dan-i Dojo\\99b. \u4f8b2\\WelcomeToTheCafe.ogg"
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\650 HP.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\Fearless.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\khatarsis.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\ReiDeux.tja",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\Re\uff1aC\u00f8llapse.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\stars.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\TRIPLE HELIX.ogg",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\uniqueID.json",
+            "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\WelcomeToTheCafe.ogg"
         ],
-        "tjaGenreFolder": "S1 Dan-i Dojo",
-        "tjaMD5": "ff8a3117f03a7fdfbc440a64da1dd35b",
+        "tjaGenreFolder": "OpenTaiko Example Dans",
+        "tjaMD5": "aa6fbb246a1eab408a83a6d87fced3a2",
         "chartSize": 21.04,
         "chartTitle": "\u4f8b2",
-        "chartSubtitle": "",
+        "chartSubtitle": "Example Dan 2",
         "chartDifficulties": {
             "Dan": 10
         },
         "chartMakers": {
             "Dan": ""
         },
-        "chartAudioFilePath": "S1 Dan-i Dojo\\99b. \u4f8b2\\Fearless.ogg",
+        "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko Example Dans\\99b. \u4f8b2\\Fearless.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {}
     },
