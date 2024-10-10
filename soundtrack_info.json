@@ -5460,9 +5460,9 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Dans\\18. 8th Dan\\uniqueID.json"
         ],
         "tjaGenreFolder": "OpenTaiko 2023 Dans",
-        "tjaMD5": "147c202d70ffc87e4cc2c1cb3150e9f6",
+        "tjaMD5": "fd92e96a4e5ca09279d239532144ad8d",
         "chartSize": 8.58,
-        "chartTitle": "i",
+        "chartTitle": "\u516b\u6bb5",
         "chartSubtitle": "OpenTaiko 2023 Eighth Dan",
         "chartDifficulties": {
             "Dan": 9
@@ -5893,15 +5893,15 @@
             "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\\u95c7.ogg"
         ],
         "tjaGenreFolder": "GB. Artist Fanatic",
-        "tjaMD5": "75879c92cf152eebe4351dae50eb7869",
+        "tjaMD5": "d842f2dcbd572acef5adfce623dab8fc",
         "chartSize": 12.23,
         "chartTitle": "\u5916\u4f1d",
         "chartSubtitle": "TFD500's Mix",
         "chartDifficulties": {
-            "6": 10
+            "Dan": 10
         },
         "chartMakers": {
-            "6": ""
+            "Dan": ""
         },
         "chartAudioFilePath": "S1 Dan-i Dojo\\OpenTaiko 2023 Gaidens\\GB. Artist Fanatic\\GB4. Gaiden - TFD500's Mix\\Corrupted Angel.ogg",
         "chartJacketFilePath": null,
