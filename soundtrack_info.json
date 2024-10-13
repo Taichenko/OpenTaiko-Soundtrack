@@ -3509,6 +3509,126 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "iLlbetHeREraCheltyPEx",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\144 - i'll be there",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.jpg",
+            "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.ogg",
+            "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.tja",
+            "04 OpenTaiko Chapter IV\\144 - i'll be there\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "ed31b34a752fc45b6efecae67bcab96b",
+        "chartSize": 5.94,
+        "chartTitle": "i'll be there",
+        "chartSubtitle": "RachelTypeX",
+        "chartDifficulties": {
+            "Oni": 10.5,
+            "Hard": 7,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "bol",
+            "Hard": "bol",
+            "Normal": "bol",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\144 - i'll be there\\i'll be there.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "pARkINgSpOTAlden",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\145 - parking spot",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.ogg",
+            "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.png",
+            "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.tja",
+            "04 OpenTaiko Chapter IV\\145 - parking spot\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "12df4292ec4e75151979b1a0e29349f3",
+        "chartSize": 3.22,
+        "chartTitle": "parking spot",
+        "chartSubtitle": "alden",
+        "chartDifficulties": {
+            "Oni": 6,
+            "Hard": 4,
+            "Normal": 4,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "Dashy",
+            "Hard": "Dashy",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\145 - parking spot\\parkingspot.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "frenzYfEveRmAKOTOrA",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\146 - frenzy fever",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.ogg",
+            "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.png",
+            "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.tja",
+            "04 OpenTaiko Chapter IV\\146 - frenzy fever\\uniqueID.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "cd312160af6ec91465f05846aeca75e5",
+        "chartSize": 3.12,
+        "chartTitle": "frenzy fever",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Oni": 8,
+            "Hard": 5,
+            "Normal": 5,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "Komi",
+            "Normal": "Komi",
+            "Easy": "Komi"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\146 - frenzy fever\\frenzy fever.png",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "STaRlIGHTTRAVeLERgamEeDitSuKiMaaLTErA",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).jpg",
+            "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).ogg",
+            "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).tja",
+            "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "61037f8b52c099b10613b381e13f6f8b",
+        "chartSize": 2.46,
+        "chartTitle": "Starlight Traveler (Game Edit)",
+        "chartSubtitle": "Sukima Altera",
+        "chartDifficulties": {
+            "Oni": 10.4,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).jpg",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [
