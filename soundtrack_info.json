@@ -199,12 +199,12 @@
             "01 OpenTaiko Chapter I\\008 - DONT_LOOK_BACK\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "3711798529a1842671d1eea4b6ada2cc",
+        "tjaMD5": "08df2c48318ba763cf4699126f956263",
         "chartSize": 3.29,
         "chartTitle": "DON'T LOOK BACK",
         "chartSubtitle": "TFD500",
         "chartDifficulties": {
-            "Edit": 12,
+            "Edit": 12.1,
             "Oni": 10.7,
             "Hard": 8,
             "Normal": 7,
@@ -2865,7 +2865,7 @@
             "03 OpenTaiko Chapter III\\119 - Fractured Eternity\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "059d6d5e2606eb0e9cdeb0e2cee1350b",
+        "tjaMD5": "44cc85580f393388e106b6087942ac09",
         "chartSize": 26.09,
         "chartTitle": "Fractured Eternity",
         "chartSubtitle": "ro\u0259r & Toneix",
@@ -2873,7 +2873,7 @@
             "Easy": 6,
             "Hard": 9,
             "Normal": 8,
-            "Oni": 12
+            "Oni": 12.9
         },
         "chartMakers": {
             "Easy": "Komi",
@@ -3762,12 +3762,12 @@
             "C10 Deceiver's Defiances\\073 - Emily\\uniqueID.json"
         ],
         "tjaGenreFolder": "C10 Deceiver's Defiances",
-        "tjaMD5": "a42f77959c125c0126a8a6e7778e74b9",
+        "tjaMD5": "c3d74628c24b9297412d9809f0de480d",
         "chartSize": 4.49,
         "chartTitle": "Emily",
         "chartSubtitle": "H5",
         "chartDifficulties": {
-            "Edit": 12,
+            "Edit": 12.0,
             "Oni": 7,
             "Hard": 9,
             "Normal": 7,
@@ -4151,12 +4151,12 @@
             "C12 Dashy's Secrets\\080 - I want to bloom\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "137993b9846dac3a8e713d1e4d0a5f74",
+        "tjaMD5": "3d2854834de21c4cccaf87c94c4ebf38",
         "chartSize": 2.84,
         "chartTitle": "I WANT TO BL00000000M",
         "chartSubtitle": "DashyDesu",
         "chartDifficulties": {
-            "Edit": 12,
+            "Edit": 12.4,
             "Oni": 10.8,
             "Hard": 8,
             "Normal": 6,
