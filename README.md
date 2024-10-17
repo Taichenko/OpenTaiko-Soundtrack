@@ -152,6 +152,8 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 145 - parking spot : alden - https://twitter.com/aldentweeting (Chart by Dashy, Komi)
 146 - frenzy fever : Makotora - https://kingmakotora.bandcamp.com (Chart by Komi)
 147 - Starlight Traveler (Game Edit) : Sukima Altera - https://yokaicore.bandcamp.com/album/starlight-traveler (Chart by sadkay)
+148 - tiny windows : Frizk x Tanger - https://linktr.ee/Tangermusic https://linktr.ee/frizkfur (Chart by sadkay)
+149 - ∀NARCHIC LIGHT : roər - SC ➜ https://soundcloud.com/rroer TW ➜ https://twitter.com/roerdtm YT ➜ https://www.youtube.com/@roer-music (Chart by DiamondN1nja)
 ```
 
 ### Visuals
