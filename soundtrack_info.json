@@ -1045,13 +1045,13 @@
             "01 OpenTaiko Chapter I\\044 - Memory\\uniqueID.json"
         ],
         "tjaGenreFolder": "01 OpenTaiko Chapter I",
-        "tjaMD5": "9798922cbb7a55facb05e138a9ac360a",
+        "tjaMD5": "413154387ee8dbddc675063b520fd024",
         "chartSize": 2.5,
         "chartTitle": "Memory",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Edit": 11.2,
-            "Oni": 10.4,
+            "Oni": 10.1,
             "Hard": 8,
             "Normal": 4,
             "Easy": 2
@@ -1574,13 +1574,13 @@
             "02 OpenTaiko Chapter II\\064 - PLANETES\\uniqueID.json"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "b167a2c7db4b84b4b4ea3475d067b475",
+        "tjaMD5": "95c1c181a369ae1134a3cae86f85b9ea",
         "chartSize": 2.94,
         "chartTitle": "PLANETES",
         "chartSubtitle": "SiLiS",
         "chartDifficulties": {
             "Oni": 7,
-            "Edit": 10.6,
+            "Edit": 10.4,
             "Hard": 6,
             "Normal": 4,
             "Easy": 2
@@ -2510,7 +2510,7 @@
             "03 OpenTaiko Chapter III\\108 - FINAL HOPE\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "aa317c112a3a2cf1a248b1bcaf7dfdf5",
+        "tjaMD5": "37856655290a89267ea373e6e241cbd2",
         "chartSize": 2.65,
         "chartTitle": "FINAL HOPE",
         "chartSubtitle": "Underscore",
@@ -3626,6 +3626,68 @@
         },
         "chartAudioFilePath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).ogg",
         "chartJacketFilePath": "04 OpenTaiko Chapter IV\\147 - Starlight Traveler (Game Edit)\\Starlight Traveler (Game Edit).jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "tiNyWIndoWSFrIZKXTaNGER",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\148 - tiny windows",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.jpg",
+            "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.ogg",
+            "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.tja",
+            "04 OpenTaiko Chapter IV\\148 - tiny windows\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "48a1c403de115182ff22d13e818e07c9",
+        "chartSize": 2.91,
+        "chartTitle": "tiny windows",
+        "chartSubtitle": "Frizk x Tanger",
+        "chartDifficulties": {
+            "Oni": 7,
+            "Hard": 5,
+            "Normal": 4,
+            "Easy": 2
+        },
+        "chartMakers": {
+            "Oni": "sadkay",
+            "Hard": "sadkay",
+            "Normal": "sadkay",
+            "Easy": "sadkay"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\148 - tiny windows\\tiny windows.jpg",
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "NarcHIclIGhTRor",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.jpg",
+            "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.ogg",
+            "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.tja",
+            "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "6b1401f7658e129b4f57b58e118c869d",
+        "chartSize": 3.33,
+        "chartTitle": "\u2200NARCHIC LIGHT",
+        "chartSubtitle": "ro\u0259r",
+        "chartDifficulties": {
+            "Edit": 10.4,
+            "Oni": 9,
+            "Hard": 6,
+            "Normal": 6,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Edit": "DiamondN1nja",
+            "Oni": "DiamondN1nja",
+            "Hard": "DiamondN1nja",
+            "Normal": "DiamondN1nja",
+            "Easy": "DiamondN1nja"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\149 - ANARCHIC LIGHT\\ANARCHIC LIGHT.jpg",
         "chartHoFRanks": {}
     },
     {
