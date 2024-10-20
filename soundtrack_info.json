@@ -2099,12 +2099,12 @@
         "tjaFolderPath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams",
         "tjaFilesPath": [
             "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\uniqueID.json",
-            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~.ogg",
-            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~.tja"
+            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~.ogg",
+            "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~.tja"
         ],
         "tjaGenreFolder": "02 OpenTaiko Chapter II",
-        "tjaMD5": "f476ed310410c50f2802d1abf63182f4",
-        "chartSize": 6.18,
+        "tjaMD5": "c86cdc964aab1bea044a1641459493e6",
+        "chartSize": 0.01,
         "chartTitle": "Resentment ~The Whittling of Fragmented Dreams~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -2121,7 +2121,7 @@
             "Easy": "Komi",
             "Oni": "Taichenko"
         },
-        "chartAudioFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6f38\u6d88\u6b98\u5922~.ogg",
+        "chartAudioFilePath": "02 OpenTaiko Chapter II\\086 - Disappearing dreams\\\u6028\u5ff5~\u6e10\u6d88\u6b8b\u68a6~.ogg",
         "chartJacketFilePath": null,
         "chartHoFRanks": {
             "Edit": 7
@@ -3272,7 +3272,7 @@
             "03 OpenTaiko Chapter III\\133 - Fungus Night Carnival ~ Rhythm of the war\\uniqueID.json"
         ],
         "tjaGenreFolder": "03 OpenTaiko Chapter III",
-        "tjaMD5": "c95240bea57d87ee9ad500ae756aea77",
+        "tjaMD5": "f8240569ddd178dae824b99ce6219d6e",
         "chartSize": 5.88,
         "chartTitle": "Fungus Night Carnival ~ Rhythm of the war",
         "chartSubtitle": "Taichenko",
@@ -4406,7 +4406,7 @@
             "E01 Rainy Memories\\RM01 - 093 - Rainy Night\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "bc9dd1502652cabaa304abfd7986e593",
+        "tjaMD5": "172f471bdf1d81a15dbcae45e705d442",
         "chartSize": 7.31,
         "chartTitle": "Rainy Night",
         "chartSubtitle": "Taichenko",
@@ -4436,8 +4436,8 @@
             "E01 Rainy Memories\\RM02 - 094 - Rainy Night ~Dispelled~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "97f47afb4c919032ecc717c63a5bcf1a",
-        "chartSize": 10.97,
+        "tjaMD5": "7776ef1d8bf1a60113f99182d1e314bf",
+        "chartSize": 0.22,
         "chartTitle": "Rainy Night ~Dispelled~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
@@ -4458,17 +4458,17 @@
     },
     {
         "uniqueId": "rnTaichenko",
-        "tjaFolderPath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~",
+        "tjaFolderPath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~",
         "tjaFilesPath": [
-            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~\\Rainy Night ~ Dream ~.ogg",
-            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~\\Rainy Night ~ Dream ~.tja",
-            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~\\Rainy Night.png",
-            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~\\uniqueID.json"
+            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.ogg",
+            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.tja",
+            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night.png",
+            "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "6b1befc3dbbbce3227d2fa63ef20831e",
-        "chartSize": 8.9,
-        "chartTitle": "Rainy Night ~Dream~",
+        "tjaMD5": "dc773101b4bac2ddf03131498ba61ca0",
+        "chartSize": 0.22,
+        "chartTitle": "Rainy Night ~Dream Fantasy~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Oni": 9,
@@ -4482,8 +4482,8 @@
             "Normal": "\u98a8\u306b\u4e57\u3063\u3066go",
             "Easy": "\u98a8\u306b\u4e57\u3063\u3066go"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~\\Rainy Night ~ Dream ~.ogg",
-        "chartJacketFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream~\\Rainy Night.png",
+        "chartAudioFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night ~Dream Fantasy~.ogg",
+        "chartJacketFilePath": "E01 Rainy Memories\\RM03 - 024 - Rainy Night ~Dream Fantasy~\\Rainy Night.png",
         "chartHoFRanks": {}
     },
     {
@@ -4496,7 +4496,7 @@
             "E01 Rainy Memories\\RM04 - 095 - Rainy Night II\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "5cd7cddc54a39fdb0a8a961293569d62",
+        "tjaMD5": "a1978241689bf62d6740976bf05ab2e7",
         "chartSize": 13.23,
         "chartTitle": "Rainy Night II",
         "chartSubtitle": "Taichenko",
@@ -4520,15 +4520,15 @@
         "uniqueId": "Tog1ekITrrvEU0Tcx8RWAYXEfaxAPGLq4f4zhWOlZU0qaLfbMq7DdcCmm4CVXGfy",
         "tjaFolderPath": "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~",
         "tjaFilesPath": [
-            "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II.ogg",
+            "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II ~Forest of Lost Trust~.ogg",
+            "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II ~Forest of Lost Trust~.tja",
             "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II.png",
-            "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II.tja",
             "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "645a4ab614cd78870d7380e623ddbae0",
-        "chartSize": 10.91,
-        "chartTitle": "Rainy Night II -Forest of Lost Trust-",
+        "tjaMD5": "925d3df77ba0cb2c5966099e75f06b89",
+        "chartSize": 0.29,
+        "chartTitle": "Rainy Night II ~Forest of Lost Trust~",
         "chartSubtitle": "Taichenko",
         "chartDifficulties": {
             "Oni": 8,
@@ -4542,7 +4542,7 @@
             "Normal": "Komi",
             "Easy": "Komi"
         },
-        "chartAudioFilePath": "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II.ogg",
+        "chartAudioFilePath": "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II ~Forest of Lost Trust~.ogg",
         "chartJacketFilePath": "E01 Rainy Memories\\RM05 - 076 - Rainy Night II ~Forest of lost trust~\\Rainy Night II.png",
         "chartHoFRanks": {}
     },
@@ -4556,7 +4556,7 @@
             "E01 Rainy Memories\\RM06 - 096 - Rainy Night II ~Condensation~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "607163c64989f8b80453fb50f98723bb",
+        "tjaMD5": "36be1714eb0d76b47d6ac753e3e816d9",
         "chartSize": 9.94,
         "chartTitle": "Rainy Night II ~Condensation~",
         "chartSubtitle": "Taichenko",
@@ -4586,7 +4586,7 @@
             "E01 Rainy Memories\\RM07 - 097 - Rainy Night III\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "20a09077c829ada6db909c5c5f59883d",
+        "tjaMD5": "49f2ce6ea00eb4d9bd8b05f0da1ac11d",
         "chartSize": 12.98,
         "chartTitle": "Rainy Night III",
         "chartSubtitle": "Taichenko",
@@ -4618,7 +4618,7 @@
             "E01 Rainy Memories\\RM08 - 092 - Rainy Night III ~Unreal Rainbow~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "8e547eb0dbfb011e4cf3bcc35a44ec4a",
+        "tjaMD5": "63b6a1ce50819710d2e885eda2b4e509",
         "chartSize": 9.93,
         "chartTitle": "Rainy Night III ~Unreal Rainbow~",
         "chartSubtitle": "Taichenko",
@@ -4652,7 +4652,7 @@
             "E01 Rainy Memories\\RM09 - 098 - Rainy Night III ~Samsara~\\uniqueID.json"
         ],
         "tjaGenreFolder": "E01 Rainy Memories",
-        "tjaMD5": "2677075f9b03d0db5dbc434aa5872878",
+        "tjaMD5": "b2041000309d06d323630ff4d51fb53a",
         "chartSize": 10.29,
         "chartTitle": "Rainy Night III ~Samsara~",
         "chartSubtitle": "Taichenko",
@@ -4905,7 +4905,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T01 - Evil Gala\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "b32a420de8046a20c8201a7fc471a15b",
+        "tjaMD5": "eeae2f6ea53b022237b89bd8d39e1dc3",
         "chartSize": 9.48,
         "chartTitle": "Evil Gala",
         "chartSubtitle": "Touhou Project Arrange / Moox",
@@ -4936,7 +4936,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T02 - Spread My Wings\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "536b4ca50f2b16c55763637005234e37",
+        "tjaMD5": "2153dc78734ad45cd5ba41d320351288",
         "chartSize": 3.61,
         "chartTitle": "Spread My Wings",
         "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Slothington",
@@ -4966,7 +4966,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T03 - The Scarlet Fog Machine Incident\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "78e05eb6c800ee944ba4bbcbfb3ea1ee",
+        "tjaMD5": "307f89ae82ad6633285a63606611bc24",
         "chartSize": 3.4,
         "chartTitle": "Remilia, Watashi no Kage ~ The Scarlet Fog Machine Incident",
         "chartSubtitle": "Touhou Project Arrange / Jezebel Ciccone",
@@ -4997,7 +4997,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T04 - Confession\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "041a8eb065dc02c64e444f17b6b4b500",
+        "tjaMD5": "6e9c97f0abb4b09eb95f6d3df2ccd97a",
         "chartSize": 5.43,
         "chartTitle": "Confession",
         "chartSubtitle": "Touhou Project Arrange / TTL ft. Kanata",
@@ -5028,7 +5028,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T05 - War Zone\\War Zone.vtt"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "46cc5d07eb04e942e8d14a5b64a91bde",
+        "tjaMD5": "b70348a62c3069c943ce0bfaa9ad9ccf",
         "chartSize": 3.07,
         "chartTitle": "War Zone",
         "chartSubtitle": "Touhou Project Arrange / WORLDWIDEWOLF feat. Timothy",
@@ -5059,7 +5059,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T06 - Journey\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "72a5f3f396b39bf93a455ba70f65bf9c",
+        "tjaMD5": "ad808e8b56c81d7bf439aa909af5a01f",
         "chartSize": 5.48,
         "chartTitle": "Journey",
         "chartSubtitle": "Touhou Project Arrange / DJ Timotei ft. Tsuu",
@@ -5088,7 +5088,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T07 - Abyss\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "1a378a0dfaa119980d1b5c9e3e645e97",
+        "tjaMD5": "d7c958bb6461419643e70194c7c0fa04",
         "chartSize": 10.18,
         "chartTitle": "Abyss",
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
@@ -5118,7 +5118,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T08 - Exterminate\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "d24bb0cc0448888459cab292b9a31157",
+        "tjaMD5": "8309699967460cd8db978600714cfe4b",
         "chartSize": 11.07,
         "chartTitle": "Exterminate",
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
@@ -5148,7 +5148,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T09 - Imperfect Cherry Blossom\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "7f90b417cf2c6e9b3a73f74b84247a44",
+        "tjaMD5": "59e07c4f8839bd5420532fb239a39382",
         "chartSize": 3.79,
         "chartTitle": "Imperfect Cherry Blossom",
         "chartSubtitle": "Touhou Project Arrange / Whitetail",
@@ -5179,7 +5179,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T10 - Disintegrated Laevatein\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "9a7a90af1e1aee73e25a8efde34bb543",
+        "tjaMD5": "8ed1ef0c1c37b977da1d99e442e760e2",
         "chartSize": 7.58,
         "chartTitle": "Disintegrated Laevatein",
         "chartSubtitle": "Touhou Project Arrange / Taichenko",
@@ -5212,10 +5212,10 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T11 - Cirno in Quarantine\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "5a58ad894ea8f194a5319007302b102f",
+        "tjaMD5": "95dfd1e3f9e2f605567351416d53b2d3",
         "chartSize": 1.57,
         "chartTitle": "Cirno in Quarantine",
-        "chartSubtitle": "H5",
+        "chartSubtitle": "Touhou Project Arrange / H5",
         "chartDifficulties": {
             "Oni": 10.5,
             "Hard": 7,
@@ -5243,7 +5243,7 @@
             "L1 Collaborations\\C02 Touhou Arrangements\\T12 - BLINDED CRITICISM\\uniqueID.json"
         ],
         "tjaGenreFolder": "C02 Touhou Arrangements",
-        "tjaMD5": "ff3cd66662265911df45f2d8e81deb4b",
+        "tjaMD5": "090cfe8b4e8185878c77f12db143f837",
         "chartSize": 5.13,
         "chartTitle": "BLINDED CRITICISM (OpenTaiko Edit)",
         "chartSubtitle": "Touhou Project Arrange / DeBisco & Zovi",
