@@ -3691,6 +3691,67 @@
         "chartHoFRanks": {}
     },
     {
+        "uniqueId": "MirACLeCAStlEPIRENDorAROR",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\150 - Miracle Castle",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\Miracle Castle.ogg",
+            "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\Miracle Castle.tja",
+            "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "592794fc28a4bf4fdb451d4acd5a993e",
+        "chartSize": 2.17,
+        "chartTitle": "Miracle\u2606Castle",
+        "chartSubtitle": "Pirendora & ro\u0259r",
+        "chartDifficulties": {
+            "Oni": 9,
+            "Hard": 8,
+            "Normal": 7,
+            "Easy": 5
+        },
+        "chartMakers": {
+            "Oni": "Komi",
+            "Hard": "bol",
+            "Normal": "Komi",
+            "Easy": "bol"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\150 - Miracle Castle\\Miracle Castle.ogg",
+        "chartJacketFilePath": null,
+        "chartHoFRanks": {}
+    },
+    {
+        "uniqueId": "nanTekotTaMAkotoRa",
+        "tjaFolderPath": "04 OpenTaiko Chapter IV\\152 - nante kotta",
+        "tjaFilesPath": [
+            "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.ogg",
+            "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.png",
+            "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.tja",
+            "04 OpenTaiko Chapter IV\\152 - nante kotta\\uniqueId.json"
+        ],
+        "tjaGenreFolder": "04 OpenTaiko Chapter IV",
+        "tjaMD5": "76c3f49b8f3ae378b24e786cba675460",
+        "chartSize": 3.56,
+        "chartTitle": "nante kotta?!",
+        "chartSubtitle": "Makotora",
+        "chartDifficulties": {
+            "Edit": 10,
+            "Oni": 9,
+            "Hard": 7,
+            "Normal": 5,
+            "Easy": 4
+        },
+        "chartMakers": {
+            "Edit": "Makotora",
+            "Oni": "Makotora",
+            "Hard": "Makotora",
+            "Normal": "Makotora",
+            "Easy": "Makotora"
+        },
+        "chartAudioFilePath": "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.ogg",
+        "chartJacketFilePath": "04 OpenTaiko Chapter IV\\152 - nante kotta\\nante kotta.png",
+        "chartHoFRanks": {}
+    },
+    {
         "uniqueId": "dtdH5",
         "tjaFolderPath": "C10 Deceiver's Defiances\\004 - Deceiving The Deceiver",
         "tjaFilesPath": [
@@ -3920,7 +3981,7 @@
             "C12 Dashy's Secrets\\026 - Lost Emotion\\uniqueID.json"
         ],
         "tjaGenreFolder": "C12 Dashy's Secrets",
-        "tjaMD5": "5414c30a7c65769c12c101562fdd696d",
+        "tjaMD5": "6096b57bd81846ddec0472a8d1e643de",
         "chartSize": 35.79,
         "chartTitle": "Lost Emotion.",
         "chartSubtitle": "DashyDesu",
