@@ -259,7 +259,7 @@ Journey - DJ Timotei ft. つぅ [DJ Timotei (https://www.youtube.com/@DJ_Timotei
 Abyss - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko & Komi)
 Exterminate - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko & Komi)
 Imperfect Cherry Blossom - Whitetail https://soundcloud.com/whitetail-music https://treepunk.bandcamp.com/ https://www.youtube.com/user/whitetailmusic (Chart by Komi)
-Disintegrated Laevatein - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko & Komi)
+崩壊「レーヴァテイン」 - Taichenko https://space.bilibili.com/356518101 (Chart by Taichenko & Komi)
 Cirno in Quarantine - H5 https://linktr.ee/H5Music (Chart by bol)
 BLINDED CRITICISM - DeBisco & Zovi [DeBisco(https://soundcloud.com/debisco https://twitter.com/debiscomusic) Zovi(https://zovi.bandcamp.com/ https://soundcloud.com/zovi https://twitter.com/zovinoise)] (Chart by Komi)
 ```
