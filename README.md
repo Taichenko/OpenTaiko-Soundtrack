@@ -90,7 +90,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 083 - <Bracket> ～破壊ト混沌ノ複製～ : TFD500 - https://www.youtube.com/channel/UCJjrxomZT2973fr8-9Yts_w (Chart by bol (Extreme) and 0AuBSQ)
 084 - Next To You : Astedroid & X3ll3n - https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg https://www.youtube.com/channel/UCNTYFFcsN_0B5-eHf-u_uZg (Chart by sadkay)
 085 - i don't want to see the people i love see me in pain so i sometimes just wanna be left alone to cry in the dark : Sukima Altera - https://yokaicore.bandcamp.com/album/songs-i-made-in-my-spare-time-ep (Chart by Colin)
-086 - 怨念~漸消殘夢~ : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko (Extreme) and 0AuBSQ)
+086 - 怨念~渐消残梦~ : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko (Extreme) and 0AuBSQ)
 087 - Hero's Treasure : TFD500 - https://www.youtube.com/channel/UCJjrxomZT2973fr8-9Yts_w (Chart by berdstep)
 088 - II (Game cut) : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu)
 089 - FunkBoi : SenPi - https://senpimusic.com (Chart by 0AuBSQ, Colin, Shoxk and DragonRatTiger)
@@ -137,7 +137,7 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 130 - The Minotaur : X3ll3n & Benji-G - Follow X3ll3n : • Newgrounds : https://x3ll3n.newgrounds.com/ • Soundcloud : https://soundcloud.com/x3ll3n • Youtube : https://www.youtube.com/channel/UCP7YVa81D4B0oZ2ypDzGGeg • Spotify : https://open.spotify.com/artist/3QR2CfvMJL7sxMwN5UMRGX • Instagram : https://www.instagram.com/x3ll3n_music/ • Other Platforms : https://linktr.ee/x3ll3n  Follow Benji-G : • Newgrounds : https://benji-g.newgrounds.com/ • Soundcloud : https://soundcloud.com/user-763424064 • Youtube : https://www.youtube.com/channel/UC20XOQOSZCS90d4b6Fr0-HA • Spotify : https://open.spotify.com/artist/6YQx6KHLda3S3sd3lxWfa6?si=5gTPy-gBQgOHXm7ZSs8w5A • Twitter: https://twitter.com/Hactastic_ (Chart by Komi)
 131 - CIRCUNFERENCIA : ULKO - https://soundcloud.com/ulkokos (Chart by Colin, Dashy, Komi, DragonRatTiger)
 132 - NEP0: FR02ENロウカ : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
-133 - 菌菇夜祭 ~ 戰奏 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
+133 - 菌孢夜祭 ~ 战奏 : Taichenko - https://space.bilibili.com/356518101 (Chart by Taichenko, Komi)
 134 - Deceiver's Revenge : H5 - https://linktr.ee/H5Music (Chart by bol)
 135 - NEP0：MATSUR1ジケン : OPTK-HQ=CHANNEL0125 (Chart by OPTK-HQ)
 136 - Trapped Passion : DashyDesu - https://www.youtube.com/c/DashyDesu (Chart by DashyDesu)
@@ -154,6 +154,9 @@ All OpenTaiko songs, to be used with the OpenTaiko Hub
 147 - Starlight Traveler (Game Edit) : Sukima Altera - https://yokaicore.bandcamp.com/album/starlight-traveler (Chart by sadkay)
 148 - tiny windows : Frizk x Tanger - https://linktr.ee/Tangermusic https://linktr.ee/frizkfur (Chart by sadkay)
 149 - ∀NARCHIC LIGHT : roər - SC ➜ https://soundcloud.com/rroer TW ➜ https://twitter.com/roerdtm YT ➜ https://www.youtube.com/@roer-music (Chart by DiamondN1nja)
+150 - Miracle☆Castle : ぴれんどらー & roər (Chart by bol, Komi)
+151 - 
+152 - nante kotta?! : Makotora - https://kingmakotora.bandcamp.com (Chart by Makotora)
 ```
 
 ### Visuals
